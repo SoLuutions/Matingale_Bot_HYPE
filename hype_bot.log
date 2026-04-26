@@ -62,3 +62,67 @@
 2026-04-26 23:12:40  INFO               Watching... (RSI: 53.0, Entry Signal: False)
 2026-04-26 23:13:41  INFO      [15:13:40 UTC] Price: $26.6920 | RSI: 53.0 | Up BB: $27.0494 | Layer: 0 | PnL: $0.00
 2026-04-26 23:13:41  INFO               Watching... (RSI: 53.0, Entry Signal: False)
+2026-04-26 23:14:41  INFO      [15:14:41 UTC] Price: $26.6950 | RSI: 53.0 | Up BB: $27.0494 | Layer: 0 | PnL: $0.00
+2026-04-26 23:14:41  INFO               Watching... (RSI: 53.0, Entry Signal: False)
+2026-04-27 00:07:46  INFO      
+⛔  Interrupted by user. Closing any open positions...
+2026-04-27 00:07:46  INFO      ============================================================
+2026-04-27 00:07:46  INFO        Bot stopped. Session PnL: $0.00
+2026-04-27 00:07:46  INFO        Trades: 0  |  Win rate: N/A
+2026-04-27 00:07:46  INFO      ============================================================
+2026-04-27 00:07:50  INFO      ============================================================
+2026-04-27 00:07:50  INFO        HYPE Martingale Short Bot — Starting
+2026-04-27 00:07:50  INFO      ============================================================
+2026-04-27 00:07:50  INFO        Symbol       : HYPE-PERP
+2026-04-27 00:07:50  INFO        Network      : TESTNET
+2026-04-27 00:07:50  INFO        Base size    : $5.0
+2026-04-27 00:07:50  INFO        Multiplier   : 1.5x
+2026-04-27 00:07:50  INFO        Max layers   : 5
+2026-04-27 00:07:50  INFO        RSI threshold: 70
+2026-04-27 00:07:50  INFO        TP / SL      : 2.0% / 6.0%
+2026-04-27 00:07:50  INFO      ============================================================
+2026-04-27 00:07:51  INFO      ✅  Leverage set to 3x cross
+2026-04-27 00:07:51  INFO      [16:07:51 UTC] Price: $26.4610 | RSI: 43.1 | Up BB: $27.1058 | Layer: 0 | PnL: $0.00
+2026-04-27 00:07:51  INFO               Watching... (RSI: 43.1, Entry Signal: False)
+2026-04-27 00:08:52  INFO      [16:08:51 UTC] Price: $26.4530 | RSI: 43.1 | Up BB: $27.1058 | Layer: 0 | PnL: $0.00
+2026-04-27 00:08:52  INFO               Watching... (RSI: 43.1, Entry Signal: False)
+2026-04-27 00:09:52  INFO      [16:09:52 UTC] Price: $26.6200 | RSI: 46.7 | Up BB: $27.0992 | Layer: 0 | PnL: $0.00
+2026-04-27 00:09:52  INFO               Watching... (RSI: 46.7, Entry Signal: False)
+2026-04-27 00:10:52  INFO      [16:10:52 UTC] Price: $26.6200 | RSI: 46.7 | Up BB: $27.0992 | Layer: 0 | PnL: $0.00
+2026-04-27 00:10:52  INFO               Watching... (RSI: 46.7, Entry Signal: False)
+2026-04-27 00:11:53  INFO      [16:11:52 UTC] Price: $26.5950 | RSI: 46.7 | Up BB: $27.0992 | Layer: 0 | PnL: $0.00
+2026-04-27 00:11:53  INFO               Watching... (RSI: 46.7, Entry Signal: False)
+2026-04-27 00:12:53  INFO      [16:12:53 UTC] Price: $26.5670 | RSI: 46.7 | Up BB: $27.0992 | Layer: 0 | PnL: $0.00
+2026-04-27 00:12:53  INFO               Watching... (RSI: 46.7, Entry Signal: False)
+2026-04-27 00:13:53  INFO      [16:13:53 UTC] Price: $26.5850 | RSI: 47.8 | Up BB: $27.0992 | Layer: 0 | PnL: $0.00
+2026-04-27 00:13:53  INFO               Watching... (RSI: 47.8, Entry Signal: False)
+2026-04-27 00:14:54  INFO      [16:14:53 UTC] Price: $26.5850 | RSI: 47.8 | Up BB: $27.0992 | Layer: 0 | PnL: $0.00
+2026-04-27 00:14:54  INFO               Watching... (RSI: 47.8, Entry Signal: False)
+2026-04-27 00:15:54  INFO      [16:15:54 UTC] Price: $26.5850 | RSI: 47.8 | Up BB: $27.0992 | Layer: 0 | PnL: $0.00
+2026-04-27 00:15:54  INFO               Watching... (RSI: 47.8, Entry Signal: False)
+2026-04-27 00:16:54  INFO      [16:16:54 UTC] Price: $26.6420 | RSI: 47.8 | Up BB: $27.0992 | Layer: 0 | PnL: $0.00
+2026-04-27 00:16:54  INFO               Watching... (RSI: 47.8, Entry Signal: False)
+2026-04-27 00:17:55  INFO      [16:17:54 UTC] Price: $26.6440 | RSI: 47.8 | Up BB: $27.0992 | Layer: 0 | PnL: $0.00
+2026-04-27 00:17:55  INFO               Watching... (RSI: 47.8, Entry Signal: False)
+2026-04-27 00:18:55  INFO      [16:18:55 UTC] Price: $26.6420 | RSI: 47.8 | Up BB: $27.0992 | Layer: 0 | PnL: $0.00
+2026-04-27 00:18:55  INFO               Watching... (RSI: 47.8, Entry Signal: False)
+2026-04-27 00:19:55  INFO      [16:19:55 UTC] Price: $26.6380 | RSI: 47.8 | Up BB: $27.0992 | Layer: 0 | PnL: $0.00
+2026-04-27 00:19:55  INFO               Watching... (RSI: 47.8, Entry Signal: False)
+2026-04-27 00:20:56  INFO      [16:20:55 UTC] Price: $26.6140 | RSI: 47.8 | Up BB: $27.0992 | Layer: 0 | PnL: $0.00
+2026-04-27 00:20:56  INFO               Watching... (RSI: 47.8, Entry Signal: False)
+2026-04-27 00:21:56  INFO      [16:21:56 UTC] Price: $26.6030 | RSI: 47.8 | Up BB: $27.0992 | Layer: 0 | PnL: $0.00
+2026-04-27 00:21:56  INFO               Watching... (RSI: 47.8, Entry Signal: False)
+2026-04-27 00:22:34  INFO      ============================================================
+2026-04-27 00:22:34  INFO        HYPE Martingale Short Bot — Starting
+2026-04-27 00:22:34  INFO      ============================================================
+2026-04-27 00:22:34  INFO        Symbol       : HYPE-PERP
+2026-04-27 00:22:34  INFO        Network      : TESTNET
+2026-04-27 00:22:34  INFO        Base size    : $5.0
+2026-04-27 00:22:34  INFO        Multiplier   : 1.5x
+2026-04-27 00:22:34  INFO        Max layers   : 5
+2026-04-27 00:22:34  INFO        RSI threshold: 30
+2026-04-27 00:22:34  INFO        TP / SL      : 2.0% / 6.0%
+2026-04-27 00:22:34  INFO      ============================================================
+2026-04-27 00:22:35  INFO      ✅  Leverage set to 3x cross
+2026-04-27 00:22:35  INFO      [16:22:35 UTC] Price: $26.6280 | RSI: 47.8 | Up BB: $27.0992 | Layer: 0 | PnL: $0.00
+2026-04-27 00:22:35  INFO               Watching... (RSI: 47.8, Entry Signal: False)

@@ -46,7 +46,7 @@ CONFIG = {
 
     # Indicators
     "rsi_period": 14,
-    "rsi_overbought": 70,
+    "rsi_overbought": 30,
     "bb_period": 20,
     "bb_std": 2.0,
     "ema_period": 200,
