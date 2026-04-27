@@ -27,8 +27,8 @@ import eth_account
 # ──────────────────────────────────────────────
 CONFIG = {
     # Wallet
-    "private_key": "0xead56bf56b1cb7876e479061421a938cebea012d480efb3e523545dcf1121960",        # ⚠️  Never share this
-    "wallet_address": "0xead56bf56b1cb7876e479061421a938cebea012d480efb3e523545dcf1121960",
+    "private_key": "0x7b4575fe651d5d1e43279ba0eac511d973b9db130e3a4a007867541276eee05a",        # ⚠️  Never share this
+    "wallet_address": "0x6c076bBCfeb8469B0Bc7647010b44737fE3919e9",
 
     # Network
     "use_mainnet": False,                              # Set True for real money!

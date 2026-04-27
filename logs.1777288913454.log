@@ -1,0 +1,1001 @@
+2026-04-27T04:06:10.036164019Z [err]  2026-04-27 04:06:05  INFO               Watching... (RSI: 56.3, Entry Signal: False)
+2026-04-27T04:07:10.110097902Z [err]  2026-04-27 04:07:05  INFO      [04:07:05 UTC] Price: $27.0690 | RSI: 56.3 | Up BB: $27.1024 | Layer: 0 | PnL: $0.00
+2026-04-27T04:07:10.110109123Z [err]  2026-04-27 04:07:05  INFO               Watching... (RSI: 56.3, Entry Signal: False)
+2026-04-27T04:08:09.784782348Z [err]  2026-04-27 04:08:06  INFO      [04:08:05 UTC] Price: $27.0690 | RSI: 56.3 | Up BB: $27.1024 | Layer: 0 | PnL: $0.00
+2026-04-27T04:08:09.784785452Z [err]  2026-04-27 04:08:06  INFO               Watching... (RSI: 56.3, Entry Signal: False)
+2026-04-27T04:09:09.811017641Z [err]  2026-04-27 04:09:06  INFO      [04:09:06 UTC] Price: $27.0690 | RSI: 56.3 | Up BB: $27.1024 | Layer: 0 | PnL: $0.00
+2026-04-27T04:09:09.811020767Z [err]  2026-04-27 04:09:06  INFO               Watching... (RSI: 56.3, Entry Signal: False)
+2026-04-27T04:10:09.824042296Z [err]  2026-04-27 04:10:07  INFO      [04:10:06 UTC] Price: $27.0690 | RSI: 56.3 | Up BB: $27.1024 | Layer: 0 | PnL: $0.00
+2026-04-27T04:10:09.824046373Z [err]  2026-04-27 04:10:07  INFO               Watching... (RSI: 56.3, Entry Signal: False)
+2026-04-27T04:11:10.014105980Z [err]  2026-04-27 04:11:08  INFO      [04:11:07 UTC] Price: $27.0690 | RSI: 56.3 | Up BB: $27.1024 | Layer: 0 | PnL: $0.00
+2026-04-27T04:11:10.014108710Z [err]  2026-04-27 04:11:08  INFO               Watching... (RSI: 56.3, Entry Signal: False)
+2026-04-27T04:12:09.638240664Z [err]  2026-04-27 04:12:08  INFO      [04:12:08 UTC] Price: $27.0690 | RSI: 56.3 | Up BB: $27.1024 | Layer: 0 | PnL: $0.00
+2026-04-27T04:12:09.638244132Z [err]  2026-04-27 04:12:08  INFO               Watching... (RSI: 56.3, Entry Signal: False)
+2026-04-27T04:13:09.650495362Z [err]  2026-04-27 04:13:09  INFO      [04:13:08 UTC] Price: $27.0690 | RSI: 56.3 | Up BB: $27.1024 | Layer: 0 | PnL: $0.00
+2026-04-27T04:13:09.650498896Z [err]  2026-04-27 04:13:09  INFO               Watching... (RSI: 56.3, Entry Signal: False)
+2026-04-27T04:14:19.658413508Z [err]  2026-04-27 04:14:09  INFO      [04:14:09 UTC] Price: $27.0690 | RSI: 56.3 | Up BB: $27.1024 | Layer: 0 | PnL: $0.00
+2026-04-27T04:14:19.658417820Z [err]  2026-04-27 04:14:09  INFO               Watching... (RSI: 56.3, Entry Signal: False)
+2026-04-27T04:15:19.671414260Z [err]  2026-04-27 04:15:10  INFO      [04:15:09 UTC] Price: $27.0690 | RSI: 56.3 | Up BB: $27.1024 | Layer: 0 | PnL: $0.00
+2026-04-27T04:15:19.671418630Z [err]  2026-04-27 04:15:10  INFO               Watching... (RSI: 56.3, Entry Signal: False)
+2026-04-27T04:16:19.307526310Z [err]  2026-04-27 04:16:10  INFO      [04:16:10 UTC] Price: $27.0690 | RSI: 56.3 | Up BB: $27.1024 | Layer: 0 | PnL: $0.00
+2026-04-27T04:16:19.307529674Z [err]  2026-04-27 04:16:10  INFO               Watching... (RSI: 56.3, Entry Signal: False)
+2026-04-27T04:17:19.315766304Z [err]  2026-04-27 04:17:10  INFO      [04:17:10 UTC] Price: $27.0690 | RSI: 56.3 | Up BB: $27.1024 | Layer: 0 | PnL: $0.00
+2026-04-27T04:17:19.315769570Z [err]  2026-04-27 04:17:10  INFO               Watching... (RSI: 56.3, Entry Signal: False)
+2026-04-27T04:18:19.371411460Z [err]  2026-04-27 04:18:11  INFO      [04:18:10 UTC] Price: $27.0690 | RSI: 56.3 | Up BB: $27.1024 | Layer: 0 | PnL: $0.00
+2026-04-27T04:18:19.371414783Z [err]  2026-04-27 04:18:11  INFO               Watching... (RSI: 56.3, Entry Signal: False)
+2026-04-27T04:19:19.041022097Z [err]  2026-04-27 04:19:11  INFO      [04:19:11 UTC] Price: $27.0690 | RSI: 56.3 | Up BB: $27.1024 | Layer: 0 | PnL: $0.00
+2026-04-27T04:19:19.041026544Z [err]  2026-04-27 04:19:11  INFO               Watching... (RSI: 56.3, Entry Signal: False)
+2026-04-27T04:20:19.155897326Z [err]  2026-04-27 04:20:12  INFO      [04:20:11 UTC] Price: $27.0690 | RSI: 56.3 | Up BB: $27.1024 | Layer: 0 | PnL: $0.00
+2026-04-27T04:20:19.155901354Z [err]  2026-04-27 04:20:12  INFO               Watching... (RSI: 56.3, Entry Signal: False)
+2026-04-27T04:21:19.253361755Z [err]  2026-04-27 04:21:12  INFO      [04:21:12 UTC] Price: $27.0690 | RSI: 56.3 | Up BB: $27.1024 | Layer: 0 | PnL: $0.00
+2026-04-27T04:21:19.253365394Z [err]  2026-04-27 04:21:12  INFO               Watching... (RSI: 56.3, Entry Signal: False)
+2026-04-27T04:22:18.914102084Z [err]  2026-04-27 04:22:12  INFO      [04:22:12 UTC] Price: $27.0690 | RSI: 56.3 | Up BB: $27.1024 | Layer: 0 | PnL: $0.00
+2026-04-27T04:22:18.914106982Z [err]  2026-04-27 04:22:12  INFO               Watching... (RSI: 56.3, Entry Signal: False)
+2026-04-27T04:23:18.933831532Z [err]  2026-04-27 04:23:13  INFO      [04:23:12 UTC] Price: $27.0690 | RSI: 56.3 | Up BB: $27.1024 | Layer: 0 | PnL: $0.00
+2026-04-27T04:23:18.933836089Z [err]  2026-04-27 04:23:13  INFO               Watching... (RSI: 56.3, Entry Signal: False)
+2026-04-27T04:24:19.168180747Z [err]  2026-04-27 04:24:13  INFO      [04:24:13 UTC] Price: $27.0690 | RSI: 56.3 | Up BB: $27.1024 | Layer: 0 | PnL: $0.00
+2026-04-27T04:24:19.168186056Z [err]  2026-04-27 04:24:13  INFO               Watching... (RSI: 56.3, Entry Signal: False)
+2026-04-27T04:25:18.837895217Z [err]  2026-04-27 04:25:14  INFO      [04:25:13 UTC] Price: $27.0690 | RSI: 56.3 | Up BB: $27.1024 | Layer: 0 | PnL: $0.00
+2026-04-27T04:25:18.837898527Z [err]  2026-04-27 04:25:14  INFO               Watching... (RSI: 56.3, Entry Signal: False)
+2026-04-27T04:26:18.845489806Z [err]  2026-04-27 04:26:15  INFO      [04:26:14 UTC] Price: $27.0690 | RSI: 56.3 | Up BB: $27.1024 | Layer: 0 | PnL: $0.00
+2026-04-27T04:26:18.845493140Z [err]  2026-04-27 04:26:15  INFO               Watching... (RSI: 56.3, Entry Signal: False)
+2026-04-27T04:27:19.049330235Z [err]  2026-04-27 04:27:15  INFO      [04:27:15 UTC] Price: $27.0690 | RSI: 56.3 | Up BB: $27.1024 | Layer: 0 | PnL: $0.00
+2026-04-27T04:27:19.049335110Z [err]  2026-04-27 04:27:15  INFO               Watching... (RSI: 56.3, Entry Signal: False)
+2026-04-27T04:28:18.664574558Z [err]  2026-04-27 04:28:16  INFO      [04:28:15 UTC] Price: $27.0690 | RSI: 56.3 | Up BB: $27.1024 | Layer: 0 | PnL: $0.00
+2026-04-27T04:28:18.664577786Z [err]  2026-04-27 04:28:16  INFO               Watching... (RSI: 56.3, Entry Signal: False)
+2026-04-27T04:29:18.695588510Z [err]  2026-04-27 04:29:16  INFO      [04:29:16 UTC] Price: $27.0690 | RSI: 56.3 | Up BB: $27.1024 | Layer: 0 | PnL: $0.00
+2026-04-27T04:29:18.695593190Z [err]  2026-04-27 04:29:16  INFO               Watching... (RSI: 56.3, Entry Signal: False)
+2026-04-27T04:30:18.706739339Z [err]  2026-04-27 04:30:17  INFO      [04:30:16 UTC] Price: $27.0690 | RSI: 56.3 | Up BB: $27.1024 | Layer: 0 | PnL: $0.00
+2026-04-27T04:30:18.706742925Z [err]  2026-04-27 04:30:17  INFO               Watching... (RSI: 56.3, Entry Signal: False)
+2026-04-27T04:31:18.901531308Z [err]  2026-04-27 04:31:17  INFO      [04:31:17 UTC] Price: $27.0690 | RSI: 56.3 | Up BB: $27.1024 | Layer: 0 | PnL: $0.00
+2026-04-27T04:31:18.901534916Z [err]  2026-04-27 04:31:17  INFO               Watching... (RSI: 56.3, Entry Signal: False)
+2026-04-27T04:32:18.917350614Z [err]  2026-04-27 04:32:18  INFO      [04:32:17 UTC] Price: $27.0690 | RSI: 56.3 | Up BB: $27.1024 | Layer: 0 | PnL: $0.00
+2026-04-27T04:32:18.917355359Z [err]  2026-04-27 04:32:18  INFO               Watching... (RSI: 56.3, Entry Signal: False)
+2026-04-27T04:33:18.577332855Z [err]  2026-04-27 04:33:18  INFO      [04:33:18 UTC] Price: $27.0690 | RSI: 56.3 | Up BB: $27.1024 | Layer: 0 | PnL: $0.00
+2026-04-27T04:33:18.577336032Z [err]  2026-04-27 04:33:18  INFO               Watching... (RSI: 56.3, Entry Signal: False)
+2026-04-27T04:34:28.594755050Z [err]  2026-04-27 04:34:19  INFO      [04:34:18 UTC] Price: $27.0720 | RSI: 56.3 | Up BB: $27.1024 | Layer: 0 | PnL: $0.00
+2026-04-27T04:34:28.594757924Z [err]  2026-04-27 04:34:19  INFO               Watching... (RSI: 56.3, Entry Signal: False)
+2026-04-27T04:35:28.602102367Z [err]  2026-04-27 04:35:19  INFO      [04:35:19 UTC] Price: $27.0690 | RSI: 56.3 | Up BB: $27.1024 | Layer: 0 | PnL: $0.00
+2026-04-27T04:35:28.602108393Z [err]  2026-04-27 04:35:19  INFO               Watching... (RSI: 56.3, Entry Signal: False)
+2026-04-27T04:36:28.743090338Z [err]  2026-04-27 04:36:19  INFO      [04:36:19 UTC] Price: $27.0690 | RSI: 56.3 | Up BB: $27.1024 | Layer: 0 | PnL: $0.00
+2026-04-27T04:36:28.743093994Z [err]  2026-04-27 04:36:19  INFO               Watching... (RSI: 56.3, Entry Signal: False)
+2026-04-27T04:37:28.382862728Z [err]  2026-04-27 04:37:20  INFO      [04:37:19 UTC] Price: $27.0760 | RSI: 56.3 | Up BB: $27.1024 | Layer: 0 | PnL: $0.00
+2026-04-27T04:37:28.382865496Z [err]  2026-04-27 04:37:20  INFO               Watching... (RSI: 56.3, Entry Signal: False)
+2026-04-27T04:38:28.388614719Z [err]  2026-04-27 04:38:20  INFO      [04:38:20 UTC] Price: $27.0700 | RSI: 56.3 | Up BB: $27.1024 | Layer: 0 | PnL: $0.00
+2026-04-27T04:38:28.388617622Z [err]  2026-04-27 04:38:20  INFO               Watching... (RSI: 56.3, Entry Signal: False)
+2026-04-27T04:39:28.396198511Z [err]  2026-04-27 04:39:21  INFO      [04:39:20 UTC] Price: $27.0690 | RSI: 56.3 | Up BB: $27.1024 | Layer: 0 | PnL: $0.00
+2026-04-27T04:39:28.396203090Z [err]  2026-04-27 04:39:21  INFO               Watching... (RSI: 56.3, Entry Signal: False)
+2026-04-27T04:40:28.627363902Z [err]  2026-04-27 04:40:21  INFO      [04:40:21 UTC] Price: $27.0690 | RSI: 56.3 | Up BB: $27.1024 | Layer: 0 | PnL: $0.00
+2026-04-27T04:40:28.627369073Z [err]  2026-04-27 04:40:21  INFO               Watching... (RSI: 56.3, Entry Signal: False)
+2026-04-27T04:41:28.256534012Z [err]  2026-04-27 04:41:21  INFO      [04:41:21 UTC] Price: $27.0690 | RSI: 56.3 | Up BB: $27.1024 | Layer: 0 | PnL: $0.00
+2026-04-27T04:41:28.256539024Z [err]  2026-04-27 04:41:21  INFO               Watching... (RSI: 56.3, Entry Signal: False)
+2026-04-27T04:42:28.266558036Z [err]  2026-04-27 04:42:22  INFO      [04:42:21 UTC] Price: $27.0690 | RSI: 56.3 | Up BB: $27.1024 | Layer: 0 | PnL: $0.00
+2026-04-27T04:42:28.266560937Z [err]  2026-04-27 04:42:22  INFO               Watching... (RSI: 56.3, Entry Signal: False)
+2026-04-27T04:43:28.302525296Z [err]  2026-04-27 04:43:22  INFO      [04:43:22 UTC] Price: $27.0690 | RSI: 56.3 | Up BB: $27.1024 | Layer: 0 | PnL: $0.00
+2026-04-27T04:43:28.302528977Z [err]  2026-04-27 04:43:22  INFO               Watching... (RSI: 56.3, Entry Signal: False)
+2026-04-27T04:44:27.940819075Z [err]  2026-04-27 04:44:23  INFO      [04:44:22 UTC] Price: $27.0690 | RSI: 56.3 | Up BB: $27.1024 | Layer: 0 | PnL: $0.00
+2026-04-27T04:44:27.940821962Z [err]  2026-04-27 04:44:23  INFO               Watching... (RSI: 56.3, Entry Signal: False)
+2026-04-27T04:45:27.950994989Z [err]  2026-04-27 04:45:23  INFO      [04:45:23 UTC] Price: $27.0690 | RSI: 56.3 | Up BB: $27.1024 | Layer: 0 | PnL: $0.00
+2026-04-27T04:45:27.950997795Z [err]  2026-04-27 04:45:23  INFO               Watching... (RSI: 56.3, Entry Signal: False)
+2026-04-27T04:46:27.567728361Z [err]  2026-04-27 04:46:24  INFO      [04:46:23 UTC] Price: $27.0690 | RSI: 56.3 | Up BB: $27.1024 | Layer: 0 | PnL: $0.00
+2026-04-27T04:46:27.567731911Z [err]  2026-04-27 04:46:24  INFO               Watching... (RSI: 56.3, Entry Signal: False)
+2026-04-27T04:47:27.578629590Z [err]  2026-04-27 04:47:24  INFO      [04:47:24 UTC] Price: $27.0690 | RSI: 56.3 | Up BB: $27.1024 | Layer: 0 | PnL: $0.00
+2026-04-27T04:47:27.578633721Z [err]  2026-04-27 04:47:24  INFO               Watching... (RSI: 56.3, Entry Signal: False)
+2026-04-27T04:48:27.626812208Z [err]  2026-04-27 04:48:25  INFO      [04:48:24 UTC] Price: $27.0690 | RSI: 56.3 | Up BB: $27.1024 | Layer: 0 | PnL: $0.00
+2026-04-27T04:48:27.626815451Z [err]  2026-04-27 04:48:25  INFO               Watching... (RSI: 56.3, Entry Signal: False)
+2026-04-27T04:49:27.279344897Z [err]  2026-04-27 04:49:25  INFO      [04:49:25 UTC] Price: $27.0690 | RSI: 56.3 | Up BB: $27.1024 | Layer: 0 | PnL: $0.00
+2026-04-27T04:49:27.279347804Z [err]  2026-04-27 04:49:25  INFO               Watching... (RSI: 56.3, Entry Signal: False)
+2026-04-27T04:50:27.307651744Z [err]  2026-04-27 04:50:26  INFO      [04:50:25 UTC] Price: $27.0690 | RSI: 56.3 | Up BB: $27.1024 | Layer: 0 | PnL: $0.00
+2026-04-27T04:50:27.307661448Z [err]  2026-04-27 04:50:26  INFO               Watching... (RSI: 56.3, Entry Signal: False)
+2026-04-27T04:51:26.994689878Z [err]  2026-04-27 04:51:26  INFO      [04:51:26 UTC] Price: $27.0690 | RSI: 56.3 | Up BB: $27.1024 | Layer: 0 | PnL: $0.00
+2026-04-27T04:51:26.994694075Z [err]  2026-04-27 04:51:26  INFO               Watching... (RSI: 56.3, Entry Signal: False)
+2026-04-27T04:52:27.100179538Z [err]  2026-04-27 04:52:27  INFO      [04:52:26 UTC] Price: $27.0690 | RSI: 56.3 | Up BB: $27.1024 | Layer: 0 | PnL: $0.00
+2026-04-27T04:52:27.100183185Z [err]  2026-04-27 04:52:27  INFO               Watching... (RSI: 56.3, Entry Signal: False)
+2026-04-27T04:53:37.103401181Z [err]  2026-04-27 04:53:27  INFO      [04:53:27 UTC] Price: $27.0690 | RSI: 56.3 | Up BB: $27.1024 | Layer: 0 | PnL: $0.00
+2026-04-27T04:53:37.103405764Z [err]  2026-04-27 04:53:27  INFO               Watching... (RSI: 56.3, Entry Signal: False)
+2026-04-27T04:54:37.340449079Z [err]  2026-04-27 04:54:27  INFO      [04:54:27 UTC] Price: $27.0690 | RSI: 56.3 | Up BB: $27.1024 | Layer: 0 | PnL: $0.00
+2026-04-27T04:54:37.340455202Z [err]  2026-04-27 04:54:27  INFO               Watching... (RSI: 56.3, Entry Signal: False)
+2026-04-27T04:55:37.387694073Z [err]  2026-04-27 04:55:28  INFO      [04:55:27 UTC] Price: $27.0690 | RSI: 56.3 | Up BB: $27.1024 | Layer: 0 | PnL: $0.00
+2026-04-27T04:55:37.387697878Z [err]  2026-04-27 04:55:28  INFO               Watching... (RSI: 56.3, Entry Signal: False)
+2026-04-27T04:56:37.044605273Z [err]  2026-04-27 04:56:29  INFO      [04:56:28 UTC] Price: $27.0690 | RSI: 56.3 | Up BB: $27.1024 | Layer: 0 | PnL: $0.00
+2026-04-27T04:56:37.044608267Z [err]  2026-04-27 04:56:29  INFO               Watching... (RSI: 56.3, Entry Signal: False)
+2026-04-27T04:57:37.053396194Z [err]  2026-04-27 04:57:29  INFO      [04:57:29 UTC] Price: $27.0690 | RSI: 56.3 | Up BB: $27.1024 | Layer: 0 | PnL: $0.00
+2026-04-27T04:57:37.053401848Z [err]  2026-04-27 04:57:29  INFO               Watching... (RSI: 56.3, Entry Signal: False)
+2026-04-27T04:58:37.065456479Z [err]  2026-04-27 04:58:30  INFO      [04:58:29 UTC] Price: $27.0690 | RSI: 56.3 | Up BB: $27.1024 | Layer: 0 | PnL: $0.00
+2026-04-27T04:58:37.065460042Z [err]  2026-04-27 04:58:30  INFO               Watching... (RSI: 56.3, Entry Signal: False)
+2026-04-27T04:59:37.171119522Z [err]  2026-04-27 04:59:30  INFO      [04:59:30 UTC] Price: $27.0690 | RSI: 56.3 | Up BB: $27.1024 | Layer: 0 | PnL: $0.00
+2026-04-27T04:59:37.171124653Z [err]  2026-04-27 04:59:30  INFO               Watching... (RSI: 56.3, Entry Signal: False)
+2026-04-27T05:00:36.835483680Z [err]  2026-04-27 05:00:31  INFO      [05:00:30 UTC] Price: $27.0690 | RSI: 56.3 | Up BB: $27.1024 | Layer: 0 | PnL: $0.00
+2026-04-27T05:00:36.835487831Z [err]  2026-04-27 05:00:31  INFO               Watching... (RSI: 56.3, Entry Signal: False)
+2026-04-27T05:01:36.850158968Z [err]  2026-04-27 05:01:31  INFO      [05:01:31 UTC] Price: $27.0690 | RSI: 56.3 | Up BB: $27.1024 | Layer: 0 | PnL: $0.00
+2026-04-27T05:01:36.850163378Z [err]  2026-04-27 05:01:31  INFO               Watching... (RSI: 56.3, Entry Signal: False)
+2026-04-27T05:02:36.865935037Z [err]  2026-04-27 05:02:32  INFO      [05:02:31 UTC] Price: $27.0690 | RSI: 56.3 | Up BB: $27.1024 | Layer: 0 | PnL: $0.00
+2026-04-27T05:02:36.865939695Z [err]  2026-04-27 05:02:32  INFO               Watching... (RSI: 56.3, Entry Signal: False)
+2026-04-27T05:03:36.883272897Z [err]  2026-04-27 05:03:32  INFO      [05:03:32 UTC] Price: $27.0690 | RSI: 56.3 | Up BB: $27.1024 | Layer: 0 | PnL: $0.00
+2026-04-27T05:03:36.883279729Z [err]  2026-04-27 05:03:32  INFO               Watching... (RSI: 56.3, Entry Signal: False)
+2026-04-27T05:04:37.016127871Z [err]  2026-04-27 05:04:33  INFO      [05:04:32 UTC] Price: $27.0690 | RSI: 56.3 | Up BB: $27.1024 | Layer: 0 | PnL: $0.00
+2026-04-27T05:04:37.016134453Z [err]  2026-04-27 05:04:33  INFO               Watching... (RSI: 56.3, Entry Signal: False)
+2026-04-27T05:05:36.708188105Z [err]  2026-04-27 05:05:34  INFO      [05:05:33 UTC] Price: $27.0690 | RSI: 56.3 | Up BB: $27.1024 | Layer: 0 | PnL: $0.00
+2026-04-27T05:05:36.708192409Z [err]  2026-04-27 05:05:34  INFO               Watching... (RSI: 56.3, Entry Signal: False)
+2026-04-27T05:06:36.711834046Z [err]  2026-04-27 05:06:34  INFO      [05:06:34 UTC] Price: $27.0690 | RSI: 56.3 | Up BB: $27.1024 | Layer: 0 | PnL: $0.00
+2026-04-27T05:06:36.711838936Z [err]  2026-04-27 05:06:34  INFO               Watching... (RSI: 56.3, Entry Signal: False)
+2026-04-27T05:07:36.855258427Z [err]  2026-04-27 05:07:34  INFO      [05:07:34 UTC] Price: $27.0690 | RSI: 56.3 | Up BB: $27.1024 | Layer: 0 | PnL: $0.00
+2026-04-27T05:07:36.855262379Z [err]  2026-04-27 05:07:34  INFO               Watching... (RSI: 56.3, Entry Signal: False)
+2026-04-27T05:08:37.044258131Z [err]  2026-04-27 05:08:35  INFO      [05:08:34 UTC] Price: $27.0690 | RSI: 56.3 | Up BB: $27.1024 | Layer: 0 | PnL: $0.00
+2026-04-27T05:08:37.044263266Z [err]  2026-04-27 05:08:35  INFO               Watching... (RSI: 56.3, Entry Signal: False)
+2026-04-27T05:09:36.701824938Z [err]  2026-04-27 05:09:35  INFO      [05:09:35 UTC] Price: $26.8390 | RSI: 28.1 | Up BB: $27.1895 | Layer: 0 | PnL: $0.00
+2026-04-27T05:09:36.701829823Z [err]  2026-04-27 05:09:35  INFO               Watching... (RSI: 28.1, Entry Signal: False)
+2026-04-27T05:10:36.706734833Z [err]  2026-04-27 05:10:36  INFO      [05:10:35 UTC] Price: $26.7010 | RSI: 28.1 | Up BB: $27.1895 | Layer: 0 | PnL: $0.00
+2026-04-27T05:10:36.706740814Z [err]  2026-04-27 05:10:36  INFO               Watching... (RSI: 28.1, Entry Signal: False)
+2026-04-27T05:11:36.815001756Z [err]  2026-04-27 05:11:36  INFO      [05:11:36 UTC] Price: $26.6890 | RSI: 28.1 | Up BB: $27.1895 | Layer: 0 | PnL: $0.00
+2026-04-27T05:11:36.815005314Z [err]  2026-04-27 05:11:36  INFO               Watching... (RSI: 28.1, Entry Signal: False)
+2026-04-27T05:12:46.499984477Z [err]  2026-04-27 05:12:37  INFO      [05:12:36 UTC] Price: $26.6810 | RSI: 28.1 | Up BB: $27.1895 | Layer: 0 | PnL: $0.00
+2026-04-27T05:12:46.499991589Z [err]  2026-04-27 05:12:37  INFO               Watching... (RSI: 28.1, Entry Signal: False)
+2026-04-27T05:13:46.650576117Z [err]  2026-04-27 05:13:37  INFO      [05:13:37 UTC] Price: $26.6800 | RSI: 28.1 | Up BB: $27.1895 | Layer: 0 | PnL: $0.00
+2026-04-27T05:13:46.650581894Z [err]  2026-04-27 05:13:37  INFO               Watching... (RSI: 28.1, Entry Signal: False)
+2026-04-27T05:14:46.300642432Z [err]  2026-04-27 05:14:38  INFO      [05:14:37 UTC] Price: $26.6800 | RSI: 28.1 | Up BB: $27.1895 | Layer: 0 | PnL: $0.00
+2026-04-27T05:14:46.300646379Z [err]  2026-04-27 05:14:38  INFO               Watching... (RSI: 28.1, Entry Signal: False)
+2026-04-27T05:15:46.314947622Z [err]  2026-04-27 05:15:38  INFO      [05:15:38 UTC] Price: $26.8580 | RSI: 41.8 | Up BB: $27.1930 | Layer: 0 | PnL: $0.00
+2026-04-27T05:15:46.314950846Z [err]  2026-04-27 05:15:38  INFO               Watching... (RSI: 41.8, Entry Signal: False)
+2026-04-27T05:16:46.423593730Z [err]  2026-04-27 05:16:39  INFO      [05:16:38 UTC] Price: $26.8540 | RSI: 41.8 | Up BB: $27.1930 | Layer: 0 | PnL: $0.00
+2026-04-27T05:16:46.423597243Z [err]  2026-04-27 05:16:39  INFO               Watching... (RSI: 41.8, Entry Signal: False)
+2026-04-27T05:17:46.126793955Z [err]  2026-04-27 05:17:39  INFO      [05:17:39 UTC] Price: $26.8610 | RSI: 41.8 | Up BB: $27.1930 | Layer: 0 | PnL: $0.00
+2026-04-27T05:17:46.126797480Z [err]  2026-04-27 05:17:39  INFO               Watching... (RSI: 41.8, Entry Signal: False)
+2026-04-27T05:18:46.137219639Z [err]  2026-04-27 05:18:40  INFO      [05:18:39 UTC] Price: $26.8620 | RSI: 41.8 | Up BB: $27.1930 | Layer: 0 | PnL: $0.00
+2026-04-27T05:18:46.137222987Z [err]  2026-04-27 05:18:40  INFO               Watching... (RSI: 41.8, Entry Signal: False)
+2026-04-27T05:19:46.144598172Z [err]  2026-04-27 05:19:40  INFO      [05:19:40 UTC] Price: $26.8620 | RSI: 41.8 | Up BB: $27.1930 | Layer: 0 | PnL: $0.00
+2026-04-27T05:19:46.144601145Z [err]  2026-04-27 05:19:40  INFO               Watching... (RSI: 41.8, Entry Signal: False)
+2026-04-27T05:20:46.318783285Z [err]  2026-04-27 05:20:41  INFO      [05:20:40 UTC] Price: $26.8620 | RSI: 41.8 | Up BB: $27.1930 | Layer: 0 | PnL: $0.00
+2026-04-27T05:20:46.318786671Z [err]  2026-04-27 05:20:41  INFO               Watching... (RSI: 41.8, Entry Signal: False)
+2026-04-27T05:21:45.951930152Z [err]  2026-04-27 05:21:41  INFO      [05:21:41 UTC] Price: $26.8620 | RSI: 41.8 | Up BB: $27.1930 | Layer: 0 | PnL: $0.00
+2026-04-27T05:21:45.951937444Z [err]  2026-04-27 05:21:41  INFO               Watching... (RSI: 41.8, Entry Signal: False)
+2026-04-27T05:22:45.973081537Z [err]  2026-04-27 05:22:42  INFO      [05:22:41 UTC] Price: $26.8620 | RSI: 41.8 | Up BB: $27.1930 | Layer: 0 | PnL: $0.00
+2026-04-27T05:22:45.973087101Z [err]  2026-04-27 05:22:42  INFO               Watching... (RSI: 41.8, Entry Signal: False)
+2026-04-27T05:23:46.010730076Z [err]  2026-04-27 05:23:42  INFO      [05:23:42 UTC] Price: $26.8620 | RSI: 41.8 | Up BB: $27.1930 | Layer: 0 | PnL: $0.00
+2026-04-27T05:23:46.010734518Z [err]  2026-04-27 05:23:42  INFO               Watching... (RSI: 41.8, Entry Signal: False)
+2026-04-27T05:24:45.663368457Z [err]  2026-04-27 05:24:43  INFO      [05:24:42 UTC] Price: $26.8620 | RSI: 41.8 | Up BB: $27.1930 | Layer: 0 | PnL: $0.00
+2026-04-27T05:24:45.663371302Z [err]  2026-04-27 05:24:43  INFO               Watching... (RSI: 41.8, Entry Signal: False)
+2026-04-27T05:25:45.682066199Z [err]  2026-04-27 05:25:43  INFO      [05:25:43 UTC] Price: $26.8620 | RSI: 41.8 | Up BB: $27.1930 | Layer: 0 | PnL: $0.00
+2026-04-27T05:25:45.682070183Z [err]  2026-04-27 05:25:43  INFO               Watching... (RSI: 41.8, Entry Signal: False)
+2026-04-27T05:26:45.840368889Z [err]  2026-04-27 05:26:44  INFO      [05:26:43 UTC] Price: $26.8620 | RSI: 41.8 | Up BB: $27.1930 | Layer: 0 | PnL: $0.00
+2026-04-27T05:26:45.840373560Z [err]  2026-04-27 05:26:44  INFO               Watching... (RSI: 41.8, Entry Signal: False)
+2026-04-27T05:27:45.542941965Z [err]  2026-04-27 05:27:44  INFO      [05:27:44 UTC] Price: $26.8620 | RSI: 41.8 | Up BB: $27.1930 | Layer: 0 | PnL: $0.00
+2026-04-27T05:27:45.542945171Z [err]  2026-04-27 05:27:44  INFO               Watching... (RSI: 41.8, Entry Signal: False)
+2026-04-27T05:28:45.608256275Z [err]  2026-04-27 05:28:44  INFO      [05:28:44 UTC] Price: $26.8620 | RSI: 41.8 | Up BB: $27.1930 | Layer: 0 | PnL: $0.00
+2026-04-27T05:28:45.608259567Z [err]  2026-04-27 05:28:44  INFO               Watching... (RSI: 41.8, Entry Signal: False)
+2026-04-27T05:29:45.812211535Z [err]  2026-04-27 05:29:45  INFO      [05:29:44 UTC] Price: $26.8620 | RSI: 41.8 | Up BB: $27.1930 | Layer: 0 | PnL: $0.00
+2026-04-27T05:29:45.812215057Z [err]  2026-04-27 05:29:45  INFO               Watching... (RSI: 41.8, Entry Signal: False)
+2026-04-27T05:30:55.482134913Z [err]  2026-04-27 05:30:46  INFO      [05:30:45 UTC] Price: $26.8620 | RSI: 41.8 | Up BB: $27.1930 | Layer: 0 | PnL: $0.00
+2026-04-27T05:30:55.482139409Z [err]  2026-04-27 05:30:46  INFO               Watching... (RSI: 41.8, Entry Signal: False)
+2026-04-27T05:31:55.547171544Z [err]  2026-04-27 05:31:46  INFO      [05:31:46 UTC] Price: $26.8620 | RSI: 41.8 | Up BB: $27.1930 | Layer: 0 | PnL: $0.00
+2026-04-27T05:31:55.547176466Z [err]  2026-04-27 05:31:46  INFO               Watching... (RSI: 41.8, Entry Signal: False)
+2026-04-27T05:32:55.821822875Z [err]  2026-04-27 05:32:47  INFO      [05:32:46 UTC] Price: $26.8620 | RSI: 41.8 | Up BB: $27.1930 | Layer: 0 | PnL: $0.00
+2026-04-27T05:32:55.821826405Z [err]  2026-04-27 05:32:47  INFO               Watching... (RSI: 41.8, Entry Signal: False)
+2026-04-27T05:33:55.483344830Z [err]  2026-04-27 05:33:47  INFO      [05:33:47 UTC] Price: $26.8620 | RSI: 41.8 | Up BB: $27.1930 | Layer: 0 | PnL: $0.00
+2026-04-27T05:33:55.483349461Z [err]  2026-04-27 05:33:47  INFO               Watching... (RSI: 41.8, Entry Signal: False)
+2026-04-27T05:34:55.601508494Z [err]  2026-04-27 05:34:48  INFO      [05:34:47 UTC] Price: $26.8620 | RSI: 41.8 | Up BB: $27.1930 | Layer: 0 | PnL: $0.00
+2026-04-27T05:34:55.601511854Z [err]  2026-04-27 05:34:48  INFO               Watching... (RSI: 41.8, Entry Signal: False)
+2026-04-27T05:35:55.255203947Z [err]  2026-04-27 05:35:48  INFO      [05:35:48 UTC] Price: $26.8620 | RSI: 41.8 | Up BB: $27.1930 | Layer: 0 | PnL: $0.00
+2026-04-27T05:35:55.255208040Z [err]  2026-04-27 05:35:48  INFO               Watching... (RSI: 41.8, Entry Signal: False)
+2026-04-27T05:36:55.293743465Z [err]  2026-04-27 05:36:49  INFO      [05:36:48 UTC] Price: $26.8620 | RSI: 41.8 | Up BB: $27.1930 | Layer: 0 | PnL: $0.00
+2026-04-27T05:36:55.293746946Z [err]  2026-04-27 05:36:49  INFO               Watching... (RSI: 41.8, Entry Signal: False)
+2026-04-27T05:37:54.927626029Z [err]  2026-04-27 05:37:49  INFO      [05:37:49 UTC] Price: $26.8620 | RSI: 41.8 | Up BB: $27.1930 | Layer: 0 | PnL: $0.00
+2026-04-27T05:37:54.927628800Z [err]  2026-04-27 05:37:49  INFO               Watching... (RSI: 41.8, Entry Signal: False)
+2026-04-27T05:38:55.124477442Z [err]  2026-04-27 05:38:50  INFO      [05:38:49 UTC] Price: $26.8620 | RSI: 41.8 | Up BB: $27.1930 | Layer: 0 | PnL: $0.00
+2026-04-27T05:38:55.124480345Z [err]  2026-04-27 05:38:50  INFO               Watching... (RSI: 41.8, Entry Signal: False)
+2026-04-27T05:39:54.926702094Z [err]  2026-04-27 05:39:50  INFO      [05:39:50 UTC] Price: $26.8620 | RSI: 41.8 | Up BB: $27.1930 | Layer: 0 | PnL: $0.00
+2026-04-27T05:39:54.926704621Z [err]  2026-04-27 05:39:50  INFO               Watching... (RSI: 41.8, Entry Signal: False)
+2026-04-27T05:40:55.085326996Z [err]  2026-04-27 05:40:51  INFO      [05:40:50 UTC] Price: $26.8620 | RSI: 41.8 | Up BB: $27.1930 | Layer: 0 | PnL: $0.00
+2026-04-27T05:40:55.085330525Z [err]  2026-04-27 05:40:51  INFO               Watching... (RSI: 41.8, Entry Signal: False)
+2026-04-27T05:41:54.672794688Z [err]  2026-04-27 05:41:51  INFO      [05:41:51 UTC] Price: $26.8620 | RSI: 41.8 | Up BB: $27.1930 | Layer: 0 | PnL: $0.00
+2026-04-27T05:41:54.672797957Z [err]  2026-04-27 05:41:51  INFO               Watching... (RSI: 41.8, Entry Signal: False)
+2026-04-27T05:42:54.843629428Z [err]  2026-04-27 05:42:52  INFO      [05:42:51 UTC] Price: $26.8620 | RSI: 41.8 | Up BB: $27.1930 | Layer: 0 | PnL: $0.00
+2026-04-27T05:42:54.843632582Z [err]  2026-04-27 05:42:52  INFO               Watching... (RSI: 41.8, Entry Signal: False)
+2026-04-27T05:43:54.562157923Z [err]  2026-04-27 05:43:52  INFO      [05:43:52 UTC] Price: $26.8620 | RSI: 41.8 | Up BB: $27.1930 | Layer: 0 | PnL: $0.00
+2026-04-27T05:43:54.562160544Z [err]  2026-04-27 05:43:52  INFO               Watching... (RSI: 41.8, Entry Signal: False)
+2026-04-27T05:44:54.706416879Z [err]  2026-04-27 05:44:53  INFO      [05:44:52 UTC] Price: $26.8620 | RSI: 41.8 | Up BB: $27.1930 | Layer: 0 | PnL: $0.00
+2026-04-27T05:44:54.706420405Z [err]  2026-04-27 05:44:53  INFO               Watching... (RSI: 41.8, Entry Signal: False)
+2026-04-27T05:45:54.503533159Z [err]  2026-04-27 05:45:53  INFO      [05:45:53 UTC] Price: $26.8620 | RSI: 41.8 | Up BB: $27.1930 | Layer: 0 | PnL: $0.00
+2026-04-27T05:45:54.503536663Z [err]  2026-04-27 05:45:53  INFO               Watching... (RSI: 41.8, Entry Signal: False)
+2026-04-27T05:46:54.679979524Z [err]  2026-04-27 05:46:53  INFO      [05:46:53 UTC] Price: $26.8620 | RSI: 41.8 | Up BB: $27.1930 | Layer: 0 | PnL: $0.00
+2026-04-27T05:46:54.679982899Z [err]  2026-04-27 05:46:53  INFO               Watching... (RSI: 41.8, Entry Signal: False)
+2026-04-27T05:48:04.400103381Z [err]  2026-04-27 05:47:54  INFO      [05:47:53 UTC] Price: $26.8620 | RSI: 41.8 | Up BB: $27.1930 | Layer: 0 | PnL: $0.00
+2026-04-27T05:48:04.400108744Z [err]  2026-04-27 05:47:54  INFO               Watching... (RSI: 41.8, Entry Signal: False)
+2026-04-27T05:49:04.112560476Z [err]  2026-04-27 05:48:55  INFO      [05:48:54 UTC] Price: $26.8620 | RSI: 41.8 | Up BB: $27.1930 | Layer: 0 | PnL: $0.00
+2026-04-27T05:49:04.112566145Z [err]  2026-04-27 05:48:55  INFO               Watching... (RSI: 41.8, Entry Signal: False)
+2026-04-27T05:50:04.234845135Z [err]  2026-04-27 05:49:55  INFO      [05:49:55 UTC] Price: $26.8620 | RSI: 41.8 | Up BB: $27.1930 | Layer: 0 | PnL: $0.00
+2026-04-27T05:50:04.234848523Z [err]  2026-04-27 05:49:55  INFO               Watching... (RSI: 41.8, Entry Signal: False)
+2026-04-27T05:51:03.899477200Z [err]  2026-04-27 05:50:56  INFO      [05:50:55 UTC] Price: $26.8620 | RSI: 41.8 | Up BB: $27.1930 | Layer: 0 | PnL: $0.00
+2026-04-27T05:51:03.899483176Z [err]  2026-04-27 05:50:56  INFO               Watching... (RSI: 41.8, Entry Signal: False)
+2026-04-27T05:52:04.054174246Z [err]  2026-04-27 05:51:56  INFO      [05:51:56 UTC] Price: $26.8620 | RSI: 41.8 | Up BB: $27.1930 | Layer: 0 | PnL: $0.00
+2026-04-27T05:52:04.054177872Z [err]  2026-04-27 05:51:56  INFO               Watching... (RSI: 41.8, Entry Signal: False)
+2026-04-27T05:53:03.801854923Z [err]  2026-04-27 05:52:57  INFO      [05:52:56 UTC] Price: $26.8620 | RSI: 41.8 | Up BB: $27.1930 | Layer: 0 | PnL: $0.00
+2026-04-27T05:53:03.801860741Z [err]  2026-04-27 05:52:57  INFO               Watching... (RSI: 41.8, Entry Signal: False)
+2026-04-27T05:54:03.813454324Z [err]  2026-04-27 05:53:57  INFO      [05:53:57 UTC] Price: $26.8620 | RSI: 41.8 | Up BB: $27.1930 | Layer: 0 | PnL: $0.00
+2026-04-27T05:54:03.813458000Z [err]  2026-04-27 05:53:57  INFO               Watching... (RSI: 41.8, Entry Signal: False)
+2026-04-27T05:55:03.486295519Z [err]  2026-04-27 05:54:57  INFO      [05:54:57 UTC] Price: $26.8620 | RSI: 41.8 | Up BB: $27.1930 | Layer: 0 | PnL: $0.00
+2026-04-27T05:55:03.486299854Z [err]  2026-04-27 05:54:57  INFO               Watching... (RSI: 41.8, Entry Signal: False)
+2026-04-27T05:56:03.582907536Z [err]  2026-04-27 05:55:58  INFO      [05:55:57 UTC] Price: $26.8620 | RSI: 41.8 | Up BB: $27.1930 | Layer: 0 | PnL: $0.00
+2026-04-27T05:56:03.582910349Z [err]  2026-04-27 05:55:58  INFO               Watching... (RSI: 41.8, Entry Signal: False)
+2026-04-27T05:57:04.115727011Z [err]  2026-04-27 05:56:58  INFO               Watching... (RSI: 41.8, Entry Signal: False)
+2026-04-27T05:57:04.115806292Z [err]  2026-04-27 05:56:58  INFO      [05:56:58 UTC] Price: $26.8620 | RSI: 41.8 | Up BB: $27.1930 | Layer: 0 | PnL: $0.00
+2026-04-27T05:58:03.848660615Z [err]  2026-04-27 05:57:59  INFO      [05:57:58 UTC] Price: $26.8620 | RSI: 41.8 | Up BB: $27.1930 | Layer: 0 | PnL: $0.00
+2026-04-27T05:58:03.848664697Z [err]  2026-04-27 05:57:59  INFO               Watching... (RSI: 41.8, Entry Signal: False)
+2026-04-27T05:59:03.984042626Z [err]  2026-04-27 05:58:59  INFO      [05:58:59 UTC] Price: $26.9860 | RSI: 50.0 | Up BB: $27.1946 | Layer: 0 | PnL: $0.00
+2026-04-27T05:59:03.984046278Z [err]  2026-04-27 05:58:59  INFO               Watching... (RSI: 50.0, Entry Signal: False)
+2026-04-27T06:00:03.721548349Z [err]  2026-04-27 06:00:00  INFO      [05:59:59 UTC] Price: $27.0150 | RSI: 50.0 | Up BB: $27.1946 | Layer: 0 | PnL: $0.00
+2026-04-27T06:00:03.721554103Z [err]  2026-04-27 06:00:00  INFO               Watching... (RSI: 50.0, Entry Signal: False)
+2026-04-27T06:01:03.748123820Z [err]  2026-04-27 06:01:01  INFO      [06:01:00 UTC] Price: $27.0200 | RSI: 50.0 | Up BB: $27.1946 | Layer: 0 | PnL: $0.00
+2026-04-27T06:01:03.748126337Z [err]  2026-04-27 06:01:01  INFO               Watching... (RSI: 50.0, Entry Signal: False)
+2026-04-27T06:02:03.387256238Z [err]  2026-04-27 06:02:01  INFO      [06:02:01 UTC] Price: $27.0200 | RSI: 50.0 | Up BB: $27.1946 | Layer: 0 | PnL: $0.00
+2026-04-27T06:02:03.387259277Z [err]  2026-04-27 06:02:01  INFO               Watching... (RSI: 50.0, Entry Signal: False)
+2026-04-27T06:03:03.485689803Z [err]  2026-04-27 06:03:02  INFO      [06:03:01 UTC] Price: $27.0200 | RSI: 50.0 | Up BB: $27.1946 | Layer: 0 | PnL: $0.00
+2026-04-27T06:03:03.485693662Z [err]  2026-04-27 06:03:02  INFO               Watching... (RSI: 50.0, Entry Signal: False)
+2026-04-27T06:04:03.178970971Z [err]  2026-04-27 06:04:02  INFO      [06:04:02 UTC] Price: $27.0230 | RSI: 50.0 | Up BB: $27.1946 | Layer: 0 | PnL: $0.00
+2026-04-27T06:04:03.178975042Z [err]  2026-04-27 06:04:02  INFO               Watching... (RSI: 50.0, Entry Signal: False)
+2026-04-27T06:05:14.165535421Z [err]  2026-04-27 06:05:03  INFO      [06:05:02 UTC] Price: $29.5020 | RSI: 85.8 | Up BB: $28.3918 | Layer: 0 | PnL: $0.00
+2026-04-27T06:05:14.165545187Z [err]  2026-04-27 06:05:03  INFO      🚀  ENTRY SIGNAL MET (RSI=85.8, BB_Ok=True, EMA_Ok=True) — Opening initial short ($5.00)
+2026-04-27T06:05:14.165549624Z [err]  2026-04-27 06:05:03  INFO      Order result: {'status': 'err', 'response': 'User or API Wallet 0xd7816b15deb0da56827e226a440d064207199adc does not exist.'}
+2026-04-27T06:05:14.165550793Z [err]  2026-04-27 06:05:03  INFO      📉  Placing SHORT: 0.1695 HYPE @ ~$29.5020 ($5.00 notional)
+2026-04-27T06:06:13.494867249Z [err]  2026-04-27 06:06:04  INFO      [06:06:03 UTC] Price: $35.5400 | RSI: 85.8 | Up BB: $28.3918 | Layer: 0 | PnL: $0.00
+2026-04-27T06:06:13.494870481Z [err]  2026-04-27 06:06:04  INFO      🚀  ENTRY SIGNAL MET (RSI=85.8, BB_Ok=True, EMA_Ok=True) — Opening initial short ($5.00)
+2026-04-27T06:06:13.494874556Z [err]  2026-04-27 06:06:04  INFO      📉  Placing SHORT: 0.1407 HYPE @ ~$35.5400 ($5.00 notional)
+2026-04-27T06:06:13.494879117Z [err]  2026-04-27 06:06:04  INFO      Order result: {'status': 'err', 'response': 'User or API Wallet 0xd7816b15deb0da56827e226a440d064207199adc does not exist.'}
+2026-04-27T06:07:13.194449251Z [err]  2026-04-27 06:07:04  INFO      [06:07:04 UTC] Price: $33.1560 | RSI: 92.3 | Up BB: $29.9955 | Layer: 0 | PnL: $0.00
+2026-04-27T06:07:13.194453021Z [err]  2026-04-27 06:07:04  INFO      🚀  ENTRY SIGNAL MET (RSI=92.3, BB_Ok=True, EMA_Ok=True) — Opening initial short ($5.00)
+2026-04-27T06:07:13.194456161Z [err]  2026-04-27 06:07:04  INFO      📉  Placing SHORT: 0.1508 HYPE @ ~$33.1560 ($5.00 notional)
+2026-04-27T06:07:13.194458966Z [err]  2026-04-27 06:07:05  INFO      Order result: {'status': 'err', 'response': 'User or API Wallet 0xd7816b15deb0da56827e226a440d064207199adc does not exist.'}
+2026-04-27T06:08:12.896524631Z [err]  2026-04-27 06:08:05  INFO      [06:08:05 UTC] Price: $31.4980 | RSI: 92.3 | Up BB: $29.9955 | Layer: 0 | PnL: $0.00
+2026-04-27T06:08:12.896528412Z [err]  2026-04-27 06:08:05  INFO      🚀  ENTRY SIGNAL MET (RSI=92.3, BB_Ok=True, EMA_Ok=True) — Opening initial short ($5.00)
+2026-04-27T06:08:12.896531871Z [err]  2026-04-27 06:08:05  INFO      📉  Placing SHORT: 0.1587 HYPE @ ~$31.4980 ($5.00 notional)
+2026-04-27T06:08:12.896535249Z [err]  2026-04-27 06:08:05  INFO      Order result: {'status': 'err', 'response': 'User or API Wallet 0xd7816b15deb0da56827e226a440d064207199adc does not exist.'}
+2026-04-27T06:09:12.908639655Z [err]  2026-04-27 06:09:06  INFO      [06:09:05 UTC] Price: $31.0540 | RSI: 92.3 | Up BB: $29.9955 | Layer: 0 | PnL: $0.00
+2026-04-27T06:09:12.908643272Z [err]  2026-04-27 06:09:06  INFO      🚀  ENTRY SIGNAL MET (RSI=92.3, BB_Ok=True, EMA_Ok=True) — Opening initial short ($5.00)
+2026-04-27T06:09:12.908646172Z [err]  2026-04-27 06:09:06  INFO      📉  Placing SHORT: 0.161 HYPE @ ~$31.0540 ($5.00 notional)
+2026-04-27T06:09:12.908649251Z [err]  2026-04-27 06:09:06  INFO      Order result: {'status': 'err', 'response': 'User or API Wallet 0xd7816b15deb0da56827e226a440d064207199adc does not exist.'}
+2026-04-27T06:10:13.088171280Z [err]  2026-04-27 06:10:07  INFO      [06:10:06 UTC] Price: $29.8530 | RSI: 85.8 | Up BB: $28.3990 | Layer: 0 | PnL: $0.00
+2026-04-27T06:10:13.088174608Z [err]  2026-04-27 06:10:07  INFO      🚀  ENTRY SIGNAL MET (RSI=85.8, BB_Ok=True, EMA_Ok=True) — Opening initial short ($5.00)
+2026-04-27T06:10:13.088177764Z [err]  2026-04-27 06:10:07  INFO      📉  Placing SHORT: 0.1675 HYPE @ ~$29.8530 ($5.00 notional)
+2026-04-27T06:10:13.088180790Z [err]  2026-04-27 06:10:07  INFO      Order result: {'status': 'err', 'response': 'User or API Wallet 0xd7816b15deb0da56827e226a440d064207199adc does not exist.'}
+2026-04-27T06:11:12.739790909Z [err]  2026-04-27 06:11:07  INFO      [06:11:07 UTC] Price: $27.8580 | RSI: 85.8 | Up BB: $28.3990 | Layer: 0 | PnL: $0.00
+2026-04-27T06:11:12.739794834Z [err]  2026-04-27 06:11:07  INFO               Watching... (RSI: 85.8, Entry Signal: False)
+2026-04-27T06:12:13.003921162Z [err]  2026-04-27 06:12:08  INFO      [06:12:07 UTC] Price: $26.6380 | RSI: 85.8 | Up BB: $28.3990 | Layer: 0 | PnL: $0.00
+2026-04-27T06:12:13.003924752Z [err]  2026-04-27 06:12:08  INFO               Watching... (RSI: 85.8, Entry Signal: False)
+2026-04-27T06:13:12.677836834Z [err]  2026-04-27 06:13:08  INFO      [06:13:08 UTC] Price: $27.0410 | RSI: 62.2 | Up BB: $27.2742 | Layer: 0 | PnL: $0.00
+2026-04-27T06:13:12.677848390Z [err]  2026-04-27 06:13:08  INFO               Watching... (RSI: 62.2, Entry Signal: False)
+2026-04-27T06:14:12.697040276Z [err]  2026-04-27 06:14:09  INFO      [06:14:08 UTC] Price: $27.0410 | RSI: 62.2 | Up BB: $27.2742 | Layer: 0 | PnL: $0.00
+2026-04-27T06:14:12.697045772Z [err]  2026-04-27 06:14:09  INFO               Watching... (RSI: 62.2, Entry Signal: False)
+2026-04-27T06:15:12.376617826Z [err]  2026-04-27 06:15:09  INFO      [06:15:09 UTC] Price: $27.0410 | RSI: 62.2 | Up BB: $27.2742 | Layer: 0 | PnL: $0.00
+2026-04-27T06:15:12.376622438Z [err]  2026-04-27 06:15:09  INFO               Watching... (RSI: 62.2, Entry Signal: False)
+2026-04-27T06:16:12.430782826Z [err]  2026-04-27 06:16:10  INFO      [06:16:09 UTC] Price: $27.1200 | RSI: 62.2 | Up BB: $27.2742 | Layer: 0 | PnL: $0.00
+2026-04-27T06:16:12.430787495Z [err]  2026-04-27 06:16:10  INFO               Watching... (RSI: 62.2, Entry Signal: False)
+2026-04-27T06:17:12.082838090Z [err]  2026-04-27 06:17:10  INFO      [06:17:10 UTC] Price: $27.0510 | RSI: 62.2 | Up BB: $27.2742 | Layer: 0 | PnL: $0.00
+2026-04-27T06:17:12.082841169Z [err]  2026-04-27 06:17:10  INFO               Watching... (RSI: 62.2, Entry Signal: False)
+2026-04-27T06:18:12.283710876Z [err]  2026-04-27 06:18:10  INFO      [06:18:10 UTC] Price: $27.0420 | RSI: 62.2 | Up BB: $27.2742 | Layer: 0 | PnL: $0.00
+2026-04-27T06:18:12.283714557Z [err]  2026-04-27 06:18:10  INFO               Watching... (RSI: 62.2, Entry Signal: False)
+2026-04-27T06:19:11.947354786Z [err]  2026-04-27 06:19:11  INFO      [06:19:10 UTC] Price: $26.7000 | RSI: 42.6 | Up BB: $27.2917 | Layer: 0 | PnL: $0.00
+2026-04-27T06:19:11.947360365Z [err]  2026-04-27 06:19:11  INFO               Watching... (RSI: 42.6, Entry Signal: False)
+2026-04-27T06:20:21.578087998Z [err]  2026-04-27 06:20:11  INFO      [06:20:11 UTC] Price: $26.7000 | RSI: 42.6 | Up BB: $27.2917 | Layer: 0 | PnL: $0.00
+2026-04-27T06:20:21.578095627Z [err]  2026-04-27 06:20:11  INFO               Watching... (RSI: 42.6, Entry Signal: False)
+2026-04-27T06:21:22.037183159Z [err]  2026-04-27 06:21:12  INFO      [06:21:11 UTC] Price: $26.5620 | RSI: 40.0 | Up BB: $27.3171 | Layer: 0 | PnL: $0.00
+2026-04-27T06:21:22.037187377Z [err]  2026-04-27 06:21:12  INFO               Watching... (RSI: 40.0, Entry Signal: False)
+2026-04-27T06:22:21.711625056Z [err]  2026-04-27 06:22:12  INFO      [06:22:12 UTC] Price: $26.5620 | RSI: 40.0 | Up BB: $27.3171 | Layer: 0 | PnL: $0.00
+2026-04-27T06:22:21.711628559Z [err]  2026-04-27 06:22:12  INFO               Watching... (RSI: 40.0, Entry Signal: False)
+2026-04-27T06:23:22.054515272Z [err]  2026-04-27 06:23:13  INFO      [06:23:12 UTC] Price: $26.5620 | RSI: 40.0 | Up BB: $27.3171 | Layer: 0 | PnL: $0.00
+2026-04-27T06:23:22.054520009Z [err]  2026-04-27 06:23:13  INFO               Watching... (RSI: 40.0, Entry Signal: False)
+2026-04-27T06:24:21.765017629Z [err]  2026-04-27 06:24:13  INFO      [06:24:13 UTC] Price: $26.5620 | RSI: 40.0 | Up BB: $27.3171 | Layer: 0 | PnL: $0.00
+2026-04-27T06:24:21.765023157Z [err]  2026-04-27 06:24:13  INFO               Watching... (RSI: 40.0, Entry Signal: False)
+2026-04-27T06:25:21.374503170Z [err]  2026-04-27 06:25:14  INFO      [06:25:13 UTC] Price: $26.5460 | RSI: 37.1 | Up BB: $27.3611 | Layer: 0 | PnL: $0.00
+2026-04-27T06:25:21.374507002Z [err]  2026-04-27 06:25:14  INFO               Watching... (RSI: 37.1, Entry Signal: False)
+2026-04-27T06:26:21.014067007Z [err]  2026-04-27 06:26:14  INFO      [06:26:14 UTC] Price: $26.5460 | RSI: 37.1 | Up BB: $27.3611 | Layer: 0 | PnL: $0.00
+2026-04-27T06:26:21.014073059Z [err]  2026-04-27 06:26:14  INFO               Watching... (RSI: 37.1, Entry Signal: False)
+2026-04-27T06:27:21.147820515Z [err]  2026-04-27 06:27:15  INFO      [06:27:14 UTC] Price: $26.5400 | RSI: 37.1 | Up BB: $27.3611 | Layer: 0 | PnL: $0.00
+2026-04-27T06:27:21.147823645Z [err]  2026-04-27 06:27:15  INFO               Watching... (RSI: 37.1, Entry Signal: False)
+2026-04-27T06:28:20.812186140Z [err]  2026-04-27 06:28:15  INFO      [06:28:15 UTC] Price: $26.5400 | RSI: 37.1 | Up BB: $27.3611 | Layer: 0 | PnL: $0.00
+2026-04-27T06:28:20.812189022Z [err]  2026-04-27 06:28:15  INFO               Watching... (RSI: 37.1, Entry Signal: False)
+2026-04-27T06:29:20.806813332Z [err]  2026-04-27 06:29:16  INFO      [06:29:15 UTC] Price: $26.5400 | RSI: 37.1 | Up BB: $27.3611 | Layer: 0 | PnL: $0.00
+2026-04-27T06:29:20.806818975Z [err]  2026-04-27 06:29:16  INFO               Watching... (RSI: 37.1, Entry Signal: False)
+2026-04-27T06:30:20.425814136Z [err]  2026-04-27 06:30:16  INFO      [06:30:16 UTC] Price: $26.5400 | RSI: 37.1 | Up BB: $27.3611 | Layer: 0 | PnL: $0.00
+2026-04-27T06:30:20.425817344Z [err]  2026-04-27 06:30:16  INFO               Watching... (RSI: 37.1, Entry Signal: False)
+2026-04-27T06:31:20.476769921Z [err]  2026-04-27 06:31:17  INFO      [06:31:16 UTC] Price: $26.5400 | RSI: 37.1 | Up BB: $27.3611 | Layer: 0 | PnL: $0.00
+2026-04-27T06:31:20.476773735Z [err]  2026-04-27 06:31:17  INFO               Watching... (RSI: 37.1, Entry Signal: False)
+2026-04-27T06:32:20.219123175Z [err]  2026-04-27 06:32:17  INFO      [06:32:17 UTC] Price: $26.5400 | RSI: 37.1 | Up BB: $27.3611 | Layer: 0 | PnL: $0.00
+2026-04-27T06:32:20.219125922Z [err]  2026-04-27 06:32:17  INFO               Watching... (RSI: 37.1, Entry Signal: False)
+2026-04-27T06:33:20.352697413Z [err]  2026-04-27 06:33:18  INFO      [06:33:17 UTC] Price: $26.6130 | RSI: 44.0 | Up BB: $27.3806 | Layer: 0 | PnL: $0.00
+2026-04-27T06:33:20.352700670Z [err]  2026-04-27 06:33:18  INFO               Watching... (RSI: 44.0, Entry Signal: False)
+2026-04-27T06:34:20.029693600Z [err]  2026-04-27 06:34:18  INFO      [06:34:18 UTC] Price: $26.6130 | RSI: 44.0 | Up BB: $27.3806 | Layer: 0 | PnL: $0.00
+2026-04-27T06:34:20.029696928Z [err]  2026-04-27 06:34:18  INFO               Watching... (RSI: 44.0, Entry Signal: False)
+2026-04-27T06:35:20.265331772Z [err]  2026-04-27 06:35:19  INFO               Watching... (RSI: 44.0, Entry Signal: False)
+2026-04-27T06:35:20.265337687Z [err]  2026-04-27 06:35:19  INFO      [06:35:18 UTC] Price: $26.6220 | RSI: 44.0 | Up BB: $27.3806 | Layer: 0 | PnL: $0.00
+2026-04-27T06:36:19.938636851Z [err]  2026-04-27 06:36:19  INFO      [06:36:19 UTC] Price: $26.6260 | RSI: 44.0 | Up BB: $27.3806 | Layer: 0 | PnL: $0.00
+2026-04-27T06:36:19.938644389Z [err]  2026-04-27 06:36:19  INFO               Watching... (RSI: 44.0, Entry Signal: False)
+2026-04-27T06:37:30.584041316Z [err]  2026-04-27 06:37:20  INFO      [06:37:19 UTC] Price: $26.6260 | RSI: 44.0 | Up BB: $27.3806 | Layer: 0 | PnL: $0.00
+2026-04-27T06:37:30.584044823Z [err]  2026-04-27 06:37:20  INFO               Watching... (RSI: 44.0, Entry Signal: False)
+2026-04-27T06:38:30.356101438Z [err]  2026-04-27 06:38:21  INFO      [06:38:20 UTC] Price: $26.6260 | RSI: 44.0 | Up BB: $27.3806 | Layer: 0 | PnL: $0.00
+2026-04-27T06:38:30.356107535Z [err]  2026-04-27 06:38:21  INFO               Watching... (RSI: 44.0, Entry Signal: False)
+2026-04-27T06:39:30.830601190Z [err]  2026-04-27 06:39:21  INFO      [06:39:21 UTC] Price: $26.6260 | RSI: 44.0 | Up BB: $27.3806 | Layer: 0 | PnL: $0.00
+2026-04-27T06:39:30.830604632Z [err]  2026-04-27 06:39:21  INFO               Watching... (RSI: 44.0, Entry Signal: False)
+2026-04-27T06:40:30.515140835Z [err]  2026-04-27 06:40:22  INFO      [06:40:21 UTC] Price: $26.6540 | RSI: 44.0 | Up BB: $27.3806 | Layer: 0 | PnL: $0.00
+2026-04-27T06:40:30.515146355Z [err]  2026-04-27 06:40:22  INFO               Watching... (RSI: 44.0, Entry Signal: False)
+2026-04-27T06:41:30.684461990Z [err]  2026-04-27 06:41:22  INFO      [06:41:22 UTC] Price: $26.6400 | RSI: 44.0 | Up BB: $27.3806 | Layer: 0 | PnL: $0.00
+2026-04-27T06:41:30.684466610Z [err]  2026-04-27 06:41:22  INFO               Watching... (RSI: 44.0, Entry Signal: False)
+2026-04-27T06:42:30.385855599Z [err]  2026-04-27 06:42:23  INFO      [06:42:22 UTC] Price: $26.6260 | RSI: 44.0 | Up BB: $27.3806 | Layer: 0 | PnL: $0.00
+2026-04-27T06:42:30.385859426Z [err]  2026-04-27 06:42:23  INFO               Watching... (RSI: 44.0, Entry Signal: False)
+2026-04-27T06:43:30.409070653Z [err]  2026-04-27 06:43:23  INFO      [06:43:23 UTC] Price: $26.6260 | RSI: 44.0 | Up BB: $27.3806 | Layer: 0 | PnL: $0.00
+2026-04-27T06:43:30.409075335Z [err]  2026-04-27 06:43:23  INFO               Watching... (RSI: 44.0, Entry Signal: False)
+2026-04-27T06:44:30.637066054Z [err]  2026-04-27 06:44:23  INFO      [06:44:23 UTC] Price: $26.6260 | RSI: 44.0 | Up BB: $27.3806 | Layer: 0 | PnL: $0.00
+2026-04-27T06:44:30.637071197Z [err]  2026-04-27 06:44:23  INFO               Watching... (RSI: 44.0, Entry Signal: False)
+2026-04-27T06:45:30.315621765Z [err]  2026-04-27 06:45:24  INFO      [06:45:23 UTC] Price: $26.6260 | RSI: 44.0 | Up BB: $27.3806 | Layer: 0 | PnL: $0.00
+2026-04-27T06:45:30.315624629Z [err]  2026-04-27 06:45:24  INFO               Watching... (RSI: 44.0, Entry Signal: False)
+2026-04-27T06:46:30.402935341Z [err]  2026-04-27 06:46:24  INFO      [06:46:24 UTC] Price: $26.6260 | RSI: 44.0 | Up BB: $27.3806 | Layer: 0 | PnL: $0.00
+2026-04-27T06:46:30.402938718Z [err]  2026-04-27 06:46:24  INFO               Watching... (RSI: 44.0, Entry Signal: False)
+2026-04-27T06:47:30.058181063Z [err]  2026-04-27 06:47:25  INFO      [06:47:24 UTC] Price: $26.6260 | RSI: 44.0 | Up BB: $27.3806 | Layer: 0 | PnL: $0.00
+2026-04-27T06:47:30.058187757Z [err]  2026-04-27 06:47:25  INFO               Watching... (RSI: 44.0, Entry Signal: False)
+2026-04-27T06:48:30.398196224Z [err]  2026-04-27 06:48:25  INFO      [06:48:25 UTC] Price: $26.6540 | RSI: 44.0 | Up BB: $27.3806 | Layer: 0 | PnL: $0.00
+2026-04-27T06:48:30.398199641Z [err]  2026-04-27 06:48:25  INFO               Watching... (RSI: 44.0, Entry Signal: False)
+2026-04-27T06:49:30.148323939Z [err]  2026-04-27 06:49:26  INFO      [06:49:25 UTC] Price: $26.6360 | RSI: 44.0 | Up BB: $27.3806 | Layer: 0 | PnL: $0.00
+2026-04-27T06:49:30.148330075Z [err]  2026-04-27 06:49:26  INFO               Watching... (RSI: 44.0, Entry Signal: False)
+2026-04-27T06:50:30.208982406Z [err]  2026-04-27 06:50:26  INFO      [06:50:26 UTC] Price: $26.6260 | RSI: 44.0 | Up BB: $27.3806 | Layer: 0 | PnL: $0.00
+2026-04-27T06:50:30.208986046Z [err]  2026-04-27 06:50:26  INFO               Watching... (RSI: 44.0, Entry Signal: False)
+2026-04-27T06:51:29.858107775Z [err]  2026-04-27 06:51:27  INFO      [06:51:26 UTC] Price: $26.6260 | RSI: 44.0 | Up BB: $27.3806 | Layer: 0 | PnL: $0.00
+2026-04-27T06:51:29.858111220Z [err]  2026-04-27 06:51:27  INFO               Watching... (RSI: 44.0, Entry Signal: False)
+2026-04-27T06:52:30.079132710Z [err]  2026-04-27 06:52:27  INFO               Watching... (RSI: 44.0, Entry Signal: False)
+2026-04-27T06:52:30.079140318Z [err]  2026-04-27 06:52:27  INFO      [06:52:27 UTC] Price: $26.6260 | RSI: 44.0 | Up BB: $27.3806 | Layer: 0 | PnL: $0.00
+2026-04-27T06:53:29.756085252Z [err]  2026-04-27 06:53:28  INFO      [06:53:27 UTC] Price: $26.6260 | RSI: 44.0 | Up BB: $27.3806 | Layer: 0 | PnL: $0.00
+2026-04-27T06:53:29.756088195Z [err]  2026-04-27 06:53:28  INFO               Watching... (RSI: 44.0, Entry Signal: False)
+2026-04-27T06:54:30.067560485Z [err]  2026-04-27 06:54:28  INFO      [06:54:28 UTC] Price: $26.6260 | RSI: 44.0 | Up BB: $27.3806 | Layer: 0 | PnL: $0.00
+2026-04-27T06:54:30.067563687Z [err]  2026-04-27 06:54:28  INFO               Watching... (RSI: 44.0, Entry Signal: False)
+2026-04-27T06:55:29.751987027Z [err]  2026-04-27 06:55:29  INFO      [06:55:28 UTC] Price: $26.6260 | RSI: 44.0 | Up BB: $27.3806 | Layer: 0 | PnL: $0.00
+2026-04-27T06:55:29.751992135Z [err]  2026-04-27 06:55:29  INFO               Watching... (RSI: 44.0, Entry Signal: False)
+2026-04-27T06:56:29.794600839Z [err]  2026-04-27 06:56:29  INFO      [06:56:29 UTC] Price: $26.6260 | RSI: 44.0 | Up BB: $27.3806 | Layer: 0 | PnL: $0.00
+2026-04-27T06:56:29.794629246Z [err]  2026-04-27 06:56:29  INFO               Watching... (RSI: 44.0, Entry Signal: False)
+2026-04-27T06:57:39.436123118Z [err]  2026-04-27 06:57:29  INFO      [06:57:29 UTC] Price: $26.6260 | RSI: 44.0 | Up BB: $27.3806 | Layer: 0 | PnL: $0.00
+2026-04-27T06:57:39.436128974Z [err]  2026-04-27 06:57:29  INFO               Watching... (RSI: 44.0, Entry Signal: False)
+2026-04-27T06:58:39.842969397Z [err]  2026-04-27 06:58:30  INFO      [06:58:29 UTC] Price: $26.6260 | RSI: 44.0 | Up BB: $27.3806 | Layer: 0 | PnL: $0.00
+2026-04-27T06:58:39.842975073Z [err]  2026-04-27 06:58:30  INFO               Watching... (RSI: 44.0, Entry Signal: False)
+2026-04-27T06:59:39.472012993Z [err]  2026-04-27 06:59:30  INFO      [06:59:30 UTC] Price: $26.6260 | RSI: 44.0 | Up BB: $27.3806 | Layer: 0 | PnL: $0.00
+2026-04-27T06:59:39.472018157Z [err]  2026-04-27 06:59:30  INFO               Watching... (RSI: 44.0, Entry Signal: False)
+2026-04-27T07:00:39.533483769Z [err]  2026-04-27 07:00:31  INFO      [07:00:30 UTC] Price: $26.6210 | RSI: 44.0 | Up BB: $27.3806 | Layer: 0 | PnL: $0.00
+2026-04-27T07:00:39.533488230Z [err]  2026-04-27 07:00:31  INFO               Watching... (RSI: 44.0, Entry Signal: False)
+2026-04-27T07:01:39.175450768Z [err]  2026-04-27 07:01:31  INFO      [07:01:31 UTC] Price: $26.6260 | RSI: 44.0 | Up BB: $27.3806 | Layer: 0 | PnL: $0.00
+2026-04-27T07:01:39.175455294Z [err]  2026-04-27 07:01:31  INFO               Watching... (RSI: 44.0, Entry Signal: False)
+2026-04-27T07:02:39.412976906Z [err]  2026-04-27 07:02:32  INFO      [07:02:31 UTC] Price: $26.6260 | RSI: 44.0 | Up BB: $27.3806 | Layer: 0 | PnL: $0.00
+2026-04-27T07:02:39.412980049Z [err]  2026-04-27 07:02:32  INFO               Watching... (RSI: 44.0, Entry Signal: False)
+2026-04-27T07:03:39.127589546Z [err]  2026-04-27 07:03:32  INFO      [07:03:32 UTC] Price: $26.6260 | RSI: 44.0 | Up BB: $27.3806 | Layer: 0 | PnL: $0.00
+2026-04-27T07:03:39.127593631Z [err]  2026-04-27 07:03:32  INFO               Watching... (RSI: 44.0, Entry Signal: False)
+2026-04-27T07:04:39.430910178Z [err]  2026-04-27 07:04:33  INFO      [07:04:32 UTC] Price: $26.6260 | RSI: 44.0 | Up BB: $27.3806 | Layer: 0 | PnL: $0.00
+2026-04-27T07:04:39.430913315Z [err]  2026-04-27 07:04:33  INFO               Watching... (RSI: 44.0, Entry Signal: False)
+2026-04-27T07:05:41.833961348Z [err]  2026-04-27 07:05:33  INFO      [07:05:33 UTC] Price: $26.5520 | RSI: 44.0 | Up BB: $27.3806 | Layer: 0 | PnL: $0.00
+2026-04-27T07:05:41.833965919Z [err]  2026-04-27 07:05:33  INFO               Watching... (RSI: 44.0, Entry Signal: False)
+2026-04-27T07:06:59.207262631Z [err]  2026-04-27 07:06:34  INFO      [07:06:33 UTC] Price: $26.5520 | RSI: 44.0 | Up BB: $27.3806 | Layer: 0 | PnL: $0.00
+2026-04-27T07:06:59.207266076Z [err]  2026-04-27 07:06:34  INFO               Watching... (RSI: 44.0, Entry Signal: False)
+2026-04-27T07:07:39.320500844Z [err]  2026-04-27 07:07:34  INFO      [07:07:34 UTC] Price: $26.5520 | RSI: 44.0 | Up BB: $27.3806 | Layer: 0 | PnL: $0.00
+2026-04-27T07:07:39.320504829Z [err]  2026-04-27 07:07:34  INFO               Watching... (RSI: 44.0, Entry Signal: False)
+2026-04-27T07:08:39.719012282Z [err]  2026-04-27 07:08:35  INFO      [07:08:34 UTC] Price: $26.5520 | RSI: 44.0 | Up BB: $27.3806 | Layer: 0 | PnL: $0.00
+2026-04-27T07:08:39.719015901Z [err]  2026-04-27 07:08:35  INFO               Watching... (RSI: 44.0, Entry Signal: False)
+2026-04-27T07:09:39.381313959Z [err]  2026-04-27 07:09:35  INFO      [07:09:35 UTC] Price: $26.5790 | RSI: 44.0 | Up BB: $27.3806 | Layer: 0 | PnL: $0.00
+2026-04-27T07:09:39.381316500Z [err]  2026-04-27 07:09:35  INFO               Watching... (RSI: 44.0, Entry Signal: False)
+2026-04-27T07:10:39.479649693Z [err]  2026-04-27 07:10:36  INFO      [07:10:35 UTC] Price: $26.6160 | RSI: 44.0 | Up BB: $27.3806 | Layer: 0 | PnL: $0.00
+2026-04-27T07:10:39.479652775Z [err]  2026-04-27 07:10:36  INFO               Watching... (RSI: 44.0, Entry Signal: False)
+2026-04-27T07:11:39.186302964Z [err]  2026-04-27 07:11:36  INFO      [07:11:36 UTC] Price: $26.6240 | RSI: 44.0 | Up BB: $27.3806 | Layer: 0 | PnL: $0.00
+2026-04-27T07:11:39.186306383Z [err]  2026-04-27 07:11:36  INFO               Watching... (RSI: 44.0, Entry Signal: False)
+2026-04-27T07:12:39.448954196Z [err]  2026-04-27 07:12:37  INFO      [07:12:36 UTC] Price: $26.6230 | RSI: 44.0 | Up BB: $27.3806 | Layer: 0 | PnL: $0.00
+2026-04-27T07:12:39.448959217Z [err]  2026-04-27 07:12:37  INFO               Watching... (RSI: 44.0, Entry Signal: False)
+2026-04-27T07:13:40.033478002Z [err]  2026-04-27 07:13:37  INFO      [07:13:37 UTC] Price: $26.5950 | RSI: 44.0 | Up BB: $27.3806 | Layer: 0 | PnL: $0.00
+2026-04-27T07:13:40.033482146Z [err]  2026-04-27 07:13:37  INFO               Watching... (RSI: 44.0, Entry Signal: False)
+2026-04-27T07:14:39.691516101Z [err]  2026-04-27 07:14:38  INFO      [07:14:37 UTC] Price: $26.6220 | RSI: 44.0 | Up BB: $27.3806 | Layer: 0 | PnL: $0.00
+2026-04-27T07:14:39.691519018Z [err]  2026-04-27 07:14:38  INFO               Watching... (RSI: 44.0, Entry Signal: False)
+2026-04-27T07:15:39.883162095Z [err]  2026-04-27 07:15:38  INFO      [07:15:38 UTC] Price: $26.6230 | RSI: 44.0 | Up BB: $27.3806 | Layer: 0 | PnL: $0.00
+2026-04-27T07:15:39.883167194Z [err]  2026-04-27 07:15:38  INFO               Watching... (RSI: 44.0, Entry Signal: False)
+2026-04-27T07:16:39.643833651Z [err]  2026-04-27 07:16:39  INFO      [07:16:38 UTC] Price: $26.6230 | RSI: 44.0 | Up BB: $27.3806 | Layer: 0 | PnL: $0.00
+2026-04-27T07:16:39.643837800Z [err]  2026-04-27 07:16:39  INFO               Watching... (RSI: 44.0, Entry Signal: False)
+2026-04-27T07:17:39.913821693Z [err]  2026-04-27 07:17:39  INFO      [07:17:39 UTC] Price: $26.6240 | RSI: 44.0 | Up BB: $27.3806 | Layer: 0 | PnL: $0.00
+2026-04-27T07:17:39.913825653Z [err]  2026-04-27 07:17:39  INFO               Watching... (RSI: 44.0, Entry Signal: False)
+2026-04-27T07:18:49.559784546Z [err]  2026-04-27 07:18:40  INFO      [07:18:39 UTC] Price: $26.6240 | RSI: 44.0 | Up BB: $27.3806 | Layer: 0 | PnL: $0.00
+2026-04-27T07:18:49.559787457Z [err]  2026-04-27 07:18:40  INFO               Watching... (RSI: 44.0, Entry Signal: False)
+2026-04-27T07:19:49.195958984Z [err]  2026-04-27 07:19:40  INFO      [07:19:40 UTC] Price: $26.5950 | RSI: 44.0 | Up BB: $27.3806 | Layer: 0 | PnL: $0.00
+2026-04-27T07:19:49.195964063Z [err]  2026-04-27 07:19:40  INFO               Watching... (RSI: 44.0, Entry Signal: False)
+2026-04-27T07:20:49.249628866Z [err]  2026-04-27 07:20:41  INFO      [07:20:40 UTC] Price: $26.6220 | RSI: 44.0 | Up BB: $27.3806 | Layer: 0 | PnL: $0.00
+2026-04-27T07:20:49.249632716Z [err]  2026-04-27 07:20:41  INFO               Watching... (RSI: 44.0, Entry Signal: False)
+2026-04-27T07:21:48.893948727Z [err]  2026-04-27 07:21:41  INFO      [07:21:41 UTC] Price: $26.6220 | RSI: 44.0 | Up BB: $27.3806 | Layer: 0 | PnL: $0.00
+2026-04-27T07:21:48.893951762Z [err]  2026-04-27 07:21:41  INFO               Watching... (RSI: 44.0, Entry Signal: False)
+2026-04-27T07:22:49.362290591Z [err]  2026-04-27 07:22:42  INFO      [07:22:41 UTC] Price: $26.6230 | RSI: 44.0 | Up BB: $27.3806 | Layer: 0 | PnL: $0.00
+2026-04-27T07:22:49.362294158Z [err]  2026-04-27 07:22:42  INFO               Watching... (RSI: 44.0, Entry Signal: False)
+2026-04-27T07:23:49.023419639Z [err]  2026-04-27 07:23:42  INFO      [07:23:42 UTC] Price: $26.6230 | RSI: 44.0 | Up BB: $27.3806 | Layer: 0 | PnL: $0.00
+2026-04-27T07:23:49.023428590Z [err]  2026-04-27 07:23:42  INFO               Watching... (RSI: 44.0, Entry Signal: False)
+2026-04-27T07:24:49.224170811Z [err]  2026-04-27 07:24:43  INFO      [07:24:42 UTC] Price: $26.6260 | RSI: 44.0 | Up BB: $27.3806 | Layer: 0 | PnL: $0.00
+2026-04-27T07:24:49.224174535Z [err]  2026-04-27 07:24:43  INFO               Watching... (RSI: 44.0, Entry Signal: False)
+2026-04-27T07:25:48.972303685Z [err]  2026-04-27 07:25:43  INFO      [07:25:43 UTC] Price: $26.5950 | RSI: 44.0 | Up BB: $27.3806 | Layer: 0 | PnL: $0.00
+2026-04-27T07:25:48.972308020Z [err]  2026-04-27 07:25:43  INFO               Watching... (RSI: 44.0, Entry Signal: False)
+2026-04-27T07:26:49.029801111Z [err]  2026-04-27 07:26:44  INFO      [07:26:43 UTC] Price: $26.6260 | RSI: 44.0 | Up BB: $27.3806 | Layer: 0 | PnL: $0.00
+2026-04-27T07:26:49.029805073Z [err]  2026-04-27 07:26:44  INFO               Watching... (RSI: 44.0, Entry Signal: False)
+2026-04-27T07:27:48.677217007Z [err]  2026-04-27 07:27:44  INFO      [07:27:44 UTC] Price: $26.6230 | RSI: 44.0 | Up BB: $27.3806 | Layer: 0 | PnL: $0.00
+2026-04-27T07:27:48.677220723Z [err]  2026-04-27 07:27:44  INFO               Watching... (RSI: 44.0, Entry Signal: False)
+2026-04-27T07:28:48.370992676Z [err]  2026-04-27 07:28:45  INFO      [07:28:44 UTC] Price: $26.6690 | RSI: 42.4 | Up BB: $27.3849 | Layer: 0 | PnL: $0.00
+2026-04-27T07:28:48.370996876Z [err]  2026-04-27 07:28:45  INFO               Watching... (RSI: 42.4, Entry Signal: False)
+2026-04-27T07:29:48.440804501Z [err]  2026-04-27 07:29:45  INFO      [07:29:45 UTC] Price: $26.6860 | RSI: 42.4 | Up BB: $27.3849 | Layer: 0 | PnL: $0.00
+2026-04-27T07:29:48.440808615Z [err]  2026-04-27 07:29:45  INFO               Watching... (RSI: 42.4, Entry Signal: False)
+2026-04-27T07:30:48.132743176Z [err]  2026-04-27 07:30:46  INFO      [07:30:45 UTC] Price: $26.6920 | RSI: 42.4 | Up BB: $27.3849 | Layer: 0 | PnL: $0.00
+2026-04-27T07:30:48.132748843Z [err]  2026-04-27 07:30:46  INFO               Watching... (RSI: 42.4, Entry Signal: False)
+2026-04-27T07:31:48.424729471Z [err]  2026-04-27 07:31:46  INFO      [07:31:46 UTC] Price: $26.6920 | RSI: 42.4 | Up BB: $27.3849 | Layer: 0 | PnL: $0.00
+2026-04-27T07:31:48.424733210Z [err]  2026-04-27 07:31:46  INFO               Watching... (RSI: 42.4, Entry Signal: False)
+2026-04-27T07:32:48.221134329Z [err]  2026-04-27 07:32:47  INFO      [07:32:46 UTC] Price: $26.6870 | RSI: 42.4 | Up BB: $27.3849 | Layer: 0 | PnL: $0.00
+2026-04-27T07:32:48.221137223Z [err]  2026-04-27 07:32:47  INFO               Watching... (RSI: 42.4, Entry Signal: False)
+2026-04-27T07:33:47.881615503Z [err]  2026-04-27 07:33:47  INFO      [07:33:47 UTC] Price: $26.6850 | RSI: 42.4 | Up BB: $27.3849 | Layer: 0 | PnL: $0.00
+2026-04-27T07:33:47.881618911Z [err]  2026-04-27 07:33:47  INFO               Watching... (RSI: 42.4, Entry Signal: False)
+2026-04-27T07:34:48.566557794Z [err]  2026-04-27 07:34:48  INFO      [07:34:47 UTC] Price: $26.6780 | RSI: 42.4 | Up BB: $27.3849 | Layer: 0 | PnL: $0.00
+2026-04-27T07:34:48.566563635Z [err]  2026-04-27 07:34:48  INFO               Watching... (RSI: 42.4, Entry Signal: False)
+2026-04-27T07:35:58.212642422Z [err]  2026-04-27 07:35:48  INFO      [07:35:48 UTC] Price: $26.6860 | RSI: 42.4 | Up BB: $27.3849 | Layer: 0 | PnL: $0.00
+2026-04-27T07:35:58.212647398Z [err]  2026-04-27 07:35:48  INFO               Watching... (RSI: 42.4, Entry Signal: False)
+2026-04-27T07:36:58.635722957Z [err]  2026-04-27 07:36:49  INFO      [07:36:48 UTC] Price: $26.6890 | RSI: 42.4 | Up BB: $27.3849 | Layer: 0 | PnL: $0.00
+2026-04-27T07:36:58.635730005Z [err]  2026-04-27 07:36:49  INFO               Watching... (RSI: 42.4, Entry Signal: False)
+2026-04-27T07:37:58.387631814Z [err]  2026-04-27 07:37:49  INFO      [07:37:49 UTC] Price: $26.6900 | RSI: 42.4 | Up BB: $27.3849 | Layer: 0 | PnL: $0.00
+2026-04-27T07:37:58.387636183Z [err]  2026-04-27 07:37:49  INFO               Watching... (RSI: 42.4, Entry Signal: False)
+2026-04-27T07:38:58.412253588Z [err]  2026-04-27 07:38:50  INFO      [07:38:49 UTC] Price: $26.5410 | RSI: 37.4 | Up BB: $27.3977 | Layer: 0 | PnL: $0.00
+2026-04-27T07:38:58.412259380Z [err]  2026-04-27 07:38:50  INFO               Watching... (RSI: 37.4, Entry Signal: False)
+2026-04-27T07:39:58.751747322Z [err]  2026-04-27 07:39:50  INFO      [07:39:50 UTC] Price: $26.5500 | RSI: 37.4 | Up BB: $27.3977 | Layer: 0 | PnL: $0.00
+2026-04-27T07:39:58.751751213Z [err]  2026-04-27 07:39:50  INFO               Watching... (RSI: 37.4, Entry Signal: False)
+2026-04-27T07:40:59.056597048Z [err]  2026-04-27 07:40:51  INFO      [07:40:50 UTC] Price: $26.5410 | RSI: 37.4 | Up BB: $27.3977 | Layer: 0 | PnL: $0.00
+2026-04-27T07:40:59.056600438Z [err]  2026-04-27 07:40:51  INFO               Watching... (RSI: 37.4, Entry Signal: False)
+2026-04-27T07:41:58.711839281Z [err]  2026-04-27 07:41:51  INFO      [07:41:51 UTC] Price: $26.5410 | RSI: 37.4 | Up BB: $27.3977 | Layer: 0 | PnL: $0.00
+2026-04-27T07:41:58.711841889Z [err]  2026-04-27 07:41:51  INFO               Watching... (RSI: 37.4, Entry Signal: False)
+2026-04-27T07:42:59.058274317Z [err]  2026-04-27 07:42:51  INFO      [07:42:51 UTC] Price: $26.5400 | RSI: 37.4 | Up BB: $27.3977 | Layer: 0 | PnL: $0.00
+2026-04-27T07:42:59.058279730Z [err]  2026-04-27 07:42:51  INFO               Watching... (RSI: 37.4, Entry Signal: False)
+2026-04-27T07:43:58.694806072Z [err]  2026-04-27 07:43:52  INFO      [07:43:51 UTC] Price: $26.5400 | RSI: 37.4 | Up BB: $27.3977 | Layer: 0 | PnL: $0.00
+2026-04-27T07:43:58.694809856Z [err]  2026-04-27 07:43:52  INFO               Watching... (RSI: 37.4, Entry Signal: False)
+2026-04-27T07:44:58.781137150Z [err]  2026-04-27 07:44:52  INFO      [07:44:52 UTC] Price: $26.5280 | RSI: 37.4 | Up BB: $27.3977 | Layer: 0 | PnL: $0.00
+2026-04-27T07:44:58.781141779Z [err]  2026-04-27 07:44:52  INFO               Watching... (RSI: 37.4, Entry Signal: False)
+2026-04-27T07:45:58.438126299Z [err]  2026-04-27 07:45:53  INFO      [07:45:52 UTC] Price: $26.5400 | RSI: 37.4 | Up BB: $27.3977 | Layer: 0 | PnL: $0.00
+2026-04-27T07:45:58.438129003Z [err]  2026-04-27 07:45:53  INFO               Watching... (RSI: 37.4, Entry Signal: False)
+2026-04-27T07:46:58.589959761Z [err]  2026-04-27 07:46:53  INFO               Watching... (RSI: 37.4, Entry Signal: False)
+2026-04-27T07:46:58.589996506Z [err]  2026-04-27 07:46:53  INFO      [07:46:53 UTC] Price: $26.5400 | RSI: 37.4 | Up BB: $27.3977 | Layer: 0 | PnL: $0.00
+2026-04-27T07:47:58.357594394Z [err]  2026-04-27 07:47:54  INFO      [07:47:53 UTC] Price: $26.5400 | RSI: 37.4 | Up BB: $27.3977 | Layer: 0 | PnL: $0.00
+2026-04-27T07:47:58.357597817Z [err]  2026-04-27 07:47:54  INFO               Watching... (RSI: 37.4, Entry Signal: False)
+2026-04-27T07:48:58.522978243Z [err]  2026-04-27 07:48:54  INFO      [07:48:54 UTC] Price: $26.5410 | RSI: 37.4 | Up BB: $27.3977 | Layer: 0 | PnL: $0.00
+2026-04-27T07:48:58.522981857Z [err]  2026-04-27 07:48:54  INFO               Watching... (RSI: 37.4, Entry Signal: False)
+2026-04-27T07:49:58.167705892Z [err]  2026-04-27 07:49:54  INFO      [07:49:54 UTC] Price: $26.5410 | RSI: 37.4 | Up BB: $27.3977 | Layer: 0 | PnL: $0.00
+2026-04-27T07:49:58.167710479Z [err]  2026-04-27 07:49:54  INFO               Watching... (RSI: 37.4, Entry Signal: False)
+2026-04-27T07:50:58.221925268Z [err]  2026-04-27 07:50:55  INFO      [07:50:54 UTC] Price: $26.5290 | RSI: 37.4 | Up BB: $27.3977 | Layer: 0 | PnL: $0.00
+2026-04-27T07:50:58.221928243Z [err]  2026-04-27 07:50:55  INFO               Watching... (RSI: 37.4, Entry Signal: False)
+2026-04-27T07:51:57.902976459Z [err]  2026-04-27 07:51:55  INFO      [07:51:55 UTC] Price: $26.5400 | RSI: 37.4 | Up BB: $27.3977 | Layer: 0 | PnL: $0.00
+2026-04-27T07:51:57.902979337Z [err]  2026-04-27 07:51:55  INFO               Watching... (RSI: 37.4, Entry Signal: False)
+2026-04-27T07:52:58.111981751Z [err]  2026-04-27 07:52:56  INFO               Watching... (RSI: 37.4, Entry Signal: False)
+2026-04-27T07:52:58.112052781Z [err]  2026-04-27 07:52:56  INFO      [07:52:55 UTC] Price: $26.5400 | RSI: 37.4 | Up BB: $27.3977 | Layer: 0 | PnL: $0.00
+2026-04-27T07:53:57.860082221Z [err]  2026-04-27 07:53:56  INFO      [07:53:56 UTC] Price: $26.5400 | RSI: 37.4 | Up BB: $27.3977 | Layer: 0 | PnL: $0.00
+2026-04-27T07:53:57.860086494Z [err]  2026-04-27 07:53:56  INFO               Watching... (RSI: 37.4, Entry Signal: False)
+2026-04-27T07:54:58.213297795Z [err]  2026-04-27 07:54:57  INFO      [07:54:56 UTC] Price: $26.5400 | RSI: 37.4 | Up BB: $27.3977 | Layer: 0 | PnL: $0.00
+2026-04-27T07:54:58.213302024Z [err]  2026-04-27 07:54:57  INFO               Watching... (RSI: 37.4, Entry Signal: False)
+2026-04-27T07:55:57.926683988Z [err]  2026-04-27 07:55:57  INFO      [07:55:57 UTC] Price: $26.5400 | RSI: 37.4 | Up BB: $27.3977 | Layer: 0 | PnL: $0.00
+2026-04-27T07:55:57.926689816Z [err]  2026-04-27 07:55:57  INFO               Watching... (RSI: 37.4, Entry Signal: False)
+2026-04-27T07:57:07.948183426Z [err]  2026-04-27 07:56:58  INFO      [07:56:57 UTC] Price: $26.5290 | RSI: 37.4 | Up BB: $27.3977 | Layer: 0 | PnL: $0.00
+2026-04-27T07:57:07.948192039Z [err]  2026-04-27 07:56:58  INFO               Watching... (RSI: 37.4, Entry Signal: False)
+2026-04-27T07:58:07.615595918Z [err]  2026-04-27 07:57:58  INFO      [07:57:58 UTC] Price: $26.5410 | RSI: 37.4 | Up BB: $27.3977 | Layer: 0 | PnL: $0.00
+2026-04-27T07:58:07.615600485Z [err]  2026-04-27 07:57:58  INFO               Watching... (RSI: 37.4, Entry Signal: False)
+2026-04-27T07:59:07.846552244Z [err]  2026-04-27 07:58:59  INFO      [07:58:58 UTC] Price: $26.5410 | RSI: 37.4 | Up BB: $27.3977 | Layer: 0 | PnL: $0.00
+2026-04-27T07:59:07.846555404Z [err]  2026-04-27 07:58:59  INFO               Watching... (RSI: 37.4, Entry Signal: False)
+2026-04-27T08:00:07.507300540Z [err]  2026-04-27 07:59:59  INFO      [07:59:59 UTC] Price: $26.5400 | RSI: 37.4 | Up BB: $27.3977 | Layer: 0 | PnL: $0.00
+2026-04-27T08:00:07.507304884Z [err]  2026-04-27 07:59:59  INFO               Watching... (RSI: 37.4, Entry Signal: False)
+2026-04-27T08:01:07.556476886Z [err]  2026-04-27 08:01:00  INFO      [08:00:59 UTC] Price: $26.5400 | RSI: 37.4 | Up BB: $27.3977 | Layer: 0 | PnL: $0.00
+2026-04-27T08:01:07.556479704Z [err]  2026-04-27 08:01:00  INFO               Watching... (RSI: 37.4, Entry Signal: False)
+2026-04-27T08:02:07.171334273Z [err]  2026-04-27 08:02:01  INFO      [08:02:00 UTC] Price: $26.5710 | RSI: 41.1 | Up BB: $27.3977 | Layer: 0 | PnL: $0.00
+2026-04-27T08:02:07.171341130Z [err]  2026-04-27 08:02:01  INFO               Watching... (RSI: 41.1, Entry Signal: False)
+2026-04-27T08:03:07.349721668Z [err]  2026-04-27 08:03:01  INFO      [08:03:01 UTC] Price: $26.6150 | RSI: 41.1 | Up BB: $27.3977 | Layer: 0 | PnL: $0.00
+2026-04-27T08:03:07.349725016Z [err]  2026-04-27 08:03:01  INFO               Watching... (RSI: 41.1, Entry Signal: False)
+2026-04-27T08:04:07.049545714Z [err]  2026-04-27 08:04:02  INFO      [08:04:01 UTC] Price: $26.6840 | RSI: 44.0 | Up BB: $27.3951 | Layer: 0 | PnL: $0.00
+2026-04-27T08:04:07.049548859Z [err]  2026-04-27 08:04:02  INFO               Watching... (RSI: 44.0, Entry Signal: False)
+2026-04-27T08:05:06.780399334Z [err]  2026-04-27 08:05:02  INFO      [08:05:02 UTC] Price: $26.6840 | RSI: 44.0 | Up BB: $27.3951 | Layer: 0 | PnL: $0.00
+2026-04-27T08:05:06.780403269Z [err]  2026-04-27 08:05:02  INFO               Watching... (RSI: 44.0, Entry Signal: False)
+2026-04-27T08:06:06.439752958Z [err]  2026-04-27 08:06:03  INFO      [08:06:02 UTC] Price: $26.6870 | RSI: 44.0 | Up BB: $27.3951 | Layer: 0 | PnL: $0.00
+2026-04-27T08:06:06.439756092Z [err]  2026-04-27 08:06:03  INFO               Watching... (RSI: 44.0, Entry Signal: False)
+2026-04-27T08:07:06.699947446Z [err]  2026-04-27 08:07:03  INFO      [08:07:03 UTC] Price: $26.7000 | RSI: 44.0 | Up BB: $27.3951 | Layer: 0 | PnL: $0.00
+2026-04-27T08:07:06.699951368Z [err]  2026-04-27 08:07:03  INFO               Watching... (RSI: 44.0, Entry Signal: False)
+2026-04-27T08:08:06.404644169Z [err]  2026-04-27 08:08:04  INFO      [08:08:03 UTC] Price: $26.7000 | RSI: 44.0 | Up BB: $27.3951 | Layer: 0 | PnL: $0.00
+2026-04-27T08:08:06.404649844Z [err]  2026-04-27 08:08:04  INFO               Watching... (RSI: 44.0, Entry Signal: False)
+2026-04-27T08:09:06.667161749Z [err]  2026-04-27 08:09:04  INFO      [08:09:04 UTC] Price: $26.6790 | RSI: 44.0 | Up BB: $27.3951 | Layer: 0 | PnL: $0.00
+2026-04-27T08:09:06.667164703Z [err]  2026-04-27 08:09:04  INFO               Watching... (RSI: 44.0, Entry Signal: False)
+2026-04-27T08:10:06.395921010Z [err]  2026-04-27 08:10:05  INFO      [08:10:04 UTC] Price: $26.7000 | RSI: 44.0 | Up BB: $27.3951 | Layer: 0 | PnL: $0.00
+2026-04-27T08:10:06.395924747Z [err]  2026-04-27 08:10:05  INFO               Watching... (RSI: 44.0, Entry Signal: False)
+2026-04-27T08:11:06.538859047Z [err]  2026-04-27 08:11:05  INFO      [08:11:05 UTC] Price: $26.7000 | RSI: 44.0 | Up BB: $27.3951 | Layer: 0 | PnL: $0.00
+2026-04-27T08:11:06.538863312Z [err]  2026-04-27 08:11:05  INFO               Watching... (RSI: 44.0, Entry Signal: False)
+2026-04-27T08:12:06.243735816Z [err]  2026-04-27 08:12:06  INFO      [08:12:05 UTC] Price: $26.6880 | RSI: 44.0 | Up BB: $27.3951 | Layer: 0 | PnL: $0.00
+2026-04-27T08:12:06.243741916Z [err]  2026-04-27 08:12:06  INFO               Watching... (RSI: 44.0, Entry Signal: False)
+2026-04-27T08:13:16.734105773Z [err]  2026-04-27 08:13:06  INFO      [08:13:06 UTC] Price: $26.6880 | RSI: 44.0 | Up BB: $27.3951 | Layer: 0 | PnL: $0.00
+2026-04-27T08:13:16.734109597Z [err]  2026-04-27 08:13:06  INFO               Watching... (RSI: 44.0, Entry Signal: False)
+2026-04-27T08:14:16.420491192Z [err]  2026-04-27 08:14:07  INFO      [08:14:06 UTC] Price: $26.6980 | RSI: 44.0 | Up BB: $27.3951 | Layer: 0 | PnL: $0.00
+2026-04-27T08:14:16.420495910Z [err]  2026-04-27 08:14:07  INFO               Watching... (RSI: 44.0, Entry Signal: False)
+2026-04-27T08:15:16.742706627Z [err]  2026-04-27 08:15:07  INFO      [08:15:07 UTC] Price: $26.5750 | RSI: 44.0 | Up BB: $27.3951 | Layer: 0 | PnL: $0.00
+2026-04-27T08:15:16.742709894Z [err]  2026-04-27 08:15:07  INFO               Watching... (RSI: 44.0, Entry Signal: False)
+2026-04-27T08:16:16.450508121Z [err]  2026-04-27 08:16:08  INFO      [08:16:07 UTC] Price: $26.6810 | RSI: 44.0 | Up BB: $27.3951 | Layer: 0 | PnL: $0.00
+2026-04-27T08:16:16.450513508Z [err]  2026-04-27 08:16:08  INFO               Watching... (RSI: 44.0, Entry Signal: False)
+2026-04-27T08:17:16.678279020Z [err]  2026-04-27 08:17:08  INFO      [08:17:08 UTC] Price: $26.6890 | RSI: 44.0 | Up BB: $27.3951 | Layer: 0 | PnL: $0.00
+2026-04-27T08:17:16.678282174Z [err]  2026-04-27 08:17:08  INFO               Watching... (RSI: 44.0, Entry Signal: False)
+2026-04-27T08:18:16.400046759Z [err]  2026-04-27 08:18:09  INFO      [08:18:08 UTC] Price: $26.6860 | RSI: 44.0 | Up BB: $27.3951 | Layer: 0 | PnL: $0.00
+2026-04-27T08:18:16.400050497Z [err]  2026-04-27 08:18:09  INFO               Watching... (RSI: 44.0, Entry Signal: False)
+2026-04-27T08:19:16.423566639Z [err]  2026-04-27 08:19:09  INFO      [08:19:09 UTC] Price: $26.6790 | RSI: 44.0 | Up BB: $27.3951 | Layer: 0 | PnL: $0.00
+2026-04-27T08:19:16.423569888Z [err]  2026-04-27 08:19:09  INFO               Watching... (RSI: 44.0, Entry Signal: False)
+2026-04-27T08:20:16.785127410Z [err]  2026-04-27 08:20:10  INFO      [08:20:09 UTC] Price: $26.6870 | RSI: 44.0 | Up BB: $27.3951 | Layer: 0 | PnL: $0.00
+2026-04-27T08:20:16.785131065Z [err]  2026-04-27 08:20:10  INFO               Watching... (RSI: 44.0, Entry Signal: False)
+2026-04-27T08:21:17.186590652Z [err]  2026-04-27 08:21:11  INFO      [08:21:10 UTC] Price: $26.5630 | RSI: 44.0 | Up BB: $27.3951 | Layer: 0 | PnL: $0.00
+2026-04-27T08:21:17.186593574Z [err]  2026-04-27 08:21:11  INFO               Watching... (RSI: 44.0, Entry Signal: False)
+2026-04-27T08:22:16.827299507Z [err]  2026-04-27 08:22:11  INFO      [08:22:11 UTC] Price: $26.6780 | RSI: 44.0 | Up BB: $27.3951 | Layer: 0 | PnL: $0.00
+2026-04-27T08:22:16.827306993Z [err]  2026-04-27 08:22:11  INFO               Watching... (RSI: 44.0, Entry Signal: False)
+2026-04-27T08:23:16.849559225Z [err]  2026-04-27 08:23:12  INFO      [08:23:11 UTC] Price: $26.6820 | RSI: 44.0 | Up BB: $27.3951 | Layer: 0 | PnL: $0.00
+2026-04-27T08:23:16.849562893Z [err]  2026-04-27 08:23:12  INFO               Watching... (RSI: 44.0, Entry Signal: False)
+2026-04-27T08:24:16.617350991Z [err]  2026-04-27 08:24:12  INFO      [08:24:12 UTC] Price: $26.6860 | RSI: 44.0 | Up BB: $27.3951 | Layer: 0 | PnL: $0.00
+2026-04-27T08:24:16.617355716Z [err]  2026-04-27 08:24:12  INFO               Watching... (RSI: 44.0, Entry Signal: False)
+2026-04-27T08:25:16.638033096Z [err]  2026-04-27 08:25:12  INFO      [08:25:12 UTC] Price: $26.7000 | RSI: 44.0 | Up BB: $27.3951 | Layer: 0 | PnL: $0.00
+2026-04-27T08:25:16.638036281Z [err]  2026-04-27 08:25:12  INFO               Watching... (RSI: 44.0, Entry Signal: False)
+2026-04-27T08:26:16.294976760Z [err]  2026-04-27 08:26:13  INFO      [08:26:12 UTC] Price: $26.7000 | RSI: 44.0 | Up BB: $27.3951 | Layer: 0 | PnL: $0.00
+2026-04-27T08:26:16.294981715Z [err]  2026-04-27 08:26:13  INFO               Watching... (RSI: 44.0, Entry Signal: False)
+2026-04-27T08:27:16.420459355Z [err]  2026-04-27 08:27:13  INFO      [08:27:13 UTC] Price: $26.6990 | RSI: 44.0 | Up BB: $27.3951 | Layer: 0 | PnL: $0.00
+2026-04-27T08:27:16.420463769Z [err]  2026-04-27 08:27:13  INFO               Watching... (RSI: 44.0, Entry Signal: False)
+2026-04-27T08:28:16.168039123Z [err]  2026-04-27 08:28:14  INFO      [08:28:13 UTC] Price: $26.5630 | RSI: 44.0 | Up BB: $27.3951 | Layer: 0 | PnL: $0.00
+2026-04-27T08:28:16.168042904Z [err]  2026-04-27 08:28:14  INFO               Watching... (RSI: 44.0, Entry Signal: False)
+2026-04-27T08:29:16.208441900Z [err]  2026-04-27 08:29:14  INFO      [08:29:14 UTC] Price: $26.6830 | RSI: 44.0 | Up BB: $27.3951 | Layer: 0 | PnL: $0.00
+2026-04-27T08:29:16.208447560Z [err]  2026-04-27 08:29:14  INFO               Watching... (RSI: 44.0, Entry Signal: False)
+2026-04-27T08:30:15.892536632Z [err]  2026-04-27 08:30:14  INFO      [08:30:14 UTC] Price: $26.6850 | RSI: 44.0 | Up BB: $27.3951 | Layer: 0 | PnL: $0.00
+2026-04-27T08:30:15.892540656Z [err]  2026-04-27 08:30:14  INFO               Watching... (RSI: 44.0, Entry Signal: False)
+2026-04-27T08:31:16.270137041Z [err]  2026-04-27 08:31:15  INFO      [08:31:14 UTC] Price: $26.6860 | RSI: 44.0 | Up BB: $27.3951 | Layer: 0 | PnL: $0.00
+2026-04-27T08:31:16.270140297Z [err]  2026-04-27 08:31:15  INFO               Watching... (RSI: 44.0, Entry Signal: False)
+2026-04-27T08:32:16.047238687Z [err]  2026-04-27 08:32:15  INFO      [08:32:15 UTC] Price: $26.6860 | RSI: 44.0 | Up BB: $27.3951 | Layer: 0 | PnL: $0.00
+2026-04-27T08:32:16.047245954Z [err]  2026-04-27 08:32:15  INFO               Watching... (RSI: 44.0, Entry Signal: False)
+2026-04-27T08:33:16.607445332Z [err]  2026-04-27 08:33:16  INFO      [08:33:15 UTC] Price: $26.7000 | RSI: 44.0 | Up BB: $27.3951 | Layer: 0 | PnL: $0.00
+2026-04-27T08:33:16.607449281Z [err]  2026-04-27 08:33:16  INFO               Watching... (RSI: 44.0, Entry Signal: False)
+2026-04-27T08:34:26.254876148Z [err]  2026-04-27 08:34:16  INFO      [08:34:16 UTC] Price: $26.7000 | RSI: 44.0 | Up BB: $27.3951 | Layer: 0 | PnL: $0.00
+2026-04-27T08:34:26.254887165Z [err]  2026-04-27 08:34:16  INFO               Watching... (RSI: 44.0, Entry Signal: False)
+2026-04-27T08:35:25.931658144Z [err]  2026-04-27 08:35:17  INFO      [08:35:16 UTC] Price: $26.6870 | RSI: 44.0 | Up BB: $27.3951 | Layer: 0 | PnL: $0.00
+2026-04-27T08:35:25.931664462Z [err]  2026-04-27 08:35:17  INFO               Watching... (RSI: 44.0, Entry Signal: False)
+2026-04-27T08:36:25.954188640Z [err]  2026-04-27 08:36:17  INFO      [08:36:17 UTC] Price: $26.6850 | RSI: 44.0 | Up BB: $27.3951 | Layer: 0 | PnL: $0.00
+2026-04-27T08:36:25.954194216Z [err]  2026-04-27 08:36:17  INFO               Watching... (RSI: 44.0, Entry Signal: False)
+2026-04-27T08:37:25.582418335Z [err]  2026-04-27 08:37:18  INFO      [08:37:17 UTC] Price: $26.6860 | RSI: 44.0 | Up BB: $27.3951 | Layer: 0 | PnL: $0.00
+2026-04-27T08:37:25.582441438Z [err]  2026-04-27 08:37:18  INFO               Watching... (RSI: 44.0, Entry Signal: False)
+2026-04-27T08:38:25.694756913Z [err]  2026-04-27 08:38:18  INFO      [08:38:18 UTC] Price: $26.6880 | RSI: 44.0 | Up BB: $27.3951 | Layer: 0 | PnL: $0.00
+2026-04-27T08:38:25.694759891Z [err]  2026-04-27 08:38:18  INFO               Watching... (RSI: 44.0, Entry Signal: False)
+2026-04-27T08:39:25.402984353Z [err]  2026-04-27 08:39:19  INFO      [08:39:18 UTC] Price: $26.6870 | RSI: 44.0 | Up BB: $27.3951 | Layer: 0 | PnL: $0.00
+2026-04-27T08:39:25.402988806Z [err]  2026-04-27 08:39:19  INFO               Watching... (RSI: 44.0, Entry Signal: False)
+2026-04-27T08:40:25.489463906Z [err]  2026-04-27 08:40:19  INFO      [08:40:19 UTC] Price: $26.7000 | RSI: 44.0 | Up BB: $27.3951 | Layer: 0 | PnL: $0.00
+2026-04-27T08:40:25.489470786Z [err]  2026-04-27 08:40:19  INFO               Watching... (RSI: 44.0, Entry Signal: False)
+2026-04-27T08:41:25.142670487Z [err]  2026-04-27 08:41:20  INFO      [08:41:19 UTC] Price: $26.7000 | RSI: 44.0 | Up BB: $27.3951 | Layer: 0 | PnL: $0.00
+2026-04-27T08:41:25.142675015Z [err]  2026-04-27 08:41:20  INFO               Watching... (RSI: 44.0, Entry Signal: False)
+2026-04-27T08:42:25.305414395Z [err]  2026-04-27 08:42:20  INFO      [08:42:20 UTC] Price: $26.6880 | RSI: 44.0 | Up BB: $27.3951 | Layer: 0 | PnL: $0.00
+2026-04-27T08:42:25.305422279Z [err]  2026-04-27 08:42:20  INFO               Watching... (RSI: 44.0, Entry Signal: False)
+2026-04-27T08:43:25.013465322Z [err]  2026-04-27 08:43:21  INFO      [08:43:20 UTC] Price: $26.6830 | RSI: 44.0 | Up BB: $27.3951 | Layer: 0 | PnL: $0.00
+2026-04-27T08:43:25.013471531Z [err]  2026-04-27 08:43:21  INFO               Watching... (RSI: 44.0, Entry Signal: False)
+2026-04-27T08:44:25.637120633Z [err]  2026-04-27 08:44:21  INFO      [08:44:21 UTC] Price: $26.6880 | RSI: 44.0 | Up BB: $27.3951 | Layer: 0 | PnL: $0.00
+2026-04-27T08:44:25.637125677Z [err]  2026-04-27 08:44:21  INFO               Watching... (RSI: 44.0, Entry Signal: False)
+2026-04-27T08:45:26.030277809Z [err]  2026-04-27 08:45:22  INFO      [08:45:21 UTC] Price: $26.6890 | RSI: 44.0 | Up BB: $27.3951 | Layer: 0 | PnL: $0.00
+2026-04-27T08:45:26.030281141Z [err]  2026-04-27 08:45:22  INFO               Watching... (RSI: 44.0, Entry Signal: False)
+2026-04-27T08:46:25.673453112Z [err]  2026-04-27 08:46:22  INFO      [08:46:22 UTC] Price: $26.7000 | RSI: 44.0 | Up BB: $27.3951 | Layer: 0 | PnL: $0.00
+2026-04-27T08:46:25.673457663Z [err]  2026-04-27 08:46:22  INFO               Watching... (RSI: 44.0, Entry Signal: False)
+2026-04-27T08:47:25.742786153Z [err]  2026-04-27 08:47:23  INFO      [08:47:22 UTC] Price: $26.7000 | RSI: 44.0 | Up BB: $27.3951 | Layer: 0 | PnL: $0.00
+2026-04-27T08:47:25.742789278Z [err]  2026-04-27 08:47:23  INFO               Watching... (RSI: 44.0, Entry Signal: False)
+2026-04-27T08:48:25.465186420Z [err]  2026-04-27 08:48:23  INFO      [08:48:23 UTC] Price: $26.6860 | RSI: 44.0 | Up BB: $27.3951 | Layer: 0 | PnL: $0.00
+2026-04-27T08:48:25.465190533Z [err]  2026-04-27 08:48:23  INFO               Watching... (RSI: 44.0, Entry Signal: False)
+2026-04-27T08:49:25.801109062Z [err]  2026-04-27 08:49:23  INFO      [08:49:23 UTC] Price: $26.7000 | RSI: 44.0 | Up BB: $27.3951 | Layer: 0 | PnL: $0.00
+2026-04-27T08:49:25.801112354Z [err]  2026-04-27 08:49:23  INFO               Watching... (RSI: 44.0, Entry Signal: False)
+2026-04-27T08:50:25.604506662Z [err]  2026-04-27 08:50:24  INFO      [08:50:23 UTC] Price: $26.7000 | RSI: 44.0 | Up BB: $27.3951 | Layer: 0 | PnL: $0.00
+2026-04-27T08:50:25.604511288Z [err]  2026-04-27 08:50:24  INFO               Watching... (RSI: 44.0, Entry Signal: False)
+2026-04-27T08:51:26.031330056Z [err]  2026-04-27 08:51:24  INFO      [08:51:24 UTC] Price: $26.6940 | RSI: 44.0 | Up BB: $27.3951 | Layer: 0 | PnL: $0.00
+2026-04-27T08:51:26.031333011Z [err]  2026-04-27 08:51:24  INFO               Watching... (RSI: 44.0, Entry Signal: False)
+2026-04-27T08:52:25.797691864Z [err]  2026-04-27 08:52:24  INFO      [08:52:24 UTC] Price: $26.6910 | RSI: 44.0 | Up BB: $27.3951 | Layer: 0 | PnL: $0.00
+2026-04-27T08:52:25.797695019Z [err]  2026-04-27 08:52:24  INFO               Watching... (RSI: 44.0, Entry Signal: False)
+2026-04-27T08:53:26.216610597Z [err]  2026-04-27 08:53:25  INFO      [08:53:24 UTC] Price: $26.5630 | RSI: 44.0 | Up BB: $27.3951 | Layer: 0 | PnL: $0.00
+2026-04-27T08:53:26.216613577Z [err]  2026-04-27 08:53:25  INFO               Watching... (RSI: 44.0, Entry Signal: False)
+2026-04-27T08:54:25.966985053Z [err]  2026-04-27 08:54:25  INFO      [08:54:25 UTC] Price: $26.7000 | RSI: 44.0 | Up BB: $27.3951 | Layer: 0 | PnL: $0.00
+2026-04-27T08:54:25.966988977Z [err]  2026-04-27 08:54:25  INFO               Watching... (RSI: 44.0, Entry Signal: False)
+2026-04-27T08:55:35.570503386Z [err]  2026-04-27 08:55:26  INFO      [08:55:25 UTC] Price: $26.7000 | RSI: 44.0 | Up BB: $27.3951 | Layer: 0 | PnL: $0.00
+2026-04-27T08:55:35.570507109Z [err]  2026-04-27 08:55:26  INFO               Watching... (RSI: 44.0, Entry Signal: False)
+2026-04-27T08:56:35.660477210Z [err]  2026-04-27 08:56:26  INFO      [08:56:26 UTC] Price: $26.7000 | RSI: 44.0 | Up BB: $27.3951 | Layer: 0 | PnL: $0.00
+2026-04-27T08:56:35.660481738Z [err]  2026-04-27 08:56:26  INFO               Watching... (RSI: 44.0, Entry Signal: False)
+2026-04-27T08:57:35.359233681Z [err]  2026-04-27 08:57:27  INFO      [08:57:26 UTC] Price: $26.7000 | RSI: 44.0 | Up BB: $27.3951 | Layer: 0 | PnL: $0.00
+2026-04-27T08:57:35.359238122Z [err]  2026-04-27 08:57:27  INFO               Watching... (RSI: 44.0, Entry Signal: False)
+2026-04-27T08:58:35.354468923Z [err]  2026-04-27 08:58:27  INFO      [08:58:27 UTC] Price: $27.1780 | RSI: 44.0 | Up BB: $27.3951 | Layer: 0 | PnL: $0.00
+2026-04-27T08:58:35.354471977Z [err]  2026-04-27 08:58:27  INFO               Watching... (RSI: 44.0, Entry Signal: False)
+2026-04-27T08:59:35.733382048Z [err]  2026-04-27 08:59:28  INFO      [08:59:27 UTC] Price: $26.8060 | RSI: 41.4 | Up BB: $27.3155 | Layer: 0 | PnL: $0.00
+2026-04-27T08:59:35.733388774Z [err]  2026-04-27 08:59:28  INFO               Watching... (RSI: 41.4, Entry Signal: False)
+2026-04-27T09:00:35.430204056Z [err]  2026-04-27 09:00:28  INFO      [09:00:28 UTC] Price: $26.8750 | RSI: 52.8 | Up BB: $27.3317 | Layer: 0 | PnL: $0.00
+2026-04-27T09:00:35.430207482Z [err]  2026-04-27 09:00:28  INFO               Watching... (RSI: 52.8, Entry Signal: False)
+2026-04-27T09:01:35.518570383Z [err]  2026-04-27 09:01:29  INFO      [09:01:28 UTC] Price: $26.7270 | RSI: 52.8 | Up BB: $27.3317 | Layer: 0 | PnL: $0.00
+2026-04-27T09:01:35.518574227Z [err]  2026-04-27 09:01:29  INFO               Watching... (RSI: 52.8, Entry Signal: False)
+2026-04-27T09:02:35.155602482Z [err]  2026-04-27 09:02:29  INFO      [09:02:29 UTC] Price: $26.6940 | RSI: 52.8 | Up BB: $27.3317 | Layer: 0 | PnL: $0.00
+2026-04-27T09:02:35.155606631Z [err]  2026-04-27 09:02:29  INFO               Watching... (RSI: 52.8, Entry Signal: False)
+2026-04-27T09:03:34.816764429Z [err]  2026-04-27 09:03:30  INFO      [09:03:29 UTC] Price: $26.6800 | RSI: 47.1 | Up BB: $27.2979 | Layer: 0 | PnL: $0.00
+2026-04-27T09:03:34.816768063Z [err]  2026-04-27 09:03:30  INFO               Watching... (RSI: 47.1, Entry Signal: False)
+2026-04-27T09:04:35.103401801Z [err]  2026-04-27 09:04:30  INFO      [09:04:30 UTC] Price: $26.6780 | RSI: 47.1 | Up BB: $27.2979 | Layer: 0 | PnL: $0.00
+2026-04-27T09:04:35.103406330Z [err]  2026-04-27 09:04:30  INFO               Watching... (RSI: 47.1, Entry Signal: False)
+2026-04-27T09:05:34.783410543Z [err]  2026-04-27 09:05:31  INFO      [09:05:30 UTC] Price: $26.6930 | RSI: 47.1 | Up BB: $27.2979 | Layer: 0 | PnL: $0.00
+2026-04-27T09:05:34.783414580Z [err]  2026-04-27 09:05:31  INFO               Watching... (RSI: 47.1, Entry Signal: False)
+2026-04-27T09:06:34.860187044Z [err]  2026-04-27 09:06:31  INFO      [09:06:31 UTC] Price: $26.6930 | RSI: 47.1 | Up BB: $27.2979 | Layer: 0 | PnL: $0.00
+2026-04-27T09:06:34.860191773Z [err]  2026-04-27 09:06:31  INFO               Watching... (RSI: 47.1, Entry Signal: False)
+2026-04-27T09:07:34.550567966Z [err]  2026-04-27 09:07:32  INFO      [09:07:31 UTC] Price: $26.7540 | RSI: 47.1 | Up BB: $27.2979 | Layer: 0 | PnL: $0.00
+2026-04-27T09:07:34.550574430Z [err]  2026-04-27 09:07:32  INFO               Watching... (RSI: 47.1, Entry Signal: False)
+2026-04-27T09:08:34.813688310Z [err]  2026-04-27 09:08:32  INFO      [09:08:32 UTC] Price: $26.7540 | RSI: 47.1 | Up BB: $27.2979 | Layer: 0 | PnL: $0.00
+2026-04-27T09:08:34.813691763Z [err]  2026-04-27 09:08:32  INFO               Watching... (RSI: 47.1, Entry Signal: False)
+2026-04-27T09:09:34.493347875Z [err]  2026-04-27 09:09:33  INFO      [09:09:32 UTC] Price: $26.7540 | RSI: 47.1 | Up BB: $27.2979 | Layer: 0 | PnL: $0.00
+2026-04-27T09:09:34.493354378Z [err]  2026-04-27 09:09:33  INFO               Watching... (RSI: 47.1, Entry Signal: False)
+2026-04-27T09:10:34.490401267Z [err]  2026-04-27 09:10:33  INFO      [09:10:33 UTC] Price: $26.7540 | RSI: 47.1 | Up BB: $27.2979 | Layer: 0 | PnL: $0.00
+2026-04-27T09:10:34.490405572Z [err]  2026-04-27 09:10:33  INFO               Watching... (RSI: 47.1, Entry Signal: False)
+2026-04-27T09:11:34.928048718Z [err]  2026-04-27 09:11:34  INFO      [09:11:33 UTC] Price: $26.7540 | RSI: 47.1 | Up BB: $27.2979 | Layer: 0 | PnL: $0.00
+2026-04-27T09:11:34.928053009Z [err]  2026-04-27 09:11:34  INFO               Watching... (RSI: 47.1, Entry Signal: False)
+2026-04-27T09:12:34.618865908Z [err]  2026-04-27 09:12:34  INFO      [09:12:34 UTC] Price: $26.7100 | RSI: 47.1 | Up BB: $27.2979 | Layer: 0 | PnL: $0.00
+2026-04-27T09:12:34.618869566Z [err]  2026-04-27 09:12:34  INFO               Watching... (RSI: 47.1, Entry Signal: False)
+2026-04-27T09:13:44.708320480Z [err]  2026-04-27 09:13:35  INFO      [09:13:34 UTC] Price: $26.8000 | RSI: 47.1 | Up BB: $27.2979 | Layer: 0 | PnL: $0.00
+2026-04-27T09:13:44.708324156Z [err]  2026-04-27 09:13:35  INFO               Watching... (RSI: 47.1, Entry Signal: False)
+2026-04-27T09:14:44.457780095Z [err]  2026-04-27 09:14:35  INFO      [09:14:35 UTC] Price: $26.8000 | RSI: 47.1 | Up BB: $27.2979 | Layer: 0 | PnL: $0.00
+2026-04-27T09:14:44.457783107Z [err]  2026-04-27 09:14:35  INFO               Watching... (RSI: 47.1, Entry Signal: False)
+2026-04-27T09:15:44.472312101Z [err]  2026-04-27 09:15:35  INFO      [09:15:35 UTC] Price: $26.8000 | RSI: 47.1 | Up BB: $27.2979 | Layer: 0 | PnL: $0.00
+2026-04-27T09:15:44.472315245Z [err]  2026-04-27 09:15:35  INFO               Watching... (RSI: 47.1, Entry Signal: False)
+2026-04-27T09:16:44.143761596Z [err]  2026-04-27 09:16:36  INFO      [09:16:35 UTC] Price: $26.8830 | RSI: 47.1 | Up BB: $27.2979 | Layer: 0 | PnL: $0.00
+2026-04-27T09:16:44.143765448Z [err]  2026-04-27 09:16:36  INFO               Watching... (RSI: 47.1, Entry Signal: False)
+2026-04-27T09:17:44.160350736Z [err]  2026-04-27 09:17:36  INFO      [09:17:36 UTC] Price: $26.8830 | RSI: 47.1 | Up BB: $27.2979 | Layer: 0 | PnL: $0.00
+2026-04-27T09:17:44.160354464Z [err]  2026-04-27 09:17:36  INFO               Watching... (RSI: 47.1, Entry Signal: False)
+2026-04-27T09:18:44.621339996Z [err]  2026-04-27 09:18:37  INFO      [09:18:36 UTC] Price: $26.8830 | RSI: 47.1 | Up BB: $27.2979 | Layer: 0 | PnL: $0.00
+2026-04-27T09:18:44.621342685Z [err]  2026-04-27 09:18:37  INFO               Watching... (RSI: 47.1, Entry Signal: False)
+2026-04-27T09:19:44.294980837Z [err]  2026-04-27 09:19:37  INFO      [09:19:37 UTC] Price: $26.8830 | RSI: 47.1 | Up BB: $27.2979 | Layer: 0 | PnL: $0.00
+2026-04-27T09:19:44.294983781Z [err]  2026-04-27 09:19:37  INFO               Watching... (RSI: 47.1, Entry Signal: False)
+2026-04-27T09:20:44.306530604Z [err]  2026-04-27 09:20:38  INFO      [09:20:37 UTC] Price: $26.8830 | RSI: 47.1 | Up BB: $27.2979 | Layer: 0 | PnL: $0.00
+2026-04-27T09:20:44.306533273Z [err]  2026-04-27 09:20:38  INFO               Watching... (RSI: 47.1, Entry Signal: False)
+2026-04-27T09:21:43.964046255Z [err]  2026-04-27 09:21:39  INFO      [09:21:38 UTC] Price: $26.8830 | RSI: 47.1 | Up BB: $27.2979 | Layer: 0 | PnL: $0.00
+2026-04-27T09:21:43.964049443Z [err]  2026-04-27 09:21:39  INFO               Watching... (RSI: 47.1, Entry Signal: False)
+2026-04-27T09:22:43.982885460Z [err]  2026-04-27 09:22:39  INFO      [09:22:39 UTC] Price: $26.8830 | RSI: 47.1 | Up BB: $27.2979 | Layer: 0 | PnL: $0.00
+2026-04-27T09:22:43.982888095Z [err]  2026-04-27 09:22:39  INFO               Watching... (RSI: 47.1, Entry Signal: False)
+2026-04-27T09:23:43.680399312Z [err]  2026-04-27 09:23:39  INFO      [09:23:39 UTC] Price: $26.8830 | RSI: 47.9 | Up BB: $27.2733 | Layer: 0 | PnL: $0.00
+2026-04-27T09:23:43.680402143Z [err]  2026-04-27 09:23:39  INFO               Watching... (RSI: 47.9, Entry Signal: False)
+2026-04-27T09:24:43.866449224Z [err]  2026-04-27 09:24:40  INFO      [09:24:39 UTC] Price: $26.7000 | RSI: 40.2 | Up BB: $27.2695 | Layer: 0 | PnL: $0.00
+2026-04-27T09:24:43.866451835Z [err]  2026-04-27 09:24:40  INFO               Watching... (RSI: 40.2, Entry Signal: False)
+2026-04-27T09:25:43.533882246Z [err]  2026-04-27 09:25:40  INFO      [09:25:40 UTC] Price: $26.5610 | RSI: 40.2 | Up BB: $27.2695 | Layer: 0 | PnL: $0.00
+2026-04-27T09:25:43.533887199Z [err]  2026-04-27 09:25:40  INFO               Watching... (RSI: 40.2, Entry Signal: False)
+2026-04-27T09:26:43.741577777Z [err]  2026-04-27 09:26:41  INFO      [09:26:40 UTC] Price: $26.5400 | RSI: 40.2 | Up BB: $27.2695 | Layer: 0 | PnL: $0.00
+2026-04-27T09:26:43.741581224Z [err]  2026-04-27 09:26:41  INFO               Watching... (RSI: 40.2, Entry Signal: False)
+2026-04-27T09:27:43.435994255Z [err]  2026-04-27 09:27:42  INFO      [09:27:41 UTC] Price: $26.5400 | RSI: 40.2 | Up BB: $27.2695 | Layer: 0 | PnL: $0.00
+2026-04-27T09:27:43.435997218Z [err]  2026-04-27 09:27:42  INFO               Watching... (RSI: 40.2, Entry Signal: False)
+2026-04-27T09:28:43.228968614Z [err]  2026-04-27 09:28:42  INFO      [09:28:42 UTC] Price: $26.5400 | RSI: 40.2 | Up BB: $27.2695 | Layer: 0 | PnL: $0.00
+2026-04-27T09:28:43.228975536Z [err]  2026-04-27 09:28:42  INFO               Watching... (RSI: 40.2, Entry Signal: False)
+2026-04-27T09:29:43.265781373Z [err]  2026-04-27 09:29:43  INFO      [09:29:42 UTC] Price: $26.5590 | RSI: 40.2 | Up BB: $27.2695 | Layer: 0 | PnL: $0.00
+2026-04-27T09:29:43.265784182Z [err]  2026-04-27 09:29:43  INFO               Watching... (RSI: 40.2, Entry Signal: False)
+2026-04-27T09:30:52.939828248Z [err]  2026-04-27 09:30:43  INFO      [09:30:43 UTC] Price: $26.4070 | RSI: 40.2 | Up BB: $27.2695 | Layer: 0 | PnL: $0.00
+2026-04-27T09:30:52.939833594Z [err]  2026-04-27 09:30:43  INFO               Watching... (RSI: 40.2, Entry Signal: False)
+2026-04-27T09:31:53.393745499Z [err]  2026-04-27 09:31:43  INFO      [09:31:43 UTC] Price: $26.3840 | RSI: 40.2 | Up BB: $27.2695 | Layer: 0 | PnL: $0.00
+2026-04-27T09:31:53.393749772Z [err]  2026-04-27 09:31:43  INFO               Watching... (RSI: 40.2, Entry Signal: False)
+2026-04-27T09:32:55.818493626Z [err]  2026-04-27 09:32:44  INFO      [09:32:43 UTC] Price: $26.3800 | RSI: 40.2 | Up BB: $27.2695 | Layer: 0 | PnL: $0.00
+2026-04-27T09:32:55.818497336Z [err]  2026-04-27 09:32:44  INFO               Watching... (RSI: 40.2, Entry Signal: False)
+2026-04-27T09:33:53.094466388Z [err]  2026-04-27 09:33:45  INFO      [09:33:44 UTC] Price: $26.3800 | RSI: 40.2 | Up BB: $27.2695 | Layer: 0 | PnL: $0.00
+2026-04-27T09:33:53.094469806Z [err]  2026-04-27 09:33:45  INFO               Watching... (RSI: 40.2, Entry Signal: False)
+2026-04-27T09:34:52.774801142Z [err]  2026-04-27 09:34:45  INFO      [09:34:45 UTC] Price: $26.5470 | RSI: 32.9 | Up BB: $27.2323 | Layer: 0 | PnL: $0.00
+2026-04-27T09:34:52.774805957Z [err]  2026-04-27 09:34:45  INFO               Watching... (RSI: 32.9, Entry Signal: False)
+2026-04-27T09:35:52.798101578Z [err]  2026-04-27 09:35:46  INFO      [09:35:45 UTC] Price: $26.5400 | RSI: 32.9 | Up BB: $27.2323 | Layer: 0 | PnL: $0.00
+2026-04-27T09:35:52.798106026Z [err]  2026-04-27 09:35:46  INFO               Watching... (RSI: 32.9, Entry Signal: False)
+2026-04-27T09:36:52.441007550Z [err]  2026-04-27 09:36:46  INFO      [09:36:46 UTC] Price: $26.5470 | RSI: 32.9 | Up BB: $27.2323 | Layer: 0 | PnL: $0.00
+2026-04-27T09:36:52.441010590Z [err]  2026-04-27 09:36:46  INFO               Watching... (RSI: 32.9, Entry Signal: False)
+2026-04-27T09:37:52.172773129Z [err]  2026-04-27 09:37:47  INFO      [09:37:46 UTC] Price: $26.5470 | RSI: 32.9 | Up BB: $27.2323 | Layer: 0 | PnL: $0.00
+2026-04-27T09:37:52.172778893Z [err]  2026-04-27 09:37:47  INFO               Watching... (RSI: 32.9, Entry Signal: False)
+2026-04-27T09:38:52.189185297Z [err]  2026-04-27 09:38:47  INFO      [09:38:47 UTC] Price: $26.5400 | RSI: 32.9 | Up BB: $27.2323 | Layer: 0 | PnL: $0.00
+2026-04-27T09:38:52.189188562Z [err]  2026-04-27 09:38:47  INFO               Watching... (RSI: 32.9, Entry Signal: False)
+2026-04-27T09:39:51.886333743Z [err]  2026-04-27 09:39:48  INFO      [09:39:47 UTC] Price: $26.5400 | RSI: 32.9 | Up BB: $27.2323 | Layer: 0 | PnL: $0.00
+2026-04-27T09:39:51.886338237Z [err]  2026-04-27 09:39:48  INFO               Watching... (RSI: 32.9, Entry Signal: False)
+2026-04-27T09:40:52.003728639Z [err]  2026-04-27 09:40:48  INFO      [09:40:48 UTC] Price: $26.5400 | RSI: 32.9 | Up BB: $27.2323 | Layer: 0 | PnL: $0.00
+2026-04-27T09:40:52.003733671Z [err]  2026-04-27 09:40:48  INFO               Watching... (RSI: 32.9, Entry Signal: False)
+2026-04-27T09:41:51.651717124Z [err]  2026-04-27 09:41:49  INFO      [09:41:48 UTC] Price: $26.5400 | RSI: 32.9 | Up BB: $27.2323 | Layer: 0 | PnL: $0.00
+2026-04-27T09:41:51.651723276Z [err]  2026-04-27 09:41:49  INFO               Watching... (RSI: 32.9, Entry Signal: False)
+2026-04-27T09:42:51.915184226Z [err]  2026-04-27 09:42:50  INFO      [09:42:49 UTC] Price: $26.5470 | RSI: 32.9 | Up BB: $27.2323 | Layer: 0 | PnL: $0.00
+2026-04-27T09:42:51.915187550Z [err]  2026-04-27 09:42:50  INFO               Watching... (RSI: 32.9, Entry Signal: False)
+2026-04-27T09:43:51.580768659Z [err]  2026-04-27 09:43:50  INFO      [09:43:50 UTC] Price: $26.5470 | RSI: 32.9 | Up BB: $27.2323 | Layer: 0 | PnL: $0.00
+2026-04-27T09:43:51.580772900Z [err]  2026-04-27 09:43:50  INFO               Watching... (RSI: 32.9, Entry Signal: False)
+2026-04-27T09:44:51.804970581Z [err]  2026-04-27 09:44:51  INFO      [09:44:50 UTC] Price: $26.5400 | RSI: 32.9 | Up BB: $27.2323 | Layer: 0 | PnL: $0.00
+2026-04-27T09:44:51.804973807Z [err]  2026-04-27 09:44:51  INFO               Watching... (RSI: 32.9, Entry Signal: False)
+2026-04-27T09:46:01.480262107Z [err]  2026-04-27 09:45:51  INFO      [09:45:51 UTC] Price: $26.5400 | RSI: 32.9 | Up BB: $27.2323 | Layer: 0 | PnL: $0.00
+2026-04-27T09:46:01.480267658Z [err]  2026-04-27 09:45:51  INFO               Watching... (RSI: 32.9, Entry Signal: False)
+2026-04-27T09:47:01.859697900Z [err]  2026-04-27 09:46:52  INFO      [09:46:51 UTC] Price: $26.5400 | RSI: 32.9 | Up BB: $27.2323 | Layer: 0 | PnL: $0.00
+2026-04-27T09:47:01.859701035Z [err]  2026-04-27 09:46:52  INFO               Watching... (RSI: 32.9, Entry Signal: False)
+2026-04-27T09:48:01.585667620Z [err]  2026-04-27 09:47:52  INFO      [09:47:52 UTC] Price: $26.6500 | RSI: 57.1 | Up BB: $27.1860 | Layer: 0 | PnL: $0.00
+2026-04-27T09:48:01.585671578Z [err]  2026-04-27 09:47:52  INFO               Watching... (RSI: 57.1, Entry Signal: False)
+2026-04-27T09:49:01.208784018Z [err]  2026-04-27 09:48:52  INFO      [09:48:52 UTC] Price: $26.5630 | RSI: 57.1 | Up BB: $27.1860 | Layer: 0 | PnL: $0.00
+2026-04-27T09:49:01.208787355Z [err]  2026-04-27 09:48:52  INFO               Watching... (RSI: 57.1, Entry Signal: False)
+2026-04-27T09:50:01.316400342Z [err]  2026-04-27 09:49:53  INFO      [09:49:52 UTC] Price: $26.7000 | RSI: 57.1 | Up BB: $27.1860 | Layer: 0 | PnL: $0.00
+2026-04-27T09:50:01.316405358Z [err]  2026-04-27 09:49:53  INFO               Watching... (RSI: 57.1, Entry Signal: False)
+2026-04-27T09:51:01.001544299Z [err]  2026-04-27 09:50:53  INFO      [09:50:53 UTC] Price: $26.7200 | RSI: 57.5 | Up BB: $27.1872 | Layer: 0 | PnL: $0.00
+2026-04-27T09:51:01.001548048Z [err]  2026-04-27 09:50:53  INFO               Watching... (RSI: 57.5, Entry Signal: False)
+2026-04-27T09:52:01.173544505Z [err]  2026-04-27 09:51:54  INFO      [09:51:53 UTC] Price: $26.5630 | RSI: 54.4 | Up BB: $27.1814 | Layer: 0 | PnL: $0.00
+2026-04-27T09:52:01.173547952Z [err]  2026-04-27 09:51:54  INFO               Watching... (RSI: 54.4, Entry Signal: False)
+2026-04-27T09:53:00.866705995Z [err]  2026-04-27 09:52:54  INFO      [09:52:54 UTC] Price: $26.5630 | RSI: 54.4 | Up BB: $27.1814 | Layer: 0 | PnL: $0.00
+2026-04-27T09:53:00.866710702Z [err]  2026-04-27 09:52:54  INFO               Watching... (RSI: 54.4, Entry Signal: False)
+2026-04-27T09:54:01.091189542Z [err]  2026-04-27 09:53:55  INFO      [09:53:54 UTC] Price: $26.5630 | RSI: 54.4 | Up BB: $27.1814 | Layer: 0 | PnL: $0.00
+2026-04-27T09:54:01.091194383Z [err]  2026-04-27 09:53:55  INFO               Watching... (RSI: 54.4, Entry Signal: False)
+2026-04-27T09:55:00.782598541Z [err]  2026-04-27 09:54:55  INFO      [09:54:55 UTC] Price: $26.5630 | RSI: 54.4 | Up BB: $27.1814 | Layer: 0 | PnL: $0.00
+2026-04-27T09:55:00.782601502Z [err]  2026-04-27 09:54:55  INFO               Watching... (RSI: 54.4, Entry Signal: False)
+2026-04-27T09:56:00.841947338Z [err]  2026-04-27 09:55:56  INFO      [09:55:55 UTC] Price: $26.6380 | RSI: 57.5 | Up BB: $27.1872 | Layer: 0 | PnL: $0.00
+2026-04-27T09:56:00.841950916Z [err]  2026-04-27 09:55:56  INFO               Watching... (RSI: 57.5, Entry Signal: False)
+2026-04-27T09:57:00.513736380Z [err]  2026-04-27 09:56:56  INFO      [09:56:56 UTC] Price: $26.7200 | RSI: 57.5 | Up BB: $27.1872 | Layer: 0 | PnL: $0.00
+2026-04-27T09:57:00.513742908Z [err]  2026-04-27 09:56:56  INFO               Watching... (RSI: 57.5, Entry Signal: False)
+2026-04-27T09:58:00.914842876Z [err]  2026-04-27 09:57:57  INFO      [09:57:56 UTC] Price: $26.7960 | RSI: 57.5 | Up BB: $27.1872 | Layer: 0 | PnL: $0.00
+2026-04-27T09:58:00.914846721Z [err]  2026-04-27 09:57:57  INFO               Watching... (RSI: 57.5, Entry Signal: False)
+2026-04-27T09:59:00.613533429Z [err]  2026-04-27 09:58:57  INFO      [09:58:57 UTC] Price: $26.7200 | RSI: 57.5 | Up BB: $27.1872 | Layer: 0 | PnL: $0.00
+2026-04-27T09:59:00.613537430Z [err]  2026-04-27 09:58:57  INFO               Watching... (RSI: 57.5, Entry Signal: False)
+2026-04-27T10:00:00.630336854Z [err]  2026-04-27 09:59:57  INFO      [09:59:57 UTC] Price: $26.6980 | RSI: 57.5 | Up BB: $27.1872 | Layer: 0 | PnL: $0.00
+2026-04-27T10:00:00.630341288Z [err]  2026-04-27 09:59:57  INFO               Watching... (RSI: 57.5, Entry Signal: False)
+2026-04-27T10:01:00.243418991Z [err]  2026-04-27 10:00:58  INFO      [10:00:57 UTC] Price: $26.7000 | RSI: 57.5 | Up BB: $27.1872 | Layer: 0 | PnL: $0.00
+2026-04-27T10:01:00.243423880Z [err]  2026-04-27 10:00:58  INFO               Watching... (RSI: 57.5, Entry Signal: False)
+2026-04-27T10:02:00.458409381Z [err]  2026-04-27 10:01:58  INFO      [10:01:58 UTC] Price: $26.5790 | RSI: 46.5 | Up BB: $27.1887 | Layer: 0 | PnL: $0.00
+2026-04-27T10:02:00.458412950Z [err]  2026-04-27 10:01:58  INFO               Watching... (RSI: 46.5, Entry Signal: False)
+2026-04-27T10:03:18.286709014Z [err]  2026-04-27 10:02:59  INFO      [10:02:58 UTC] Price: $26.4090 | RSI: 46.5 | Up BB: $27.1887 | Layer: 0 | PnL: $0.00
+2026-04-27T10:03:18.286714479Z [err]  2026-04-27 10:02:59  INFO               Watching... (RSI: 46.5, Entry Signal: False)
+2026-04-27T10:03:59.996581449Z [err]  2026-04-27 10:03:59  INFO      [10:03:59 UTC] Price: $26.3840 | RSI: 46.5 | Up BB: $27.1887 | Layer: 0 | PnL: $0.00
+2026-04-27T10:03:59.996586989Z [err]  2026-04-27 10:03:59  INFO               Watching... (RSI: 46.5, Entry Signal: False)
+2026-04-27T10:05:00.156329862Z [err]  2026-04-27 10:05:00  INFO      [10:04:59 UTC] Price: $26.3810 | RSI: 46.5 | Up BB: $27.1887 | Layer: 0 | PnL: $0.00
+2026-04-27T10:05:00.156332484Z [err]  2026-04-27 10:05:00  INFO               Watching... (RSI: 46.5, Entry Signal: False)
+2026-04-27T10:06:09.885664757Z [err]  2026-04-27 10:06:00  INFO      [10:06:00 UTC] Price: $26.3800 | RSI: 46.5 | Up BB: $27.1887 | Layer: 0 | PnL: $0.00
+2026-04-27T10:06:09.885668118Z [err]  2026-04-27 10:06:00  INFO               Watching... (RSI: 46.5, Entry Signal: False)
+2026-04-27T10:07:10.084091820Z [err]  2026-04-27 10:07:01  INFO      [10:07:00 UTC] Price: $26.3800 | RSI: 46.5 | Up BB: $27.1887 | Layer: 0 | PnL: $0.00
+2026-04-27T10:07:10.084095345Z [err]  2026-04-27 10:07:01  INFO               Watching... (RSI: 46.5, Entry Signal: False)
+2026-04-27T10:08:09.752249204Z [err]  2026-04-27 10:08:02  INFO      [10:08:01 UTC] Price: $26.6380 | RSI: 59.8 | Up BB: $27.2255 | Layer: 0 | PnL: $0.00
+2026-04-27T10:08:09.752255226Z [err]  2026-04-27 10:08:02  INFO               Watching... (RSI: 59.8, Entry Signal: False)
+2026-04-27T10:09:09.852611630Z [err]  2026-04-27 10:09:02  INFO      [10:09:02 UTC] Price: $27.0200 | RSI: 59.8 | Up BB: $27.2255 | Layer: 0 | PnL: $0.00
+2026-04-27T10:09:09.852614759Z [err]  2026-04-27 10:09:02  INFO               Watching... (RSI: 59.8, Entry Signal: False)
+2026-04-27T10:10:09.520685515Z [err]  2026-04-27 10:10:02  INFO      [10:10:02 UTC] Price: $28.6820 | RSI: 59.8 | Up BB: $27.2255 | Layer: 0 | PnL: $0.00
+2026-04-27T10:10:09.520689816Z [err]  2026-04-27 10:10:02  INFO      🚀  ENTRY SIGNAL MET (RSI=59.8, BB_Ok=True, EMA_Ok=True) — Opening initial short ($5.00)
+2026-04-27T10:10:09.520693245Z [err]  2026-04-27 10:10:02  INFO      📉  Placing SHORT: 0.1743 HYPE @ ~$28.6820 ($5.00 notional)
+2026-04-27T10:10:09.520696341Z [err]  2026-04-27 10:10:02  INFO      Order result: {'status': 'err', 'response': 'User or API Wallet 0xd7816b15deb0da56827e226a440d064207199adc does not exist.'}
+2026-04-27T10:11:09.801846409Z [err]  2026-04-27 10:11:03  INFO      [10:11:02 UTC] Price: $31.5200 | RSI: 59.8 | Up BB: $27.2255 | Layer: 0 | PnL: $0.00
+2026-04-27T10:11:09.801850936Z [err]  2026-04-27 10:11:03  INFO      🚀  ENTRY SIGNAL MET (RSI=59.8, BB_Ok=True, EMA_Ok=True) — Opening initial short ($5.00)
+2026-04-27T10:11:09.801888985Z [err]  2026-04-27 10:11:03  INFO      📉  Placing SHORT: 0.1586 HYPE @ ~$31.5200 ($5.00 notional)
+2026-04-27T10:11:09.801894228Z [err]  2026-04-27 10:11:03  INFO      Order result: {'status': 'err', 'response': 'User or API Wallet 0xd7816b15deb0da56827e226a440d064207199adc does not exist.'}
+2026-04-27T10:12:09.453902712Z [err]  2026-04-27 10:12:04  INFO      [10:12:03 UTC] Price: $30.0390 | RSI: 59.8 | Up BB: $27.2255 | Layer: 0 | PnL: $0.00
+2026-04-27T10:12:09.453908182Z [err]  2026-04-27 10:12:04  INFO      🚀  ENTRY SIGNAL MET (RSI=59.8, BB_Ok=True, EMA_Ok=True) — Opening initial short ($5.00)
+2026-04-27T10:12:09.453911462Z [err]  2026-04-27 10:12:04  INFO      📉  Placing SHORT: 0.1665 HYPE @ ~$30.0390 ($5.00 notional)
+2026-04-27T10:12:09.453915141Z [err]  2026-04-27 10:12:04  INFO      Order result: {'status': 'err', 'response': 'User or API Wallet 0xd7816b15deb0da56827e226a440d064207199adc does not exist.'}
+2026-04-27T10:13:09.604986523Z [err]  2026-04-27 10:13:05  INFO      🚀  ENTRY SIGNAL MET (RSI=59.8, BB_Ok=True, EMA_Ok=True) — Opening initial short ($5.00)
+2026-04-27T10:13:09.604987419Z [err]  2026-04-27 10:13:05  INFO      Order result: {'status': 'err', 'response': 'User or API Wallet 0xd7816b15deb0da56827e226a440d064207199adc does not exist.'}
+2026-04-27T10:13:09.604994176Z [err]  2026-04-27 10:13:05  INFO      📉  Placing SHORT: 0.1702 HYPE @ ~$29.3760 ($5.00 notional)
+2026-04-27T10:13:09.605016035Z [err]  2026-04-27 10:13:05  INFO      [10:13:04 UTC] Price: $29.3760 | RSI: 59.8 | Up BB: $27.2255 | Layer: 0 | PnL: $0.00
+2026-04-27T10:14:09.290681089Z [err]  2026-04-27 10:14:05  INFO      [10:14:05 UTC] Price: $28.5570 | RSI: 59.8 | Up BB: $27.2255 | Layer: 0 | PnL: $0.00
+2026-04-27T10:14:09.290685712Z [err]  2026-04-27 10:14:05  INFO      🚀  ENTRY SIGNAL MET (RSI=59.8, BB_Ok=True, EMA_Ok=True) — Opening initial short ($5.00)
+2026-04-27T10:14:09.290689265Z [err]  2026-04-27 10:14:05  INFO      📉  Placing SHORT: 0.1751 HYPE @ ~$28.5570 ($5.00 notional)
+2026-04-27T10:14:09.290692981Z [err]  2026-04-27 10:14:06  INFO      Order result: {'status': 'err', 'response': 'User or API Wallet 0xd7816b15deb0da56827e226a440d064207199adc does not exist.'}
+2026-04-27T10:15:09.603689966Z [err]  2026-04-27 10:15:06  INFO      [10:15:06 UTC] Price: $27.3700 | RSI: 59.8 | Up BB: $27.2255 | Layer: 0 | PnL: $0.00
+2026-04-27T10:15:09.603694372Z [err]  2026-04-27 10:15:06  INFO      🚀  ENTRY SIGNAL MET (RSI=59.8, BB_Ok=True, EMA_Ok=True) — Opening initial short ($5.00)
+2026-04-27T10:15:09.603698120Z [err]  2026-04-27 10:15:06  INFO      📉  Placing SHORT: 0.1827 HYPE @ ~$27.3700 ($5.00 notional)
+2026-04-27T10:15:09.603702048Z [err]  2026-04-27 10:15:06  INFO      Order result: {'status': 'err', 'response': 'User or API Wallet 0xd7816b15deb0da56827e226a440d064207199adc does not exist.'}
+2026-04-27T10:16:09.358250286Z [err]  2026-04-27 10:16:07  INFO      [10:16:06 UTC] Price: $27.2450 | RSI: 59.8 | Up BB: $27.2476 | Layer: 0 | PnL: $0.00
+2026-04-27T10:16:09.358254593Z [err]  2026-04-27 10:16:07  INFO               Watching... (RSI: 59.8, Entry Signal: False)
+2026-04-27T10:17:09.519599507Z [err]  2026-04-27 10:17:08  INFO      [10:17:07 UTC] Price: $27.0500 | RSI: 59.8 | Up BB: $27.2476 | Layer: 0 | PnL: $0.00
+2026-04-27T10:17:09.519603254Z [err]  2026-04-27 10:17:08  INFO               Watching... (RSI: 59.8, Entry Signal: False)
+2026-04-27T10:18:09.150458674Z [err]  2026-04-27 10:18:08  INFO      [10:18:08 UTC] Price: $30.0780 | RSI: 85.4 | Up BB: $28.9580 | Layer: 0 | PnL: $0.00
+2026-04-27T10:18:09.150461868Z [err]  2026-04-27 10:18:08  INFO      🚀  ENTRY SIGNAL MET (RSI=85.4, BB_Ok=True, EMA_Ok=True) — Opening initial short ($5.00)
+2026-04-27T10:18:09.150465098Z [err]  2026-04-27 10:18:08  INFO      📉  Placing SHORT: 0.1662 HYPE @ ~$30.0780 ($5.00 notional)
+2026-04-27T10:18:09.150468357Z [err]  2026-04-27 10:18:08  INFO      Order result: {'status': 'err', 'response': 'User or API Wallet 0xd7816b15deb0da56827e226a440d064207199adc does not exist.'}
+2026-04-27T10:19:09.422908144Z [err]  2026-04-27 10:19:09  INFO      📉  Placing SHORT: 0.1628 HYPE @ ~$30.7170 ($5.00 notional)
+2026-04-27T10:19:09.423027076Z [err]  2026-04-27 10:19:09  INFO      [10:19:08 UTC] Price: $30.7170 | RSI: 52.4 | Up BB: $27.2109 | Layer: 0 | PnL: $0.00
+2026-04-27T10:19:09.423031609Z [err]  2026-04-27 10:19:09  INFO      🚀  ENTRY SIGNAL MET (RSI=52.4, BB_Ok=True, EMA_Ok=True) — Opening initial short ($5.00)
+2026-04-27T10:19:09.509925594Z [err]  2026-04-27 10:19:09  INFO      Order result: {'status': 'err', 'response': 'User or API Wallet 0xd7816b15deb0da56827e226a440d064207199adc does not exist.'}
+2026-04-27T10:20:19.793945377Z [err]  2026-04-27 10:20:09  INFO      [10:20:09 UTC] Price: $29.7610 | RSI: 84.2 | Up BB: $28.7218 | Layer: 0 | PnL: $0.00
+2026-04-27T10:20:19.793945786Z [err]  2026-04-27 10:20:09  INFO      🚀  ENTRY SIGNAL MET (RSI=84.2, BB_Ok=True, EMA_Ok=True) — Opening initial short ($5.00)
+2026-04-27T10:20:19.793954375Z [err]  2026-04-27 10:20:09  INFO      📉  Placing SHORT: 0.168 HYPE @ ~$29.7610 ($5.00 notional)
+2026-04-27T10:20:19.793960240Z [err]  2026-04-27 10:20:10  INFO      Order result: {'status': 'err', 'response': 'User or API Wallet 0xd7816b15deb0da56827e226a440d064207199adc does not exist.'}
+2026-04-27T10:21:19.420244137Z [err]  2026-04-27 10:21:10  INFO      [10:21:10 UTC] Price: $27.6580 | RSI: 52.4 | Up BB: $27.2109 | Layer: 0 | PnL: $0.00
+2026-04-27T10:21:19.420249492Z [err]  2026-04-27 10:21:10  INFO      🚀  ENTRY SIGNAL MET (RSI=52.4, BB_Ok=True, EMA_Ok=True) — Opening initial short ($5.00)
+2026-04-27T10:21:19.420253916Z [err]  2026-04-27 10:21:10  INFO      📉  Placing SHORT: 0.1808 HYPE @ ~$27.6580 ($5.00 notional)
+2026-04-27T10:21:19.420257809Z [err]  2026-04-27 10:21:11  INFO      Order result: {'status': 'err', 'response': 'User or API Wallet 0xd7816b15deb0da56827e226a440d064207199adc does not exist.'}
+2026-04-27T10:22:19.950594123Z [err]  2026-04-27 10:22:11  INFO      [10:22:11 UTC] Price: $26.8120 | RSI: 52.4 | Up BB: $27.2109 | Layer: 0 | PnL: $0.00
+2026-04-27T10:22:19.950597856Z [err]  2026-04-27 10:22:11  INFO               Watching... (RSI: 52.4, Entry Signal: False)
+2026-04-27T10:23:19.645550128Z [err]  2026-04-27 10:23:12  INFO      [10:23:11 UTC] Price: $26.6980 | RSI: 52.4 | Up BB: $27.2109 | Layer: 0 | PnL: $0.00
+2026-04-27T10:23:19.645553326Z [err]  2026-04-27 10:23:12  INFO               Watching... (RSI: 52.4, Entry Signal: False)
+2026-04-27T10:24:19.942636298Z [err]  2026-04-27 10:24:12  INFO      [10:24:12 UTC] Price: $31.5200 | RSI: 86.1 | Up BB: $29.0997 | Layer: 0 | PnL: $0.00
+2026-04-27T10:24:19.942640660Z [err]  2026-04-27 10:24:12  INFO      🚀  ENTRY SIGNAL MET (RSI=86.1, BB_Ok=True, EMA_Ok=True) — Opening initial short ($5.00)
+2026-04-27T10:24:19.942643729Z [err]  2026-04-27 10:24:12  INFO      📉  Placing SHORT: 0.1586 HYPE @ ~$31.5200 ($5.00 notional)
+2026-04-27T10:24:19.942646643Z [err]  2026-04-27 10:24:13  INFO      Order result: {'status': 'err', 'response': 'User or API Wallet 0xd7816b15deb0da56827e226a440d064207199adc does not exist.'}
+2026-04-27T10:25:19.652981809Z [err]  2026-04-27 10:25:13  INFO      [10:25:13 UTC] Price: $31.5200 | RSI: 86.1 | Up BB: $29.0997 | Layer: 0 | PnL: $0.00
+2026-04-27T10:25:19.652984389Z [err]  2026-04-27 10:25:13  INFO      🚀  ENTRY SIGNAL MET (RSI=86.1, BB_Ok=True, EMA_Ok=True) — Opening initial short ($5.00)
+2026-04-27T10:25:19.652987277Z [err]  2026-04-27 10:25:13  INFO      📉  Placing SHORT: 0.1586 HYPE @ ~$31.5200 ($5.00 notional)
+2026-04-27T10:25:19.652990015Z [err]  2026-04-27 10:25:13  INFO      Order result: {'status': 'err', 'response': 'User or API Wallet 0xd7816b15deb0da56827e226a440d064207199adc does not exist.'}
+2026-04-27T10:26:19.664825412Z [err]  2026-04-27 10:26:14  INFO      [10:26:13 UTC] Price: $31.5200 | RSI: 86.1 | Up BB: $29.0997 | Layer: 0 | PnL: $0.00
+2026-04-27T10:26:19.664830389Z [err]  2026-04-27 10:26:14  INFO      🚀  ENTRY SIGNAL MET (RSI=86.1, BB_Ok=True, EMA_Ok=True) — Opening initial short ($5.00)
+2026-04-27T10:26:19.664845656Z [err]  2026-04-27 10:26:14  INFO      📉  Placing SHORT: 0.1586 HYPE @ ~$31.5200 ($5.00 notional)
+2026-04-27T10:26:19.664850412Z [err]  2026-04-27 10:26:14  INFO      Order result: {'status': 'err', 'response': 'User or API Wallet 0xd7816b15deb0da56827e226a440d064207199adc does not exist.'}
+2026-04-27T10:27:19.275722488Z [err]  2026-04-27 10:27:14  INFO      [10:27:14 UTC] Price: $31.5200 | RSI: 86.1 | Up BB: $29.0997 | Layer: 0 | PnL: $0.00
+2026-04-27T10:27:19.275726611Z [err]  2026-04-27 10:27:14  INFO      🚀  ENTRY SIGNAL MET (RSI=86.1, BB_Ok=True, EMA_Ok=True) — Opening initial short ($5.00)
+2026-04-27T10:27:19.275729457Z [err]  2026-04-27 10:27:14  INFO      📉  Placing SHORT: 0.1586 HYPE @ ~$31.5200 ($5.00 notional)
+2026-04-27T10:27:19.275732143Z [err]  2026-04-27 10:27:15  INFO      Order result: {'status': 'err', 'response': 'User or API Wallet 0xd7816b15deb0da56827e226a440d064207199adc does not exist.'}
+2026-04-27T10:28:19.349724875Z [err]  2026-04-27 10:28:15  INFO      [10:28:15 UTC] Price: $31.5200 | RSI: 86.1 | Up BB: $29.0997 | Layer: 0 | PnL: $0.00
+2026-04-27T10:28:19.349727984Z [err]  2026-04-27 10:28:15  INFO      🚀  ENTRY SIGNAL MET (RSI=86.1, BB_Ok=True, EMA_Ok=True) — Opening initial short ($5.00)
+2026-04-27T10:28:19.349730851Z [err]  2026-04-27 10:28:15  INFO      📉  Placing SHORT: 0.1586 HYPE @ ~$31.5200 ($5.00 notional)
+2026-04-27T10:28:19.349733684Z [err]  2026-04-27 10:28:15  INFO      Order result: {'status': 'err', 'response': 'User or API Wallet 0xd7816b15deb0da56827e226a440d064207199adc does not exist.'}
+2026-04-27T10:29:19.078589927Z [err]  2026-04-27 10:29:16  INFO      [10:29:15 UTC] Price: $31.5200 | RSI: 86.1 | Up BB: $29.0997 | Layer: 0 | PnL: $0.00
+2026-04-27T10:29:19.078595351Z [err]  2026-04-27 10:29:16  INFO      🚀  ENTRY SIGNAL MET (RSI=86.1, BB_Ok=True, EMA_Ok=True) — Opening initial short ($5.00)
+2026-04-27T10:29:19.078598711Z [err]  2026-04-27 10:29:16  INFO      📉  Placing SHORT: 0.1586 HYPE @ ~$31.5200 ($5.00 notional)
+2026-04-27T10:29:19.078602755Z [err]  2026-04-27 10:29:16  INFO      Order result: {'status': 'err', 'response': 'User or API Wallet 0xd7816b15deb0da56827e226a440d064207199adc does not exist.'}
+2026-04-27T10:30:19.102078679Z [err]  2026-04-27 10:30:16  INFO      [10:30:16 UTC] Price: $31.5200 | RSI: 86.1 | Up BB: $29.0997 | Layer: 0 | PnL: $0.00
+2026-04-27T10:30:19.102083933Z [err]  2026-04-27 10:30:16  INFO      🚀  ENTRY SIGNAL MET (RSI=86.1, BB_Ok=True, EMA_Ok=True) — Opening initial short ($5.00)
+2026-04-27T10:30:19.102086712Z [err]  2026-04-27 10:30:16  INFO      📉  Placing SHORT: 0.1586 HYPE @ ~$31.5200 ($5.00 notional)
+2026-04-27T10:30:19.102089644Z [err]  2026-04-27 10:30:17  INFO      Order result: {'status': 'err', 'response': 'User or API Wallet 0xd7816b15deb0da56827e226a440d064207199adc does not exist.'}
+2026-04-27T10:31:18.771748058Z [err]  2026-04-27 10:31:17  INFO      [10:31:17 UTC] Price: $31.4790 | RSI: 80.9 | Up BB: $29.9646 | Layer: 0 | PnL: $0.00
+2026-04-27T10:31:18.771752923Z [err]  2026-04-27 10:31:17  INFO      🚀  ENTRY SIGNAL MET (RSI=80.9, BB_Ok=True, EMA_Ok=True) — Opening initial short ($5.00)
+2026-04-27T10:31:18.771755929Z [err]  2026-04-27 10:31:17  INFO      📉  Placing SHORT: 0.1588 HYPE @ ~$31.4790 ($5.00 notional)
+2026-04-27T10:31:18.771758725Z [err]  2026-04-27 10:31:17  INFO      Order result: {'status': 'err', 'response': 'User or API Wallet 0xd7816b15deb0da56827e226a440d064207199adc does not exist.'}
+2026-04-27T10:32:18.791407758Z [err]  2026-04-27 10:32:18  INFO      [10:32:17 UTC] Price: $30.6010 | RSI: 77.7 | Up BB: $29.8678 | Layer: 0 | PnL: $0.00
+2026-04-27T10:32:18.791412364Z [err]  2026-04-27 10:32:18  INFO      🚀  ENTRY SIGNAL MET (RSI=77.7, BB_Ok=True, EMA_Ok=True) — Opening initial short ($5.00)
+2026-04-27T10:32:18.791415578Z [err]  2026-04-27 10:32:18  INFO      📉  Placing SHORT: 0.1634 HYPE @ ~$30.6010 ($5.00 notional)
+2026-04-27T10:32:18.791418776Z [err]  2026-04-27 10:32:18  INFO      Order result: {'status': 'err', 'response': 'User or API Wallet 0xd7816b15deb0da56827e226a440d064207199adc does not exist.'}
+2026-04-27T10:33:28.462402125Z [err]  2026-04-27 10:33:19  INFO      [10:33:18 UTC] Price: $30.5240 | RSI: 77.7 | Up BB: $29.8678 | Layer: 0 | PnL: $0.00
+2026-04-27T10:33:28.462408665Z [err]  2026-04-27 10:33:19  INFO      🚀  ENTRY SIGNAL MET (RSI=77.7, BB_Ok=True, EMA_Ok=True) — Opening initial short ($5.00)
+2026-04-27T10:33:28.462412493Z [err]  2026-04-27 10:33:19  INFO      📉  Placing SHORT: 0.1638 HYPE @ ~$30.5240 ($5.00 notional)
+2026-04-27T10:33:28.462415796Z [err]  2026-04-27 10:33:19  INFO      Order result: {'status': 'err', 'response': 'User or API Wallet 0xd7816b15deb0da56827e226a440d064207199adc does not exist.'}
+2026-04-27T10:34:28.771185436Z [err]  2026-04-27 10:34:20  INFO      [10:34:19 UTC] Price: $30.5400 | RSI: 77.7 | Up BB: $29.8678 | Layer: 0 | PnL: $0.00
+2026-04-27T10:34:28.771190739Z [err]  2026-04-27 10:34:20  INFO      🚀  ENTRY SIGNAL MET (RSI=77.7, BB_Ok=True, EMA_Ok=True) — Opening initial short ($5.00)
+2026-04-27T10:34:28.771195707Z [err]  2026-04-27 10:34:20  INFO      📉  Placing SHORT: 0.1637 HYPE @ ~$30.5400 ($5.00 notional)
+2026-04-27T10:34:28.771200389Z [err]  2026-04-27 10:34:20  INFO      Order result: {'status': 'err', 'response': 'User or API Wallet 0xd7816b15deb0da56827e226a440d064207199adc does not exist.'}
+2026-04-27T10:35:28.445107761Z [err]  2026-04-27 10:35:21  INFO      [10:35:20 UTC] Price: $31.0060 | RSI: 86.1 | Up BB: $30.1131 | Layer: 0 | PnL: $0.00
+2026-04-27T10:35:28.445119580Z [err]  2026-04-27 10:35:21  INFO      🚀  ENTRY SIGNAL MET (RSI=86.1, BB_Ok=True, EMA_Ok=True) — Opening initial short ($5.00)
+2026-04-27T10:35:28.445125081Z [err]  2026-04-27 10:35:21  INFO      📉  Placing SHORT: 0.1613 HYPE @ ~$31.0060 ($5.00 notional)
+2026-04-27T10:35:28.445129447Z [err]  2026-04-27 10:35:21  INFO      Order result: {'status': 'err', 'response': 'User or API Wallet 0xd7816b15deb0da56827e226a440d064207199adc does not exist.'}
+2026-04-27T10:36:28.480210333Z [err]  2026-04-27 10:36:22  INFO      [10:36:21 UTC] Price: $35.6200 | RSI: 91.3 | Up BB: $31.7316 | Layer: 0 | PnL: $0.00
+2026-04-27T10:36:28.480213655Z [err]  2026-04-27 10:36:22  INFO      🚀  ENTRY SIGNAL MET (RSI=91.3, BB_Ok=True, EMA_Ok=True) — Opening initial short ($5.00)
+2026-04-27T10:36:28.480216657Z [err]  2026-04-27 10:36:22  INFO      📉  Placing SHORT: 0.1404 HYPE @ ~$35.6200 ($5.00 notional)
+2026-04-27T10:36:28.480219572Z [err]  2026-04-27 10:36:22  INFO      Order result: {'status': 'err', 'response': 'User or API Wallet 0xd7816b15deb0da56827e226a440d064207199adc does not exist.'}
+2026-04-27T10:37:28.682341452Z [err]  2026-04-27 10:37:22  INFO      [10:37:22 UTC] Price: $35.6150 | RSI: 91.3 | Up BB: $31.7316 | Layer: 0 | PnL: $0.00
+2026-04-27T10:37:28.682344829Z [err]  2026-04-27 10:37:22  INFO      🚀  ENTRY SIGNAL MET (RSI=91.3, BB_Ok=True, EMA_Ok=True) — Opening initial short ($5.00)
+2026-04-27T10:37:28.682348554Z [err]  2026-04-27 10:37:22  INFO      📉  Placing SHORT: 0.1404 HYPE @ ~$35.6150 ($5.00 notional)
+2026-04-27T10:37:28.682351739Z [err]  2026-04-27 10:37:22  INFO      Order result: {'status': 'err', 'response': 'User or API Wallet 0xd7816b15deb0da56827e226a440d064207199adc does not exist.'}
+2026-04-27T10:38:28.394038044Z [err]  2026-04-27 10:38:23  INFO      [10:38:22 UTC] Price: $35.6150 | RSI: 91.3 | Up BB: $31.7316 | Layer: 0 | PnL: $0.00
+2026-04-27T10:38:28.394041640Z [err]  2026-04-27 10:38:23  INFO      🚀  ENTRY SIGNAL MET (RSI=91.3, BB_Ok=True, EMA_Ok=True) — Opening initial short ($5.00)
+2026-04-27T10:38:28.394045264Z [err]  2026-04-27 10:38:23  INFO      📉  Placing SHORT: 0.1404 HYPE @ ~$35.6150 ($5.00 notional)
+2026-04-27T10:38:28.394048763Z [err]  2026-04-27 10:38:23  INFO      Order result: {'status': 'err', 'response': 'User or API Wallet 0xd7816b15deb0da56827e226a440d064207199adc does not exist.'}
+2026-04-27T10:39:28.469400196Z [err]  2026-04-27 10:39:24  INFO      [10:39:23 UTC] Price: $35.6150 | RSI: 91.3 | Up BB: $31.7316 | Layer: 0 | PnL: $0.00
+2026-04-27T10:39:28.469404861Z [err]  2026-04-27 10:39:24  INFO      🚀  ENTRY SIGNAL MET (RSI=91.3, BB_Ok=True, EMA_Ok=True) — Opening initial short ($5.00)
+2026-04-27T10:39:28.469408308Z [err]  2026-04-27 10:39:24  INFO      📉  Placing SHORT: 0.1404 HYPE @ ~$35.6150 ($5.00 notional)
+2026-04-27T10:39:28.469412036Z [err]  2026-04-27 10:39:24  INFO      Order result: {'status': 'err', 'response': 'User or API Wallet 0xd7816b15deb0da56827e226a440d064207199adc does not exist.'}
+2026-04-27T10:40:28.153802348Z [err]  2026-04-27 10:40:24  INFO      [10:40:24 UTC] Price: $35.6150 | RSI: 91.3 | Up BB: $31.7316 | Layer: 0 | PnL: $0.00
+2026-04-27T10:40:28.153805403Z [err]  2026-04-27 10:40:24  INFO      🚀  ENTRY SIGNAL MET (RSI=91.3, BB_Ok=True, EMA_Ok=True) — Opening initial short ($5.00)
+2026-04-27T10:40:28.153808381Z [err]  2026-04-27 10:40:24  INFO      📉  Placing SHORT: 0.1404 HYPE @ ~$35.6150 ($5.00 notional)
+2026-04-27T10:40:28.153811366Z [err]  2026-04-27 10:40:25  INFO      Order result: {'status': 'err', 'response': 'User or API Wallet 0xd7816b15deb0da56827e226a440d064207199adc does not exist.'}
+2026-04-27T10:41:28.158147021Z [err]  2026-04-27 10:41:25  INFO      [10:41:25 UTC] Price: $35.6150 | RSI: 91.3 | Up BB: $31.7316 | Layer: 0 | PnL: $0.00
+2026-04-27T10:41:28.158150252Z [err]  2026-04-27 10:41:25  INFO      🚀  ENTRY SIGNAL MET (RSI=91.3, BB_Ok=True, EMA_Ok=True) — Opening initial short ($5.00)
+2026-04-27T10:41:28.158153409Z [err]  2026-04-27 10:41:25  INFO      📉  Placing SHORT: 0.1404 HYPE @ ~$35.6150 ($5.00 notional)
+2026-04-27T10:41:28.158157191Z [err]  2026-04-27 10:41:26  INFO      Order result: {'status': 'err', 'response': 'User or API Wallet 0xd7816b15deb0da56827e226a440d064207199adc does not exist.'}
+2026-04-27T10:42:27.786398937Z [err]  2026-04-27 10:42:26  INFO      [10:42:26 UTC] Price: $35.6150 | RSI: 91.3 | Up BB: $31.7316 | Layer: 0 | PnL: $0.00
+2026-04-27T10:42:27.786404295Z [err]  2026-04-27 10:42:26  INFO      🚀  ENTRY SIGNAL MET (RSI=91.3, BB_Ok=True, EMA_Ok=True) — Opening initial short ($5.00)
+2026-04-27T10:42:27.786412661Z [err]  2026-04-27 10:42:26  INFO      📉  Placing SHORT: 0.1404 HYPE @ ~$35.6150 ($5.00 notional)
+2026-04-27T10:42:27.786417053Z [err]  2026-04-27 10:42:26  INFO      Order result: {'status': 'err', 'response': 'User or API Wallet 0xd7816b15deb0da56827e226a440d064207199adc does not exist.'}
+2026-04-27T10:43:27.827456105Z [err]  2026-04-27 10:43:27  INFO      [10:43:26 UTC] Price: $35.6150 | RSI: 91.3 | Up BB: $31.7316 | Layer: 0 | PnL: $0.00
+2026-04-27T10:43:27.827460185Z [err]  2026-04-27 10:43:27  INFO      🚀  ENTRY SIGNAL MET (RSI=91.3, BB_Ok=True, EMA_Ok=True) — Opening initial short ($5.00)
+2026-04-27T10:43:27.827463692Z [err]  2026-04-27 10:43:27  INFO      📉  Placing SHORT: 0.1404 HYPE @ ~$35.6150 ($5.00 notional)
+2026-04-27T10:43:27.827467245Z [err]  2026-04-27 10:43:27  INFO      Order result: {'status': 'err', 'response': 'User or API Wallet 0xd7816b15deb0da56827e226a440d064207199adc does not exist.'}
+2026-04-27T10:44:37.563815229Z [err]  2026-04-27 10:44:28  INFO      [10:44:27 UTC] Price: $35.6150 | RSI: 91.3 | Up BB: $31.7316 | Layer: 0 | PnL: $0.00
+2026-04-27T10:44:37.563819718Z [err]  2026-04-27 10:44:28  INFO      🚀  ENTRY SIGNAL MET (RSI=91.3, BB_Ok=True, EMA_Ok=True) — Opening initial short ($5.00)
+2026-04-27T10:44:37.563822621Z [err]  2026-04-27 10:44:28  INFO      📉  Placing SHORT: 0.1404 HYPE @ ~$35.6150 ($5.00 notional)
+2026-04-27T10:44:37.563825709Z [err]  2026-04-27 10:44:28  INFO      Order result: {'status': 'err', 'response': 'User or API Wallet 0xd7816b15deb0da56827e226a440d064207199adc does not exist.'}
+2026-04-27T10:45:37.562762016Z [err]  2026-04-27 10:45:28  INFO      [10:45:28 UTC] Price: $35.6150 | RSI: 91.3 | Up BB: $31.7316 | Layer: 0 | PnL: $0.00
+2026-04-27T10:45:37.562765573Z [err]  2026-04-27 10:45:28  INFO      🚀  ENTRY SIGNAL MET (RSI=91.3, BB_Ok=True, EMA_Ok=True) — Opening initial short ($5.00)
+2026-04-27T10:45:37.562769386Z [err]  2026-04-27 10:45:28  INFO      📉  Placing SHORT: 0.1404 HYPE @ ~$35.6150 ($5.00 notional)
+2026-04-27T10:45:37.562772733Z [err]  2026-04-27 10:45:29  INFO      Order result: {'status': 'err', 'response': 'User or API Wallet 0xd7816b15deb0da56827e226a440d064207199adc does not exist.'}
+2026-04-27T10:46:37.187367694Z [err]  2026-04-27 10:46:29  INFO      [10:46:29 UTC] Price: $35.6150 | RSI: 91.3 | Up BB: $31.7316 | Layer: 0 | PnL: $0.00
+2026-04-27T10:46:37.187371247Z [err]  2026-04-27 10:46:29  INFO      🚀  ENTRY SIGNAL MET (RSI=91.3, BB_Ok=True, EMA_Ok=True) — Opening initial short ($5.00)
+2026-04-27T10:46:37.187375083Z [err]  2026-04-27 10:46:29  INFO      📉  Placing SHORT: 0.1404 HYPE @ ~$35.6150 ($5.00 notional)
+2026-04-27T10:46:37.187378112Z [err]  2026-04-27 10:46:29  INFO      Order result: {'status': 'err', 'response': 'User or API Wallet 0xd7816b15deb0da56827e226a440d064207199adc does not exist.'}
+2026-04-27T10:47:36.986213034Z [err]  2026-04-27 10:47:30  INFO      [10:47:29 UTC] Price: $35.6150 | RSI: 91.3 | Up BB: $31.7316 | Layer: 0 | PnL: $0.00
+2026-04-27T10:47:36.986218118Z [err]  2026-04-27 10:47:30  INFO      🚀  ENTRY SIGNAL MET (RSI=91.3, BB_Ok=True, EMA_Ok=True) — Opening initial short ($5.00)
+2026-04-27T10:47:36.986222236Z [err]  2026-04-27 10:47:30  INFO      📉  Placing SHORT: 0.1404 HYPE @ ~$35.6150 ($5.00 notional)
+2026-04-27T10:47:36.986226510Z [err]  2026-04-27 10:47:30  INFO      Order result: {'status': 'err', 'response': 'User or API Wallet 0xd7816b15deb0da56827e226a440d064207199adc does not exist.'}
+2026-04-27T10:48:37.146387948Z [err]  2026-04-27 10:48:31  INFO      [10:48:30 UTC] Price: $35.6150 | RSI: 91.3 | Up BB: $31.7316 | Layer: 0 | PnL: $0.00
+2026-04-27T10:48:37.146393480Z [err]  2026-04-27 10:48:31  INFO      🚀  ENTRY SIGNAL MET (RSI=91.3, BB_Ok=True, EMA_Ok=True) — Opening initial short ($5.00)
+2026-04-27T10:48:37.146397845Z [err]  2026-04-27 10:48:31  INFO      📉  Placing SHORT: 0.1404 HYPE @ ~$35.6150 ($5.00 notional)
+2026-04-27T10:48:37.146401129Z [err]  2026-04-27 10:48:31  INFO      Order result: {'status': 'err', 'response': 'User or API Wallet 0xd7816b15deb0da56827e226a440d064207199adc does not exist.'}
+2026-04-27T10:49:36.907139431Z [err]  2026-04-27 10:49:32  INFO      [10:49:31 UTC] Price: $35.6150 | RSI: 91.3 | Up BB: $31.7316 | Layer: 0 | PnL: $0.00
+2026-04-27T10:49:36.907143596Z [err]  2026-04-27 10:49:32  INFO      🚀  ENTRY SIGNAL MET (RSI=91.3, BB_Ok=True, EMA_Ok=True) — Opening initial short ($5.00)
+2026-04-27T10:49:36.907146550Z [err]  2026-04-27 10:49:32  INFO      📉  Placing SHORT: 0.1404 HYPE @ ~$35.6150 ($5.00 notional)
+2026-04-27T10:49:36.907149341Z [err]  2026-04-27 10:49:32  INFO      Order result: {'status': 'err', 'response': 'User or API Wallet 0xd7816b15deb0da56827e226a440d064207199adc does not exist.'}
+2026-04-27T10:50:37.194053246Z [err]  2026-04-27 10:50:32  INFO      [10:50:32 UTC] Price: $35.6150 | RSI: 91.3 | Up BB: $31.7316 | Layer: 0 | PnL: $0.00
+2026-04-27T10:50:37.194056066Z [err]  2026-04-27 10:50:32  INFO      🚀  ENTRY SIGNAL MET (RSI=91.3, BB_Ok=True, EMA_Ok=True) — Opening initial short ($5.00)
+2026-04-27T10:50:37.194059066Z [err]  2026-04-27 10:50:32  INFO      📉  Placing SHORT: 0.1404 HYPE @ ~$35.6150 ($5.00 notional)
+2026-04-27T10:50:37.194061843Z [err]  2026-04-27 10:50:33  INFO      Order result: {'status': 'err', 'response': 'User or API Wallet 0xd7816b15deb0da56827e226a440d064207199adc does not exist.'}
+2026-04-27T10:51:36.910188867Z [err]  2026-04-27 10:51:33  INFO      [10:51:33 UTC] Price: $35.6150 | RSI: 91.3 | Up BB: $31.7316 | Layer: 0 | PnL: $0.00
+2026-04-27T10:51:36.910195273Z [err]  2026-04-27 10:51:33  INFO      🚀  ENTRY SIGNAL MET (RSI=91.3, BB_Ok=True, EMA_Ok=True) — Opening initial short ($5.00)
+2026-04-27T10:51:36.910199174Z [err]  2026-04-27 10:51:33  INFO      📉  Placing SHORT: 0.1404 HYPE @ ~$35.6150 ($5.00 notional)
+2026-04-27T10:51:36.910203345Z [err]  2026-04-27 10:51:34  INFO      Order result: {'status': 'err', 'response': 'User or API Wallet 0xd7816b15deb0da56827e226a440d064207199adc does not exist.'}
+2026-04-27T10:52:37.064224836Z [err]  2026-04-27 10:52:34  INFO      [10:52:34 UTC] Price: $35.6150 | RSI: 91.3 | Up BB: $31.7316 | Layer: 0 | PnL: $0.00
+2026-04-27T10:52:37.064228743Z [err]  2026-04-27 10:52:34  INFO      🚀  ENTRY SIGNAL MET (RSI=91.3, BB_Ok=True, EMA_Ok=True) — Opening initial short ($5.00)
+2026-04-27T10:52:37.064232835Z [err]  2026-04-27 10:52:34  INFO      📉  Placing SHORT: 0.1404 HYPE @ ~$35.6150 ($5.00 notional)
+2026-04-27T10:52:37.064241517Z [err]  2026-04-27 10:52:34  INFO      Order result: {'status': 'err', 'response': 'User or API Wallet 0xd7816b15deb0da56827e226a440d064207199adc does not exist.'}
+2026-04-27T10:53:36.803893933Z [err]  2026-04-27 10:53:35  INFO      [10:53:34 UTC] Price: $35.6150 | RSI: 91.3 | Up BB: $31.7316 | Layer: 0 | PnL: $0.00
+2026-04-27T10:53:36.803900193Z [err]  2026-04-27 10:53:35  INFO      🚀  ENTRY SIGNAL MET (RSI=91.3, BB_Ok=True, EMA_Ok=True) — Opening initial short ($5.00)
+2026-04-27T10:53:36.803905533Z [err]  2026-04-27 10:53:35  INFO      📉  Placing SHORT: 0.1404 HYPE @ ~$35.6150 ($5.00 notional)
+2026-04-27T10:53:36.803908963Z [err]  2026-04-27 10:53:35  INFO      Order result: {'status': 'err', 'response': 'User or API Wallet 0xd7816b15deb0da56827e226a440d064207199adc does not exist.'}
+2026-04-27T10:54:37.165226052Z [err]  2026-04-27 10:54:36  INFO      [10:54:35 UTC] Price: $35.6150 | RSI: 91.3 | Up BB: $31.7316 | Layer: 0 | PnL: $0.00
+2026-04-27T10:54:37.165229002Z [err]  2026-04-27 10:54:36  INFO      🚀  ENTRY SIGNAL MET (RSI=91.3, BB_Ok=True, EMA_Ok=True) — Opening initial short ($5.00)
+2026-04-27T10:54:37.165232003Z [err]  2026-04-27 10:54:36  INFO      📉  Placing SHORT: 0.1404 HYPE @ ~$35.6150 ($5.00 notional)
+2026-04-27T10:54:37.165235166Z [err]  2026-04-27 10:54:36  INFO      Order result: {'status': 'err', 'response': 'User or API Wallet 0xd7816b15deb0da56827e226a440d064207199adc does not exist.'}
+2026-04-27T10:55:46.895327595Z [err]  2026-04-27 10:55:37  INFO      [10:55:36 UTC] Price: $35.6150 | RSI: 91.3 | Up BB: $31.7316 | Layer: 0 | PnL: $0.00
+2026-04-27T10:55:46.895330679Z [err]  2026-04-27 10:55:37  INFO      🚀  ENTRY SIGNAL MET (RSI=91.3, BB_Ok=True, EMA_Ok=True) — Opening initial short ($5.00)
+2026-04-27T10:55:46.895333761Z [err]  2026-04-27 10:55:37  INFO      📉  Placing SHORT: 0.1404 HYPE @ ~$35.6150 ($5.00 notional)
+2026-04-27T10:55:46.895336802Z [err]  2026-04-27 10:55:37  INFO      Order result: {'status': 'err', 'response': 'User or API Wallet 0xd7816b15deb0da56827e226a440d064207199adc does not exist.'}
+2026-04-27T10:56:47.027031560Z [err]  2026-04-27 10:56:38  INFO      [10:56:37 UTC] Price: $35.6150 | RSI: 91.3 | Up BB: $31.7316 | Layer: 0 | PnL: $0.00
+2026-04-27T10:56:47.027036770Z [err]  2026-04-27 10:56:38  INFO      🚀  ENTRY SIGNAL MET (RSI=91.3, BB_Ok=True, EMA_Ok=True) — Opening initial short ($5.00)
+2026-04-27T10:56:47.027042465Z [err]  2026-04-27 10:56:38  INFO      📉  Placing SHORT: 0.1404 HYPE @ ~$35.6150 ($5.00 notional)
+2026-04-27T10:56:47.027047918Z [err]  2026-04-27 10:56:38  INFO      Order result: {'status': 'err', 'response': 'User or API Wallet 0xd7816b15deb0da56827e226a440d064207199adc does not exist.'}
+2026-04-27T10:57:46.710424211Z [err]  2026-04-27 10:57:38  INFO      [10:57:38 UTC] Price: $35.6150 | RSI: 91.3 | Up BB: $31.7316 | Layer: 0 | PnL: $0.00
+2026-04-27T10:57:46.710426924Z [err]  2026-04-27 10:57:38  INFO      🚀  ENTRY SIGNAL MET (RSI=91.3, BB_Ok=True, EMA_Ok=True) — Opening initial short ($5.00)
+2026-04-27T10:57:46.710429516Z [err]  2026-04-27 10:57:38  INFO      📉  Placing SHORT: 0.1404 HYPE @ ~$35.6150 ($5.00 notional)
+2026-04-27T10:57:46.710432325Z [err]  2026-04-27 10:57:39  INFO      Order result: {'status': 'err', 'response': 'User or API Wallet 0xd7816b15deb0da56827e226a440d064207199adc does not exist.'}
+2026-04-27T10:58:46.890240158Z [err]  2026-04-27 10:58:39  INFO      [10:58:39 UTC] Price: $35.6150 | RSI: 91.3 | Up BB: $31.7316 | Layer: 0 | PnL: $0.00
+2026-04-27T10:58:46.890243510Z [err]  2026-04-27 10:58:39  INFO      🚀  ENTRY SIGNAL MET (RSI=91.3, BB_Ok=True, EMA_Ok=True) — Opening initial short ($5.00)
+2026-04-27T10:58:46.890247405Z [err]  2026-04-27 10:58:39  INFO      📉  Placing SHORT: 0.1404 HYPE @ ~$35.6150 ($5.00 notional)
+2026-04-27T10:58:46.890250648Z [err]  2026-04-27 10:58:39  INFO      Order result: {'status': 'err', 'response': 'User or API Wallet 0xd7816b15deb0da56827e226a440d064207199adc does not exist.'}
+2026-04-27T10:59:46.585068776Z [err]  2026-04-27 10:59:40  INFO      [10:59:39 UTC] Price: $35.6150 | RSI: 91.3 | Up BB: $31.7316 | Layer: 0 | PnL: $0.00
+2026-04-27T10:59:46.585073366Z [err]  2026-04-27 10:59:40  INFO      🚀  ENTRY SIGNAL MET (RSI=91.3, BB_Ok=True, EMA_Ok=True) — Opening initial short ($5.00)
+2026-04-27T10:59:46.585076386Z [err]  2026-04-27 10:59:40  INFO      📉  Placing SHORT: 0.1404 HYPE @ ~$35.6150 ($5.00 notional)
+2026-04-27T10:59:46.585079374Z [err]  2026-04-27 10:59:40  INFO      Order result: {'status': 'err', 'response': 'User or API Wallet 0xd7816b15deb0da56827e226a440d064207199adc does not exist.'}
+2026-04-27T11:00:46.601742952Z [err]  2026-04-27 11:00:41  INFO      [11:00:40 UTC] Price: $35.3260 | RSI: 90.2 | Up BB: $34.6806 | Layer: 0 | PnL: $0.00
+2026-04-27T11:00:46.601748501Z [err]  2026-04-27 11:00:41  INFO      🚀  ENTRY SIGNAL MET (RSI=90.2, BB_Ok=True, EMA_Ok=True) — Opening initial short ($5.00)
+2026-04-27T11:00:46.601752870Z [err]  2026-04-27 11:00:41  INFO      📉  Placing SHORT: 0.1415 HYPE @ ~$35.3260 ($5.00 notional)
+2026-04-27T11:00:46.601756478Z [err]  2026-04-27 11:00:41  INFO      Order result: {'status': 'err', 'response': 'User or API Wallet 0xd7816b15deb0da56827e226a440d064207199adc does not exist.'}
+2026-04-27T11:01:46.269180836Z [err]  2026-04-27 11:01:42  INFO      [11:01:41 UTC] Price: $35.2000 | RSI: 90.2 | Up BB: $34.6806 | Layer: 0 | PnL: $0.00
+2026-04-27T11:01:46.269184116Z [err]  2026-04-27 11:01:42  INFO      🚀  ENTRY SIGNAL MET (RSI=90.2, BB_Ok=True, EMA_Ok=True) — Opening initial short ($5.00)
+2026-04-27T11:01:46.269187322Z [err]  2026-04-27 11:01:42  INFO      📉  Placing SHORT: 0.142 HYPE @ ~$35.2000 ($5.00 notional)
+2026-04-27T11:01:46.269190422Z [err]  2026-04-27 11:01:42  INFO      Order result: {'status': 'err', 'response': 'User or API Wallet 0xd7816b15deb0da56827e226a440d064207199adc does not exist.'}
+2026-04-27T11:02:47.552103232Z [err]  2026-04-27 11:02:42  INFO      [11:02:42 UTC] Price: $35.4150 | RSI: 90.2 | Up BB: $34.6806 | Layer: 0 | PnL: $0.00
+2026-04-27T11:02:47.552108851Z [err]  2026-04-27 11:02:42  INFO      🚀  ENTRY SIGNAL MET (RSI=90.2, BB_Ok=True, EMA_Ok=True) — Opening initial short ($5.00)
+2026-04-27T11:02:47.552113325Z [err]  2026-04-27 11:02:42  INFO      📉  Placing SHORT: 0.1412 HYPE @ ~$35.4150 ($5.00 notional)
+2026-04-27T11:02:47.552117931Z [err]  2026-04-27 11:02:43  INFO      Order result: {'status': 'err', 'response': 'User or API Wallet 0xd7816b15deb0da56827e226a440d064207199adc does not exist.'}
+2026-04-27T11:03:46.381852881Z [err]  2026-04-27 11:03:44  INFO      [11:03:43 UTC] Price: $35.4150 | RSI: 90.2 | Up BB: $34.6806 | Layer: 0 | PnL: $0.00
+2026-04-27T11:03:46.381857506Z [err]  2026-04-27 11:03:44  INFO      🚀  ENTRY SIGNAL MET (RSI=90.2, BB_Ok=True, EMA_Ok=True) — Opening initial short ($5.00)
+2026-04-27T11:03:46.381877949Z [err]  2026-04-27 11:03:44  INFO      📉  Placing SHORT: 0.1412 HYPE @ ~$35.4150 ($5.00 notional)
+2026-04-27T11:03:46.381883281Z [err]  2026-04-27 11:03:44  INFO      Order result: {'status': 'err', 'response': 'User or API Wallet 0xd7816b15deb0da56827e226a440d064207199adc does not exist.'}
+2026-04-27T11:04:46.139838979Z [err]  2026-04-27 11:04:45  INFO      [11:04:44 UTC] Price: $35.4150 | RSI: 90.2 | Up BB: $34.6806 | Layer: 0 | PnL: $0.00
+2026-04-27T11:04:46.139842184Z [err]  2026-04-27 11:04:45  INFO      🚀  ENTRY SIGNAL MET (RSI=90.2, BB_Ok=True, EMA_Ok=True) — Opening initial short ($5.00)
+2026-04-27T11:04:46.139845110Z [err]  2026-04-27 11:04:45  INFO      📉  Placing SHORT: 0.1412 HYPE @ ~$35.4150 ($5.00 notional)
+2026-04-27T11:04:46.139848369Z [err]  2026-04-27 11:04:45  INFO      Order result: {'status': 'err', 'response': 'User or API Wallet 0xd7816b15deb0da56827e226a440d064207199adc does not exist.'}
+2026-04-27T11:05:46.215893856Z [err]  2026-04-27 11:05:46  INFO      [11:05:45 UTC] Price: $35.4150 | RSI: 90.2 | Up BB: $34.6806 | Layer: 0 | PnL: $0.00
+2026-04-27T11:05:46.215898185Z [err]  2026-04-27 11:05:46  INFO      🚀  ENTRY SIGNAL MET (RSI=90.2, BB_Ok=True, EMA_Ok=True) — Opening initial short ($5.00)
+2026-04-27T11:05:46.215902425Z [err]  2026-04-27 11:05:46  INFO      📉  Placing SHORT: 0.1412 HYPE @ ~$35.4150 ($5.00 notional)
+2026-04-27T11:05:46.366530578Z [err]  2026-04-27 11:05:46  INFO      Order result: {'status': 'err', 'response': 'User or API Wallet 0xd7816b15deb0da56827e226a440d064207199adc does not exist.'}
+2026-04-27T11:06:56.775360270Z [err]  2026-04-27 11:06:46  INFO      [11:06:46 UTC] Price: $35.4150 | RSI: 90.2 | Up BB: $34.6806 | Layer: 0 | PnL: $0.00
+2026-04-27T11:06:56.775372324Z [err]  2026-04-27 11:06:46  INFO      🚀  ENTRY SIGNAL MET (RSI=90.2, BB_Ok=True, EMA_Ok=True) — Opening initial short ($5.00)
+2026-04-27T11:06:56.775376964Z [err]  2026-04-27 11:06:46  INFO      📉  Placing SHORT: 0.1412 HYPE @ ~$35.4150 ($5.00 notional)
+2026-04-27T11:06:56.775382388Z [err]  2026-04-27 11:06:47  INFO      Order result: {'status': 'err', 'response': 'User or API Wallet 0xd7816b15deb0da56827e226a440d064207199adc does not exist.'}
+2026-04-27T11:07:56.476716612Z [err]  2026-04-27 11:07:47  INFO      [11:07:47 UTC] Price: $35.4150 | RSI: 90.2 | Up BB: $34.6806 | Layer: 0 | PnL: $0.00
+2026-04-27T11:07:56.476720516Z [err]  2026-04-27 11:07:47  INFO      🚀  ENTRY SIGNAL MET (RSI=90.2, BB_Ok=True, EMA_Ok=True) — Opening initial short ($5.00)
+2026-04-27T11:07:56.476723562Z [err]  2026-04-27 11:07:47  INFO      📉  Placing SHORT: 0.1412 HYPE @ ~$35.4150 ($5.00 notional)
+2026-04-27T11:07:56.476726358Z [err]  2026-04-27 11:07:47  INFO      Order result: {'status': 'err', 'response': 'User or API Wallet 0xd7816b15deb0da56827e226a440d064207199adc does not exist.'}
+2026-04-27T11:08:56.488637627Z [err]  2026-04-27 11:08:48  INFO      [11:08:47 UTC] Price: $35.4150 | RSI: 90.2 | Up BB: $34.6806 | Layer: 0 | PnL: $0.00
+2026-04-27T11:08:56.488641454Z [err]  2026-04-27 11:08:48  INFO      🚀  ENTRY SIGNAL MET (RSI=90.2, BB_Ok=True, EMA_Ok=True) — Opening initial short ($5.00)
+2026-04-27T11:08:56.488644497Z [err]  2026-04-27 11:08:48  INFO      📉  Placing SHORT: 0.1412 HYPE @ ~$35.4150 ($5.00 notional)
+2026-04-27T11:08:56.488647403Z [err]  2026-04-27 11:08:48  INFO      Order result: {'status': 'err', 'response': 'User or API Wallet 0xd7816b15deb0da56827e226a440d064207199adc does not exist.'}
+2026-04-27T11:09:56.132734692Z [err]  2026-04-27 11:09:48  INFO      [11:09:48 UTC] Price: $35.4150 | RSI: 90.2 | Up BB: $34.6806 | Layer: 0 | PnL: $0.00
+2026-04-27T11:09:56.132739066Z [err]  2026-04-27 11:09:48  INFO      🚀  ENTRY SIGNAL MET (RSI=90.2, BB_Ok=True, EMA_Ok=True) — Opening initial short ($5.00)
+2026-04-27T11:09:56.132742106Z [err]  2026-04-27 11:09:48  INFO      📉  Placing SHORT: 0.1412 HYPE @ ~$35.4150 ($5.00 notional)
+2026-04-27T11:09:56.132744721Z [err]  2026-04-27 11:09:49  INFO      Order result: {'status': 'err', 'response': 'User or API Wallet 0xd7816b15deb0da56827e226a440d064207199adc does not exist.'}
+2026-04-27T11:10:56.138312907Z [err]  2026-04-27 11:10:49  INFO      [11:10:49 UTC] Price: $35.4150 | RSI: 90.2 | Up BB: $34.6806 | Layer: 0 | PnL: $0.00
+2026-04-27T11:10:56.138319251Z [err]  2026-04-27 11:10:49  INFO      🚀  ENTRY SIGNAL MET (RSI=90.2, BB_Ok=True, EMA_Ok=True) — Opening initial short ($5.00)
+2026-04-27T11:10:56.138322716Z [err]  2026-04-27 11:10:49  INFO      📉  Placing SHORT: 0.1412 HYPE @ ~$35.4150 ($5.00 notional)
+2026-04-27T11:10:56.138325995Z [err]  2026-04-27 11:10:49  INFO      Order result: {'status': 'err', 'response': 'User or API Wallet 0xd7816b15deb0da56827e226a440d064207199adc does not exist.'}
+2026-04-27T11:11:56.436169799Z [err]  2026-04-27 11:11:50  INFO      [11:11:49 UTC] Price: $35.4150 | RSI: 90.2 | Up BB: $34.6806 | Layer: 0 | PnL: $0.00
+2026-04-27T11:11:56.436173049Z [err]  2026-04-27 11:11:50  INFO      🚀  ENTRY SIGNAL MET (RSI=90.2, BB_Ok=True, EMA_Ok=True) — Opening initial short ($5.00)
+2026-04-27T11:11:56.436176203Z [err]  2026-04-27 11:11:50  INFO      📉  Placing SHORT: 0.1412 HYPE @ ~$35.4150 ($5.00 notional)
+2026-04-27T11:11:56.436179117Z [err]  2026-04-27 11:11:50  INFO      Order result: {'status': 'err', 'response': 'User or API Wallet 0xd7816b15deb0da56827e226a440d064207199adc does not exist.'}
+2026-04-27T11:12:56.170948512Z [err]  2026-04-27 11:12:51  INFO      Order result: {'status': 'err', 'response': 'User or API Wallet 0xd7816b15deb0da56827e226a440d064207199adc does not exist.'}
+2026-04-27T11:12:56.170958533Z [err]  2026-04-27 11:12:51  INFO      🚀  ENTRY SIGNAL MET (RSI=90.2, BB_Ok=True, EMA_Ok=True) — Opening initial short ($5.00)
+2026-04-27T11:12:56.170966033Z [err]  2026-04-27 11:12:51  INFO      📉  Placing SHORT: 0.1412 HYPE @ ~$35.4160 ($5.00 notional)
+2026-04-27T11:12:56.170967444Z [err]  2026-04-27 11:12:51  INFO      [11:12:50 UTC] Price: $35.4160 | RSI: 90.2 | Up BB: $34.6806 | Layer: 0 | PnL: $0.00
+2026-04-27T11:13:56.208323382Z [err]  2026-04-27 11:13:52  INFO      [11:13:51 UTC] Price: $35.4160 | RSI: 90.2 | Up BB: $34.6806 | Layer: 0 | PnL: $0.00
+2026-04-27T11:13:56.208329588Z [err]  2026-04-27 11:13:52  INFO      🚀  ENTRY SIGNAL MET (RSI=90.2, BB_Ok=True, EMA_Ok=True) — Opening initial short ($5.00)
+2026-04-27T11:13:56.208334151Z [err]  2026-04-27 11:13:52  INFO      📉  Placing SHORT: 0.1412 HYPE @ ~$35.4160 ($5.00 notional)
+2026-04-27T11:13:56.208337998Z [err]  2026-04-27 11:13:52  INFO      Order result: {'status': 'err', 'response': 'User or API Wallet 0xd7816b15deb0da56827e226a440d064207199adc does not exist.'}
+2026-04-27T11:14:55.886585702Z [err]  2026-04-27 11:14:53  INFO      [11:14:52 UTC] Price: $35.4160 | RSI: 90.2 | Up BB: $34.6806 | Layer: 0 | PnL: $0.00
+2026-04-27T11:14:55.886589960Z [err]  2026-04-27 11:14:53  INFO      🚀  ENTRY SIGNAL MET (RSI=90.2, BB_Ok=True, EMA_Ok=True) — Opening initial short ($5.00)
+2026-04-27T11:14:55.886592903Z [err]  2026-04-27 11:14:53  INFO      📉  Placing SHORT: 0.1412 HYPE @ ~$35.4160 ($5.00 notional)
+2026-04-27T11:14:55.886595793Z [err]  2026-04-27 11:14:53  INFO      Order result: {'status': 'err', 'response': 'User or API Wallet 0xd7816b15deb0da56827e226a440d064207199adc does not exist.'}
+2026-04-27T11:15:56.234854572Z [err]  2026-04-27 11:15:53  INFO      [11:15:53 UTC] Price: $35.4160 | RSI: 90.2 | Up BB: $34.6806 | Layer: 0 | PnL: $0.00
+2026-04-27T11:15:56.234857956Z [err]  2026-04-27 11:15:53  INFO      🚀  ENTRY SIGNAL MET (RSI=90.2, BB_Ok=True, EMA_Ok=True) — Opening initial short ($5.00)
+2026-04-27T11:15:56.234861532Z [err]  2026-04-27 11:15:53  INFO      📉  Placing SHORT: 0.1412 HYPE @ ~$35.4160 ($5.00 notional)
+2026-04-27T11:15:56.234864958Z [err]  2026-04-27 11:15:53  INFO      Order result: {'status': 'err', 'response': 'User or API Wallet 0xd7816b15deb0da56827e226a440d064207199adc does not exist.'}
+2026-04-27T11:16:55.938883949Z [err]  2026-04-27 11:16:54  INFO      [11:16:53 UTC] Price: $35.4160 | RSI: 90.2 | Up BB: $34.6806 | Layer: 0 | PnL: $0.00
+2026-04-27T11:16:55.938888677Z [err]  2026-04-27 11:16:54  INFO      🚀  ENTRY SIGNAL MET (RSI=90.2, BB_Ok=True, EMA_Ok=True) — Opening initial short ($5.00)
+2026-04-27T11:16:55.938891425Z [err]  2026-04-27 11:16:54  INFO      📉  Placing SHORT: 0.1412 HYPE @ ~$35.4160 ($5.00 notional)
+2026-04-27T11:16:55.938894223Z [err]  2026-04-27 11:16:54  INFO      Order result: {'status': 'err', 'response': 'User or API Wallet 0xd7816b15deb0da56827e226a440d064207199adc does not exist.'}
+2026-04-27T11:17:56.362270020Z [err]  2026-04-27 11:17:55  INFO      [11:17:54 UTC] Price: $35.4170 | RSI: 90.2 | Up BB: $35.7348 | Layer: 0 | PnL: $0.00
+2026-04-27T11:17:56.362273102Z [err]  2026-04-27 11:17:55  INFO               Watching... (RSI: 90.2, Entry Signal: False)
+2026-04-27T11:18:55.992056950Z [err]  2026-04-27 11:18:55  INFO      [11:18:55 UTC] Price: $35.4170 | RSI: 90.2 | Up BB: $35.7348 | Layer: 0 | PnL: $0.00
+2026-04-27T11:18:55.992061750Z [err]  2026-04-27 11:18:55  INFO               Watching... (RSI: 90.2, Entry Signal: False)
+2026-04-27T11:20:06.297256756Z [err]  2026-04-27 11:19:56  INFO               Watching... (RSI: 90.2, Entry Signal: False)
+2026-04-27T11:20:06.297287636Z [err]  2026-04-27 11:19:56  INFO      [11:19:55 UTC] Price: $35.4170 | RSI: 90.2 | Up BB: $35.7348 | Layer: 0 | PnL: $0.00
+2026-04-27T11:21:05.971535442Z [err]  2026-04-27 11:20:56  INFO      [11:20:56 UTC] Price: $35.4170 | RSI: 90.2 | Up BB: $35.7348 | Layer: 0 | PnL: $0.00
+2026-04-27T11:21:05.971539063Z [err]  2026-04-27 11:20:56  INFO               Watching... (RSI: 90.2, Entry Signal: False)
