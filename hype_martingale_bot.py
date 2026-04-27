@@ -197,33 +197,39 @@ def get_position(info: Info, address: str, symbol: str) -> Optional[dict]:
     return None
 
 
-def place_market_short(exchange: Exchange, symbol: str, size_usd: float, mark_price: float) -> bool:
+def is_order_success(result: dict) -> bool:
+    if result.get("status") != "ok":
+        return False
+    try:
+        for s in result.get("response", {}).get("data", {}).get("statuses", []):
+            if "error" in s:
+                log.error(f"Order rejected by exchange: {s['error']}")
+                return False
+        return True
+    except:
+        return True
+
+def get_sz_decimals(info: Info, symbol: str) -> int:
+    try:
+        for asset in info.meta()["universe"]:
+            if asset["name"] == symbol:
+                return asset.get("szDecimals", 4)
+    except:
+        pass
+    return 4
+
+def place_market_short(exchange: Exchange, info: Info, symbol: str, size_usd: float, mark_price: float) -> bool:
     """Place a market short order. size_usd / mark_price = qty."""
     try:
-        qty = round(size_usd / mark_price, 4)
+        sz_decimals = get_sz_decimals(info, symbol)
+        qty = round(size_usd / mark_price, sz_decimals)
         if qty <= 0:
             log.warning("Calculated qty is zero, skipping order.")
             return False
         log.info(f"Placing SHORT: {qty} {symbol} @ ~${mark_price:.4f} (${size_usd:.2f} notional)")
         result = exchange.market_open(symbol, is_buy=False, sz=qty)
         log.info(f"Order result: {result}")
-
-        # BUG FIX: Hyperliquid returns status="ok" at the HTTP level even for
-        # rejected orders. The real error lives inside:
-        #   result['response']['data']['statuses'][0]['error']
-        # Always inspect inner statuses before trusting the outer "ok".
-        if result.get("status") != "ok":
-            log.error(f"Order rejected at top level: {result}")
-            return False
-        try:
-            statuses = result["response"]["data"]["statuses"]
-            for s in statuses:
-                if "error" in s:
-                    log.error(f"Order rejected by exchange: {s['error']}")
-                    return False
-        except (KeyError, TypeError, IndexError):
-            pass  # Cannot inspect inner statuses; trust the outer ok
-        return True
+        return is_order_success(result)
     except Exception as e:
         log.error(f"Failed to place short: {e}")
         return False
@@ -244,7 +250,7 @@ def close_position(exchange: Exchange, info: Info, address: str, symbol: str) ->
         log.info(f"🔒  Closing position: buying {qty} {symbol}")
         result = exchange.market_close(symbol)
         log.info(f"Close result: {result}")
-        return result.get("status") == "ok"
+        return is_order_success(result)
     except Exception as e:
         log.error(f"Failed to close position: {e}")
         return False
@@ -368,7 +374,7 @@ def run_bot():
                     if rsi >= CONFIG["rsi_overbought"] and bb_condition and adverse_move:
                         next_size = state.next_size_usd()
                         log.info(f"📊  Adverse move confirmed (+{martingale_threshold_pct}%). Adding martingale layer {state.layer + 1} (${next_size:.2f})")
-                        if place_market_short(exchange, CONFIG["symbol"], next_size, mark_price):
+                        if place_market_short(exchange, info, CONFIG["symbol"], next_size, mark_price):
                             # Update weighted average entry
                             total_before = state.total_size_usd
                             state.avg_entry_price = (
@@ -388,7 +394,7 @@ def run_bot():
                 elif entry_signal:
                     base_size = CONFIG["base_size_usd"]
                     log.info(f"🚀  ENTRY SIGNAL MET (RSI={rsi:.1f}, BB_Ok={bb_condition}, EMA_Ok={ema_condition}) — Opening initial short (${base_size:.2f})")
-                    if place_market_short(exchange, CONFIG["symbol"], base_size, mark_price):
+                    if place_market_short(exchange, info, CONFIG["symbol"], base_size, mark_price):
                         state.avg_entry_price = mark_price
                         state.total_size_usd = base_size
                         state.layer = 1
