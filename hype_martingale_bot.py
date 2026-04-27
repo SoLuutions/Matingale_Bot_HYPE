@@ -38,7 +38,8 @@ CONFIG = {
     "leverage": 3,                                     # Cross leverage
 
     # Initial position size (in USD notional)
-    "base_size_usd": 5.0,
+    # ⚠️  HYPE-PERP minimum order is 1 HYPE (~$41+). $5 caused "Order has invalid size."
+    "base_size_usd": 50.0,
 
     # Martingale
     "martingale_multiplier": 1.5,
@@ -203,10 +204,26 @@ def place_market_short(exchange: Exchange, symbol: str, size_usd: float, mark_pr
         if qty <= 0:
             log.warning("Calculated qty is zero, skipping order.")
             return False
-        log.info(f"📉  Placing SHORT: {qty} {symbol} @ ~${mark_price:.4f} (${size_usd:.2f} notional)")
+        log.info(f"Placing SHORT: {qty} {symbol} @ ~${mark_price:.4f} (${size_usd:.2f} notional)")
         result = exchange.market_open(symbol, is_buy=False, sz=qty)
         log.info(f"Order result: {result}")
-        return result.get("status") == "ok"
+
+        # BUG FIX: Hyperliquid returns status="ok" at the HTTP level even for
+        # rejected orders. The real error lives inside:
+        #   result['response']['data']['statuses'][0]['error']
+        # Always inspect inner statuses before trusting the outer "ok".
+        if result.get("status") != "ok":
+            log.error(f"Order rejected at top level: {result}")
+            return False
+        try:
+            statuses = result["response"]["data"]["statuses"]
+            for s in statuses:
+                if "error" in s:
+                    log.error(f"Order rejected by exchange: {s['error']}")
+                    return False
+        except (KeyError, TypeError, IndexError):
+            pass  # Cannot inspect inner statuses; trust the outer ok
+        return True
     except Exception as e:
         log.error(f"Failed to place short: {e}")
         return False
@@ -308,44 +325,59 @@ def run_bot():
                 # Take Profit
                 if mark_price <= tp_price:
                     log.info(f"✅  TAKE PROFIT hit at ${mark_price:.4f}!")
-                    if close_position(exchange, info, address, CONFIG["symbol"]):
-                        pnl_est = state.total_size_usd * (CONFIG["take_profit_pct"] / 100)
-                        state.session_pnl += pnl_est
-                        state.wins += 1
-                        state.total_trades += 1
-                        state.layer = 0
-                        state.total_size_usd = 0.0
-                        state.avg_entry_price = 0.0
-                        state.last_win_time = time.time()
-                        log.info(f"🏆  Win! Est. PnL: +${pnl_est:.2f}  |  Session: ${state.session_pnl:.2f}  |  W/L: {state.wins}/{state.losses}")
+                    closed = close_position(exchange, info, address, CONFIG["symbol"])
+                    # BUG FIX (Bug 3): Always reset state after a TP/SL trigger.
+                    # Previously the reset was inside `if close_position(...)`, so when
+                    # close_position returned False (no real position due to bad orders),
+                    # layer/total_size/avg_entry were never cleared and the bot looped
+                    # forever re-detecting TP without ever resetting.
+                    pnl_est = state.total_size_usd * (CONFIG["take_profit_pct"] / 100) if closed else 0.0
+                    state.session_pnl += pnl_est
+                    state.wins += 1
+                    state.total_trades += 1
+                    state.layer = 0
+                    state.total_size_usd = 0.0
+                    state.avg_entry_price = 0.0
+                    state.last_win_time = time.time()
+                    log.info(f"🏆  Win! Est. PnL: +${pnl_est:.2f}  |  Session: ${state.session_pnl:.2f}  |  W/L: {state.wins}/{state.losses}")
 
                 # Stop Loss
                 elif mark_price >= sl_price:
                     log.info(f"🛑  STOP LOSS hit at ${mark_price:.4f}!")
-                    if close_position(exchange, info, address, CONFIG["symbol"]):
-                        pnl_est = -state.total_size_usd * (CONFIG["stop_loss_pct"] / 100)
-                        state.session_pnl += pnl_est
-                        state.losses += 1
-                        state.total_trades += 1
-                        state.layer = 0
-                        state.total_size_usd = 0.0
-                        state.avg_entry_price = 0.0
-                        log.info(f"💸  Loss! Est. PnL: ${pnl_est:.2f}  |  Session: ${state.session_pnl:.2f}  |  W/L: {state.wins}/{state.losses}")
+                    closed = close_position(exchange, info, address, CONFIG["symbol"])
+                    # BUG FIX (Bug 3): Always reset state after TP/SL trigger (same reasoning as above).
+                    pnl_est = -state.total_size_usd * (CONFIG["stop_loss_pct"] / 100) if closed else 0.0
+                    state.session_pnl += pnl_est
+                    state.losses += 1
+                    state.total_trades += 1
+                    state.layer = 0
+                    state.total_size_usd = 0.0
+                    state.avg_entry_price = 0.0
+                    log.info(f"💸  Loss! Est. PnL: ${pnl_est:.2f}  |  Session: ${state.session_pnl:.2f}  |  W/L: {state.wins}/{state.losses}")
 
-                # Martingale re-entry: if RSI still overbought AND above upper BB (if filter is on)
-                elif rsi >= CONFIG["rsi_overbought"] and bb_condition and state.layer < CONFIG["max_layers"]:
-                    next_size = state.next_size_usd()
-                    log.info(f"📊  Conditions met for re-entry. Adding martingale layer {state.layer + 1} (${next_size:.2f})")
-                    if place_market_short(exchange, CONFIG["symbol"], next_size, mark_price):
-                        # Update weighted average entry
-                        total_before = state.total_size_usd
-                        state.avg_entry_price = (
-                            (state.avg_entry_price * total_before + mark_price * next_size)
-                            / (total_before + next_size)
-                        )
-                        state.total_size_usd += next_size
-                        state.layer += 1
-                        log.info(f"↗️   Layer {state.layer} added. Total: ${state.total_size_usd:.2f} | Avg entry: ${state.avg_entry_price:.4f}")
+                # Martingale re-entry
+                elif state.layer < CONFIG["max_layers"]:
+                    # BUG FIX (Bug 2): The original code re-entered every poll tick as long
+                    # as RSI >= rsi_overbought (always True when set to 0). There was no check
+                    # that price had actually moved adversely against the short. This caused all
+                    # 5 layers to fire at the same price within seconds of the initial entry.
+                    # Correct martingale logic: only add a layer when price has risen
+                    # meaningfully above the average short entry (i.e., the position is losing).
+                    martingale_threshold_pct = 1.0  # price must be >= 1% above avg entry
+                    adverse_move = mark_price >= state.avg_entry_price * (1 + martingale_threshold_pct / 100)
+                    if rsi >= CONFIG["rsi_overbought"] and bb_condition and adverse_move:
+                        next_size = state.next_size_usd()
+                        log.info(f"📊  Adverse move confirmed (+{martingale_threshold_pct}%). Adding martingale layer {state.layer + 1} (${next_size:.2f})")
+                        if place_market_short(exchange, CONFIG["symbol"], next_size, mark_price):
+                            # Update weighted average entry
+                            total_before = state.total_size_usd
+                            state.avg_entry_price = (
+                                (state.avg_entry_price * total_before + mark_price * next_size)
+                                / (total_before + next_size)
+                            )
+                            state.total_size_usd += next_size
+                            state.layer += 1
+                            log.info(f"↗️   Layer {state.layer} added. Total: ${state.total_size_usd:.2f} | Avg entry: ${state.avg_entry_price:.4f}")
 
             # ── No open position: look for fresh entry ──
             elif not state.in_position() and mark_price > 0:
