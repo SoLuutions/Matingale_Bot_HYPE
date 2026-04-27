@@ -46,13 +46,13 @@ CONFIG = {
 
     # Indicators
     "rsi_period": 14,
-    "rsi_overbought": 30,
+    "rsi_overbought": 70,                              # Fixed from 30 back to 70 (proper overbought level for shorting)
     "bb_period": 20,
     "bb_std": 2.0,
     "ema_period": 200,
     "use_bb_filter": True,                             # 🛡️ Only short if price >= Upper Bollinger Band
     "use_ema_filter": False,                           # 🛡️ Only short if price < EMA (Warning: reduces trades)
-    "candle_interval": "15m",                          # 1m, 5m, 15m, 1h, 4h
+    "candle_interval": "1m",                           # Lowered to 1m for much faster trade signals
 
     # Risk management
     "take_profit_pct": 2.0,                            # % below avg entry price
@@ -60,8 +60,8 @@ CONFIG = {
     "max_drawdown_usd": 100.0,                         # Hard stop: halt if session loss exceeds this
 
     # Timing
-    "poll_interval_seconds": 60,                       # How often to check RSI
-    "cooldown_after_win_seconds": 300,                 # Wait after TP before re-entering
+    "poll_interval_seconds": 10,                       # Reduced to 10s to react faster
+    "cooldown_after_win_seconds": 60,                  # Reduced to 60s for quicker re-entry after a win
 }
 
 # ──────────────────────────────────────────────
