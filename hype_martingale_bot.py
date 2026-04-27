@@ -46,11 +46,11 @@ CONFIG = {
 
     # Indicators
     "rsi_period": 14,
-    "rsi_overbought": 70,                              # Fixed from 30 back to 70 (proper overbought level for shorting)
+    "rsi_overbought": 0,                               # TEMPORARILY set to 0 for Testnet testing (was 70)
     "bb_period": 20,
     "bb_std": 2.0,
     "ema_period": 200,
-    "use_bb_filter": True,                             # 🛡️ Only short if price >= Upper Bollinger Band
+    "use_bb_filter": False,                            # TEMPORARILY disabled for Testnet testing (was True)
     "use_ema_filter": False,                           # 🛡️ Only short if price < EMA (Warning: reduces trades)
     "candle_interval": "1m",                           # Lowered to 1m for much faster trade signals
 
