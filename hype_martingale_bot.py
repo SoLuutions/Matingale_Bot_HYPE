@@ -34,11 +34,10 @@ CONFIG = {
     "use_mainnet": False,                              # Set True for real money!
 
     # Asset
-    "symbol": "HYPE",
-    "leverage": 3,                                     # Cross leverage
+    "symbol": "BTC",
+    "leverage": 10,                                    # Matching 10x from your screenshot
 
     # Initial position size (in USD notional)
-    # ⚠️  HYPE-PERP minimum order is 1 HYPE (~$41+). $5 caused "Order has invalid size."
     "base_size_usd": 50.0,
 
     # Martingale
@@ -281,8 +280,8 @@ def run_bot():
 
     # ── Set leverage ──
     try:
-        exchange.update_leverage(CONFIG["leverage"], CONFIG["symbol"], is_cross=True)
-        log.info(f"✅  Leverage set to {CONFIG['leverage']}x cross")
+        exchange.update_leverage(CONFIG["leverage"], CONFIG["symbol"], is_cross=False)
+        log.info(f"✅  Leverage set to {CONFIG['leverage']}x isolated")
     except Exception as e:
         log.warning(f"Could not set leverage: {e}")
 
@@ -363,15 +362,12 @@ def run_bot():
 
                 # Martingale re-entry
                 elif state.layer < CONFIG["max_layers"]:
-                    # BUG FIX (Bug 2): The original code re-entered every poll tick as long
-                    # as RSI >= rsi_overbought (always True when set to 0). There was no check
-                    # that price had actually moved adversely against the short. This caused all
-                    # 5 layers to fire at the same price within seconds of the initial entry.
-                    # Correct martingale logic: only add a layer when price has risen
-                    # meaningfully above the average short entry (i.e., the position is losing).
+                    # BUG FIX: The original code required RSI and BB to trigger martingale layers.
+                    # This prevented the bot from averaging down! Martingale layers should trigger
+                    # purely based on the price moving against us.
                     martingale_threshold_pct = 1.0  # price must be >= 1% above avg entry
                     adverse_move = mark_price >= state.avg_entry_price * (1 + martingale_threshold_pct / 100)
-                    if rsi >= CONFIG["rsi_overbought"] and bb_condition and adverse_move:
+                    if adverse_move:
                         next_size = state.next_size_usd()
                         log.info(f"📊  Adverse move confirmed (+{martingale_threshold_pct}%). Adding martingale layer {state.layer + 1} (${next_size:.2f})")
                         if place_market_short(exchange, info, CONFIG["symbol"], next_size, mark_price):
